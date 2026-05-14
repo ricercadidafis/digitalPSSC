@@ -1,3 +1,6 @@
+---
+title: Capitolo 2 - Tempo e misura
+---
 ## Capitolo 2 – Tempo e misura
 
 I paragrafi iniziali di questo [[PSSC_Cap2_Trad#Capitolo 2 - Tempo e misura|capitolo]] sono un'introduzione non solo alla misura del tempo, ma ad uno dei problemi fondamentali della fisica (e del suo insegnamento): andare oltre i nostri sensi e le esperienze familiari per arrivare a un quadro organico del mondo fisico — un mondo i cui aspetti sono spesso troppo grandi o troppo piccoli, troppo veloci o troppo lenti, troppo complessi o troppo lontani per comprenderli direttamente attraverso i sensi.

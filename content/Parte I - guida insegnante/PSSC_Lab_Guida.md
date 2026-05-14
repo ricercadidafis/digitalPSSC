@@ -1,3 +1,6 @@
+---
+title: Guida per gli esperimenti di laboratorio
+---
 # GUIDA DELL'INSEGNANTE PER GLI ESPERIMENTI DI LABORATORIO
 
 ## 1. La funzione del laboratorio in questo corso

@@ -1,3 +1,6 @@
+---
+title: Introduzione alla guida
+---
 # INTRODUZIONE ALLA GUIDA DELL'INSEGNANTE
 
 Il corso PSSC è più di un libro di testo. È un coordinato complesso di mezzi per l'insegnamento della fisica nelle scuole secondarie. Comprende un testo, una guida di laboratorio, l'attrezzatura di laboratorio, film illustrativi, test per la valutazione degli allievi e una raccolta di materiale supplementare di lettura, la *Science Study Series*, che si va facendo sempre più ampia. Un certo numero di università e di scuole superiori hanno svolto un corso per insegnanti sul materiale PSSC, per illustrare loro il contenuto e l'obiettivo del PSSC. Un buon materiale può contribuire a fare un buon corso, ma l'insegnante è l'elemento che determinerà il successo di un corso PSSC. L'insegnante dovrà interpretare e chiarire la sostanza del corso... La sua esposizione può essere adattata volta per volta alle necessità ed alle capacità dei suoi studenti. Solo l'insegnante potrà accendere in loro quello stimolo alla ricerca e quella ispirazione che vengono da un sostenitore competente ed entusiasta, sensibile agli interessi personali ed alle difficoltà di assimilazione degli studenti.

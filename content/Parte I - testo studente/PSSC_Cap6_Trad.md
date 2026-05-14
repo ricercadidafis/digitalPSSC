@@ -1,10 +1,13 @@
+---
+title: Capitolo 6 - Vettori
+---
 # Capitolo 6 - Vettori
 
 Un'automobile che si muove lungo una strada percorre una traiettoria predeterminata, ma esistono molti movimenti in natura per i quali la traiettoria o la strada non sono fissate in anticipo. Se si guida una barca a motore in un lago, si pilota un aereo o si desidera studiare il movimento di un satellite che si muove nel cielo, ci si trova di fronte a una situazione nuova. Non esistono strade o percorsi sulla superficie dell’acqua o nello spazio.
 
 Per descrivere il movimento in generale, dobbiamo conoscere qualcosa di più della sola velocità. Dobbiamo ampliare le idee del Capitolo 5, includendo anche la direzione del movimento. Introduciamo così grandezze che, oltre a un modulo, possiedono anche una direzione. Rappresenteremo queste grandezze con segmenti di retta. La lunghezza del segmento dà il modulo, e la sua direzione specificherà l’orientamento nello spazio. Verificheremo ora come operare con queste nuove grandezze, chiamate vettori.
 
-## **6 — 1. Traiettorie e vettori; addizione e sottrazione di vettori**
+## 6 — 1. Traiettorie e vettori; addizione e sottrazione di vettori
 
 La situazione più semplice che coinvolge i vettori si presenta quando si considera un movimento lungo una linea retta. Supponiamo di effettuare un viaggio in auto lungo una strada rettilinea. La **Figura 6 — 1** mostra una linea che rappresenta la strada; i punti A, B, C, ..., sulla strada, sono equidistanti — ad esempio, distano un chilometro l’uno dall’altro. Se si parte da C e ci si ferma in H, questa traiettoria è evidentemente rappresentata, nella figura, dalla freccia contrassegnata CH. La sua lunghezza è di 5 chilometri. Se poi si torna indietro fino a F, questa seconda traiettoria è rappresentata dalla freccia contrassegnata HF. Essa ha 2 chilometri di lunghezza, ma direzione opposta. Il risultato di queste due traiettorie è uguale a quello che si otterrebbe effettuando un unico viaggio da C a F, rappresentato dalla freccia CF, lunga 3 chilometri. Questo significa che: Traiettoria CH + Traiettoria HF = Traiettoria CF.  
 Se si tenta di usare la sola lunghezza di ciascuna traiettoria per rappresentarla in questa equazione, si giungerebbe a una conclusione errata, dato che 5 km + 2 km ≠ 3 km. D’altra parte, si può osservare dalla figura che la traiettoria HF può essere rappresentata dal numero negativo (–2 chilometri).  

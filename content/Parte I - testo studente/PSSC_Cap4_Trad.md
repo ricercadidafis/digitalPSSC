@@ -1,3 +1,6 @@
+---
+title: Capitolo 4 - Funzioni e scale
+---
 # Capitolo 4 - Funzioni e scale
 
 ## 4-1. Relazioni matematiche

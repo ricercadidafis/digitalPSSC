@@ -1,3 +1,6 @@
+---
+title: Capitolo 4 - Funzioni, scale e modelli
+---
 # Capitolo 4 - Funzioni, scale e modelli
 
 Durante il corso dovremo esprimere molte relazioni matematiche e questo capitolo raccoglie, per comodità, alcune tecniche oltre ad alcune applicazioni importanti, incluse sia per introdurre relazioni che saranno usate più avanti, sia per accrescere l'interesse. Tuttavia, ci vorrà un po' di tempo prima che gli studenti possano assimilare le formalità matematiche, soprattutto se questa è la prima volta che viene introdotto l'argomento. Dovranno esercitarsi per familiarizzarsi con queste idee.

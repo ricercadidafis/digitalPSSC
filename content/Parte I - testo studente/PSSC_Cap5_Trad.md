@@ -1,3 +1,6 @@
+---
+title: Capitolo 5 - Movimento lungo una traiettoria
+---
 # Capitolo 5 - Movimento lungo una traiettoria
 
 Un treno merci procede sui binari a 40 chilometri all'ora. Da una curva, situata un chilometro più indietro, sbuca un espresso, sulla stessa linea, a 70 chilometri all'ora. Il macchinista dell'espresso aziona fortemente i freni.

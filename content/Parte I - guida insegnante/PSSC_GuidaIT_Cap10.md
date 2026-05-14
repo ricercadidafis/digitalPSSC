@@ -1,3 +1,6 @@
+---
+title: Capitolo 10 - La misura
+---
 # Capitolo 10 – La misura
 
 ## RIASSUNTO DEL CAPITOLO

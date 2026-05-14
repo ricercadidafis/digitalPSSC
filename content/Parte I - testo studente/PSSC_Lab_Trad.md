@@ -1,60 +1,6 @@
-# Ringraziamenti
-
-La concezione degli esperimenti presentati in questa guida ha origini molteplici, provenendo da elementi sia interni che esterni al PSSC. Il disegno degli apparecchi, la pianificazione e la stessa pubblicazione di questa Guida rappresentano il risultato dello sforzo costante di molti. Vi è stato un ampio scambio di idee e una reciproca collaborazione tra coloro che fin dall'inizio si sono occupati del libro di testo e coloro che per primi hanno sviluppato il programma sperimentale.
-
-È praticamente impossibile, dunque, citare tutti i partecipanti e indicare i loro contributi individuali. Nelle ultime pagine del libro di testo si trova un ringraziamento più dettagliato. Mi limiterò, per forza di cose, a una brevissima descrizione delle principali tappe che hanno condotto alla realizzazione di questa Guida.
-
-Le idee iniziali riguardanti l’importanza del lavoro sperimentale, i progetti di esperimenti e le procedure atte a renderli efficaci, emersero da conferenze tenute durante l'inverno e la primavera del 1957 dai Professori Francis L. Friedman, Elbert P. Little, Edward M. Purcell, Walter C. Michels, Philip Morrison e Jerrold R. Zacharias.
-
-Al MIT, durante l’estate del 1957, i gruppi incaricati dell’elaborazione del libro di testo svilupparono in modo significativo il programma sperimentale. Un gruppo, guidato dal Professor Zacharias, discusse questioni generali relative alla parte pratica del Corso, mentre i problemi relativi agli apparecchi vennero affrontati da un altro gruppo, diretto dal Professor Uno Ingard.
-
-Il lavoro relativo agli esperimenti presentati nelle Parti I e II si protrasse per tutto l’anno. Verso la fine dell’estate del 1958, era pronta per l’uso nelle scuole un’edizione preliminare delle Parti I e II della Guida di Laboratorio, pubblicata da Richard Brinckerhoff della Phillips Exeter Academy.
-
-Durante l’anno scolastico 1958-1959 vennero sviluppate le Parti III e IV della Guida, mentre le Parti I e II furono revisionate nell’estate del 1959, sulla base dell’esperienza maturata dall’uso del materiale nelle scuole. Questo lavoro fu svolto principalmente da Judson B. Cross della Phillips Exeter Academy, James Henry e James Strickland del gruppo PSSC, dal Professor Guenter Schwarz della Florida State University, da John H. Walters della Browne and Nichols School, e da me.
-
-Fummo enormemente assistiti da Ervin Hoffart per quanto riguarda il collaudo di un gran numero di esperimenti, da Nathaniel C. Burwash nella progettazione degli apparecchi, e da Miss J. Carolyn Safford nella composizione della Guida.
-
-Percy Lund fu il disegnatore e le fotografie vennero scattate da Miss Berenice Abbott e dal Dr. Strickland.
-
-Nel lavoro di direzione del gruppo incaricato della parte sperimentale, ricevetti molteplici suggerimenti dal Professor Friedman, che seguì con attenzione lo sviluppo delle nostre attività.
-
-La presente edizione differisce dalla precedente solo per dettagli. La maggior parte delle modifiche deriva da miglioramenti introdotti negli apparecchi. Richard T. Wareham della D. C. Heath contribuì in modo significativo all’attenta e pratica presentazione di questa Guida.
-
-**URI HABER – SCHAIM**
-
-# Prefazione
-
-La fisica descrive il mondo che ci circonda. Cerchiamo di stabilire le relazioni esistenti tra le varie sfaccettature osservate nel comportamento della natura. Il laboratorio rappresenta la principale fonte di conoscenza, nel senso della comprensione di questo scopo fondamentale della fisica. Le idee, i concetti e le definizioni hanno, in effetti, un significato reale solo quando sono basati sull’esperienza.
-
-Per offrire questa opportunità, è stato sviluppato un programma sperimentale come parte integrante del corso di fisica del Physical Science Study Committee. La pianificazione di questo programma obbedisce all’obiettivo di familiarizzare essenzialmente gli studenti con le realtà del mondo fisico. Permette loro di confrontarsi direttamente con le principali leggi della fisica, in modo più o meno approfondito, a seconda delle loro capacità.
-
-Il lavoro pratico è parte integrante di questa Guida, così come dell’equipaggiamento correlato con cui vengono condotti gli esperimenti. (Ulteriori informazioni e suggerimenti si trovano nella Guida per l’Insegnante). La maggior parte degli esperimenti di questa Guida è presentata in modo da agevolare la lettura del testo. In tal modo, gli studenti esplorano i fenomeni fisici, invece di limitarsi a verificare conclusioni già note. Quando eseguono esperimenti di cui non conoscono a priori i risultati, gli studenti provano una sensazione di partecipazione personale alla scoperta scientifica; la scienza e il ruolo dello scienziato acquistano per loro maggiore significato. Per questo motivo, le istruzioni sono state limitate agli aspetti puramente tecnici degli esperimenti; l’orientamento sui concetti fisici è fornito attraverso brevi introduzioni e domande chiave.
-
-Gli studenti non sono obbligati a completare un esperimento in una fase prestabilita. Generalmente vi è una parte di base iniziale che tutti gli studenti completano. Alcuni, in base alle proprie capacità, affronteranno le questioni più avanzate proposte alla fine della descrizione di ciascun esperimento. In questo modo si offre a studenti e insegnanti la possibilità di una scelta diversificata, pur mantenendo, tramite istruzioni esplicite, l’enfasi sulle idee fondamentali. Inoltre, questo sistema stimola un numero considerevole di studenti a intraprendere, di propria iniziativa, interessanti ricerche correlate.
-
-L’attrezzatura preparata per questo programma è molto semplice. Le ragioni sono due: una di ordine pedagogico, l’altra economico. Gli apparecchi complessi tendono, in generale, a nascondere la semplicità del fenomeno investigato, mentre quelli semplici favoriscono sia l’osservazione dei principi fisici, sia la comprensione del modo in cui tali principi influiscono sulla progettazione degli strumenti di misura. Inoltre, gli apparecchi sono realizzati con materiali comuni, il che ne permette la riproduzione e l’uso anche a casa. Il laboratorio contribuisce così ad abbattere il muro tra il mondo personale dello studente e quello della scienza. (Questi due mondi, in realtà, sono uno solo e, se appaiono distinti, significa che la scienza ha cessato di essere uno studio costante dell’universo per trasformarsi in dottrina rigida).
-
-La Guida di Laboratorio, come il libro di testo, è suddivisa in quattro parti. La prima parte tratta principalmente di domande come “Quanto tempo ci vuole?”, “Qual è la dimensione?”, “A che velocità si muove?”. Le parti II-IV affrontano le leggi fondamentali e i concetti di ottica, dinamica, elettricità e fisica atomica. In queste sezioni, le domande tipiche sono “Come si rifrange la luce?”, “In che modo l’accelerazione dipende dalla forza?”, “Qual è la massa di un elettrone?”.
-
-Nel corso del lavoro in laboratorio, gli studenti apprendono che gli esperimenti nascono da una concatenazione di idee, devono essere pianificati in modo che i loro risultati possano essere interpretati, e risultano incompleti se non vengono analizzati.
-
-Questo programma pratico, insieme alle altre parti del corso del PSSC, è stato testato da centinaia di insegnanti e molti migliaia di studenti. La loro esperienza ha dimostrato che il programma può essere estremamente efficace. Gli esperimenti conferiscono, infatti, profondità e significato al libro di testo e, a loro volta, quest’ultimo, facilitando l’interpretazione degli esperimenti, incoraggia un ritorno al laboratorio. In tal modo, la reciproca interazione tra teoria e pratica, così caratteristica dello sviluppo della scienza, si realizza in una forma perfettamente accessibile agli studenti.
-
-# Agli studenti
-
-Questa Guida è stata concepita con l’intento di assisterti nel tuo lavoro sperimentale. Ti offre un’introduzione generale ai problemi trattati, fornisce suggerimenti tecnici, ma lascia a te il compito di ragionare. Lavorerai in modo indipendente durante gran parte degli esperimenti. Se i tuoi gusti sono simili a quelli di molti altri che hanno già eseguito questi esperimenti, scoprirai presto, svolgendoli, di apprezzare questo tipo di attività pratica.
-
-Troverai molte domande lungo questa Guida. Rispondere a questi quesiti richiederà, a volte, di riflettere sui concetti appresi in precedenza, oppure di effettuare un piccolo calcolo. In altri casi sarà necessario proseguire con l’esperimento. Starà a te decidere, di volta in volta, come procedere.
-
-Buone abitudini di lavoro sono un vantaggio. Leggi sempre la descrizione completa dell’esperimento prima di iniziare, in modo da avere una chiara comprensione di ciò che intendi fare. Annota con cura ciò che accade durante la realizzazione dell’esperimento. In questo modo disporrai dei dati ai quali potrai fare riferimento, se necessario, e avrai sufficiente consapevolezza del metodo seguito nel tuo lavoro.
-
-Durante un esperimento, ripeti le misurazioni ogni volta che sia necessario. Diverse letture sono generalmente migliori di una sola. Sarai tu a decidere in quali casi occorre un numero maggiore di misurazioni.
-
-Molti di questi esercizi richiedono la collaborazione di uno o più partecipanti. Confronta i risultati ottenuti con i tuoi compagni. Analizzando insieme i risultati, imparerai più che lavorando da solo.
-
-Probabilmente, non ti sarà possibile eseguire tutte le parti di ogni esperimento. Non avere fretta: è più vantaggioso completare accuratamente la metà degli elementi proposti, piuttosto che svolgere l’esperimento in modo superficiale. Parte dell’analisi dei risultati può spesso essere svolta a casa.
-
-Nella maggior parte degli esperimenti, gli apparecchi utilizzati sono molto semplici. Molti componenti puoi costruirli tu stesso e continuare gli esperimenti anche a casa.
+---
+title: Laboratorio
+---
 
 # Indice
 
@@ -347,3 +293,61 @@ Hai appena costruito un termometro a gas. Ripeti l’esperimento usando un altro
 Usa questo termometro a gas per misurare la temperatura dell’acqua del rubinetto e confronta il risultato con quello ottenuto con il tuo termometro ad aria. Misura inoltre la temperatura con un termometro a mercurio e valuta l’accuratezza dello strumento confrontando le sue indicazioni con quelle della scala naturale delle temperature.
 
 Hai modificato la temperatura dell’acqua nel momento in cui l’hai misurata?
+
+# Ringraziamenti
+
+La concezione degli esperimenti presentati in questa guida ha origini molteplici, provenendo da elementi sia interni che esterni al PSSC. Il disegno degli apparecchi, la pianificazione e la stessa pubblicazione di questa Guida rappresentano il risultato dello sforzo costante di molti. Vi è stato un ampio scambio di idee e una reciproca collaborazione tra coloro che fin dall'inizio si sono occupati del libro di testo e coloro che per primi hanno sviluppato il programma sperimentale.
+
+È praticamente impossibile, dunque, citare tutti i partecipanti e indicare i loro contributi individuali. Nelle ultime pagine del libro di testo si trova un ringraziamento più dettagliato. Mi limiterò, per forza di cose, a una brevissima descrizione delle principali tappe che hanno condotto alla realizzazione di questa Guida.
+
+Le idee iniziali riguardanti l’importanza del lavoro sperimentale, i progetti di esperimenti e le procedure atte a renderli efficaci, emersero da conferenze tenute durante l'inverno e la primavera del 1957 dai Professori Francis L. Friedman, Elbert P. Little, Edward M. Purcell, Walter C. Michels, Philip Morrison e Jerrold R. Zacharias.
+
+Al MIT, durante l’estate del 1957, i gruppi incaricati dell’elaborazione del libro di testo svilupparono in modo significativo il programma sperimentale. Un gruppo, guidato dal Professor Zacharias, discusse questioni generali relative alla parte pratica del Corso, mentre i problemi relativi agli apparecchi vennero affrontati da un altro gruppo, diretto dal Professor Uno Ingard.
+
+Il lavoro relativo agli esperimenti presentati nelle Parti I e II si protrasse per tutto l’anno. Verso la fine dell’estate del 1958, era pronta per l’uso nelle scuole un’edizione preliminare delle Parti I e II della Guida di Laboratorio, pubblicata da Richard Brinckerhoff della Phillips Exeter Academy.
+
+Durante l’anno scolastico 1958-1959 vennero sviluppate le Parti III e IV della Guida, mentre le Parti I e II furono revisionate nell’estate del 1959, sulla base dell’esperienza maturata dall’uso del materiale nelle scuole. Questo lavoro fu svolto principalmente da Judson B. Cross della Phillips Exeter Academy, James Henry e James Strickland del gruppo PSSC, dal Professor Guenter Schwarz della Florida State University, da John H. Walters della Browne and Nichols School, e da me.
+
+Fummo enormemente assistiti da Ervin Hoffart per quanto riguarda il collaudo di un gran numero di esperimenti, da Nathaniel C. Burwash nella progettazione degli apparecchi, e da Miss J. Carolyn Safford nella composizione della Guida.
+
+Percy Lund fu il disegnatore e le fotografie vennero scattate da Miss Berenice Abbott e dal Dr. Strickland.
+
+Nel lavoro di direzione del gruppo incaricato della parte sperimentale, ricevetti molteplici suggerimenti dal Professor Friedman, che seguì con attenzione lo sviluppo delle nostre attività.
+
+La presente edizione differisce dalla precedente solo per dettagli. La maggior parte delle modifiche deriva da miglioramenti introdotti negli apparecchi. Richard T. Wareham della D. C. Heath contribuì in modo significativo all’attenta e pratica presentazione di questa Guida.
+
+**URI HABER – SCHAIM**
+
+# Prefazione
+
+La fisica descrive il mondo che ci circonda. Cerchiamo di stabilire le relazioni esistenti tra le varie sfaccettature osservate nel comportamento della natura. Il laboratorio rappresenta la principale fonte di conoscenza, nel senso della comprensione di questo scopo fondamentale della fisica. Le idee, i concetti e le definizioni hanno, in effetti, un significato reale solo quando sono basati sull’esperienza.
+
+Per offrire questa opportunità, è stato sviluppato un programma sperimentale come parte integrante del corso di fisica del Physical Science Study Committee. La pianificazione di questo programma obbedisce all’obiettivo di familiarizzare essenzialmente gli studenti con le realtà del mondo fisico. Permette loro di confrontarsi direttamente con le principali leggi della fisica, in modo più o meno approfondito, a seconda delle loro capacità.
+
+Il lavoro pratico è parte integrante di questa Guida, così come dell’equipaggiamento correlato con cui vengono condotti gli esperimenti. (Ulteriori informazioni e suggerimenti si trovano nella Guida per l’Insegnante). La maggior parte degli esperimenti di questa Guida è presentata in modo da agevolare la lettura del testo. In tal modo, gli studenti esplorano i fenomeni fisici, invece di limitarsi a verificare conclusioni già note. Quando eseguono esperimenti di cui non conoscono a priori i risultati, gli studenti provano una sensazione di partecipazione personale alla scoperta scientifica; la scienza e il ruolo dello scienziato acquistano per loro maggiore significato. Per questo motivo, le istruzioni sono state limitate agli aspetti puramente tecnici degli esperimenti; l’orientamento sui concetti fisici è fornito attraverso brevi introduzioni e domande chiave.
+
+Gli studenti non sono obbligati a completare un esperimento in una fase prestabilita. Generalmente vi è una parte di base iniziale che tutti gli studenti completano. Alcuni, in base alle proprie capacità, affronteranno le questioni più avanzate proposte alla fine della descrizione di ciascun esperimento. In questo modo si offre a studenti e insegnanti la possibilità di una scelta diversificata, pur mantenendo, tramite istruzioni esplicite, l’enfasi sulle idee fondamentali. Inoltre, questo sistema stimola un numero considerevole di studenti a intraprendere, di propria iniziativa, interessanti ricerche correlate.
+
+L’attrezzatura preparata per questo programma è molto semplice. Le ragioni sono due: una di ordine pedagogico, l’altra economico. Gli apparecchi complessi tendono, in generale, a nascondere la semplicità del fenomeno investigato, mentre quelli semplici favoriscono sia l’osservazione dei principi fisici, sia la comprensione del modo in cui tali principi influiscono sulla progettazione degli strumenti di misura. Inoltre, gli apparecchi sono realizzati con materiali comuni, il che ne permette la riproduzione e l’uso anche a casa. Il laboratorio contribuisce così ad abbattere il muro tra il mondo personale dello studente e quello della scienza. (Questi due mondi, in realtà, sono uno solo e, se appaiono distinti, significa che la scienza ha cessato di essere uno studio costante dell’universo per trasformarsi in dottrina rigida).
+
+La Guida di Laboratorio, come il libro di testo, è suddivisa in quattro parti. La prima parte tratta principalmente di domande come “Quanto tempo ci vuole?”, “Qual è la dimensione?”, “A che velocità si muove?”. Le parti II-IV affrontano le leggi fondamentali e i concetti di ottica, dinamica, elettricità e fisica atomica. In queste sezioni, le domande tipiche sono “Come si rifrange la luce?”, “In che modo l’accelerazione dipende dalla forza?”, “Qual è la massa di un elettrone?”.
+
+Nel corso del lavoro in laboratorio, gli studenti apprendono che gli esperimenti nascono da una concatenazione di idee, devono essere pianificati in modo che i loro risultati possano essere interpretati, e risultano incompleti se non vengono analizzati.
+
+Questo programma pratico, insieme alle altre parti del corso del PSSC, è stato testato da centinaia di insegnanti e molti migliaia di studenti. La loro esperienza ha dimostrato che il programma può essere estremamente efficace. Gli esperimenti conferiscono, infatti, profondità e significato al libro di testo e, a loro volta, quest’ultimo, facilitando l’interpretazione degli esperimenti, incoraggia un ritorno al laboratorio. In tal modo, la reciproca interazione tra teoria e pratica, così caratteristica dello sviluppo della scienza, si realizza in una forma perfettamente accessibile agli studenti.
+
+# Agli studenti
+
+Questa Guida è stata concepita con l’intento di assisterti nel tuo lavoro sperimentale. Ti offre un’introduzione generale ai problemi trattati, fornisce suggerimenti tecnici, ma lascia a te il compito di ragionare. Lavorerai in modo indipendente durante gran parte degli esperimenti. Se i tuoi gusti sono simili a quelli di molti altri che hanno già eseguito questi esperimenti, scoprirai presto, svolgendoli, di apprezzare questo tipo di attività pratica.
+
+Troverai molte domande lungo questa Guida. Rispondere a questi quesiti richiederà, a volte, di riflettere sui concetti appresi in precedenza, oppure di effettuare un piccolo calcolo. In altri casi sarà necessario proseguire con l’esperimento. Starà a te decidere, di volta in volta, come procedere.
+
+Buone abitudini di lavoro sono un vantaggio. Leggi sempre la descrizione completa dell’esperimento prima di iniziare, in modo da avere una chiara comprensione di ciò che intendi fare. Annota con cura ciò che accade durante la realizzazione dell’esperimento. In questo modo disporrai dei dati ai quali potrai fare riferimento, se necessario, e avrai sufficiente consapevolezza del metodo seguito nel tuo lavoro.
+
+Durante un esperimento, ripeti le misurazioni ogni volta che sia necessario. Diverse letture sono generalmente migliori di una sola. Sarai tu a decidere in quali casi occorre un numero maggiore di misurazioni.
+
+Molti di questi esercizi richiedono la collaborazione di uno o più partecipanti. Confronta i risultati ottenuti con i tuoi compagni. Analizzando insieme i risultati, imparerai più che lavorando da solo.
+
+Probabilmente, non ti sarà possibile eseguire tutte le parti di ogni esperimento. Non avere fretta: è più vantaggioso completare accuratamente la metà degli elementi proposti, piuttosto che svolgere l’esperimento in modo superficiale. Parte dell’analisi dei risultati può spesso essere svolta a casa.
+
+Nella maggior parte degli esperimenti, gli apparecchi utilizzati sono molto semplici. Molti componenti puoi costruirli tu stesso e continuare gli esperimenti anche a casa.

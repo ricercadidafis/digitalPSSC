@@ -1,3 +1,6 @@
+---
+title: Capitolo 7 - Massa, elementi e atomi
+---
 # Capitolo 7 - Massa, elementi e atomi
 
 Il Capitolo 7 è il primo di tre capitoli che presentano una visione breve ma completa di alcune delle più importanti proprietà della materia, in particolare degli atomi che la costituiscono come unità elementari di una costruzione, e della varietà quasi illimitata di strutture e di proprietà che risultano da combinazioni di atomi. Agli studenti che conoscono la chimica molte delle conclusioni a cui giungiamo in questi capitoli saranno già note. Altri avranno forse una conoscenza superficiale di alcuni di questi concetti. Pochissimi, qualunque sia la loro preparazione, sapranno con chiarezza perché le conclusioni presentate siano valide. Questi capitoli hanno quindi due obiettivi principali:  

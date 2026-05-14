@@ -1,3 +1,6 @@
+---
+title: Capitolo 8 - Atomi e molecole
+---
 # Capitolo 8 - Atomi e molecole
 
 Basandosi su prove fisiche e chimiche, il Capitolo 8 considera la natura atomica e molecolare della materia. Nonostante le sue molteplici forme e caratteristiche, vediamo che tutta la materia è composta di un centinaio di tipi di atomi. Il capitolo inizia con una discussione abbastanza estesa sulla chimica tradizionale, che dovrà essere trattata brevemente, a meno che non si disponga di molto tempo per la discussione in classe.

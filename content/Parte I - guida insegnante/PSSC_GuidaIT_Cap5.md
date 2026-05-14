@@ -1,3 +1,6 @@
+---
+title: Capitolo 5 - Moto lungo una traiettoria
+---
 # Capitolo 5 - Moto lungo una traiettoria
 
 I concetti di misura di tempo e di spazio trattati nei [[PSSC_Cap2_Trad#Capitolo 2 - Tempo e misura|Capitoli 2]] e [[PSSC_Cap3_Trad#Capitolo 3 - Lo spazio e la sua misurazione|3]] vengono applicati nei [[PSSC_Cap5_Trad#Capitolo 5 - Movimento lungo una traiettoria|Capitoli 5]] e [[PSSC_Cap6_Trad#Capitolo 6 - Vettori|6]] alla descrizione del moto. Nel Capitolo 5 lo studio della cinematica è limitato al moto lungo una traiettoria, ed i concetti più importanti come velocità, accelerazione, ecc. vengono definiti in relazione solo al moto unidimensionale. Nel Capitolo 6 questi concetti sono estesi al moto nello spazio tridimensionale con l'introduzione dei vettori.

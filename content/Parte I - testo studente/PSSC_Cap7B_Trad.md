@@ -1,3 +1,6 @@
+---
+title: Capitolo 7 - Massa, Elementi e Atomi | Parte B. Gli elementi chimici
+---
 # Capitolo 7 – Massa, Elementi e Atomi
 
 ## Parte B. Gli elementi chimici

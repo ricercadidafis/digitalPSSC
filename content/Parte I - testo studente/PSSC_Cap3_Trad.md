@@ -1,3 +1,6 @@
+---
+title: Capitolo 3 - Lo spazio e la sua misurazione
+---
 # Capitolo 3 - Lo spazio e la sua misurazione
 
 Abbiamo iniziato il capitolo precedente descrivendo il tempo come “una delle nozioni fondamentali della scienza” e abbiamo proseguito esaminando più approfonditamente il concetto di tempo. Forse avrai notato che non siamo riusciti a limitare la discussione esclusivamente al tempo. Abbiamo parlato anche di posizioni e distanze, di movimento, di materia.

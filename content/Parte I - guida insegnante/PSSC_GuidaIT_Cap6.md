@@ -1,3 +1,6 @@
+---
+title: Capitolo 6 - I vettori
+---
 # Capitolo 6 – I vettori
 
 La cinematica del moto unidimensionale ([[PSSC_Cap5_Trad#Capitolo 5 - Movimento lungo una traiettoria|Capitolo 5]]) viene estesa in questo capitolo al moto nello spazio. A questo scopo, il capitolo introduce le grandezze vettoriali. Il capitolo si divide in modo naturale in tre parti:  

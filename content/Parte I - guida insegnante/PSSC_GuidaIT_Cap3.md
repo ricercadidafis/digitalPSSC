@@ -1,3 +1,6 @@
+---
+title: Capitolo 3 - Lo spazio e la sua misura
+---
 ## Capitolo 3 – Lo spazio e la sua misura
 
 Il [[PSSC_Cap3_Trad#Capitolo 3 - Lo spazio e la sua misurazione|capitolo 3]] si occupa soprattutto dell’idea di distanza e di alcune tecniche per la misura d’intervalli di spazio.  

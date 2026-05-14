@@ -1,4 +1,7 @@
-# Capitolo 9 - LA NATURA DI UN GAS
+---
+title: Capitolo 9 - La natura di un gas
+---
+# Capitolo 9 - La natura di un gas
 
 Ogni solido o liquido può trasformarsi in gas, e tutti i gas possono trasformarsi in liquido o solido. In condizioni ordinarie di temperatura e pressione, l’aria che circonda la Terra è un gas. In altre circostanze, tuttavia, è liquida, e un’importante industria si occupa della liquefazione dell’aria, raffreddandola. La familiare neve carbonica, chiamata ghiaccio secco, si trasforma in gas sotto i nostri occhi. Quando portata all’ebollizione, l’acqua diventa vapore, ossia acqua in forma gassosa o vapore acqueo. (Le sostanze che si presentano normalmente allo stato liquido, quando passano allo stato gassoso, sono dette vapori). Il vapore acqueo risultante dall’aria calda e umida dell’estate si condensa in rugiada, a contatto con superfici più fredde. Anche i metalli più resistenti al calore si trasformano in gas, se sufficientemente riscaldati. Quasi tutte le fiamme sono gas incandescente, che risplende e forma vortici. Tali fiamme risultano dalla combustione di ogni sostanza solida.
 

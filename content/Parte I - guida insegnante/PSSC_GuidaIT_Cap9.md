@@ -1,3 +1,6 @@
+---
+title: Capitolo 9 - La natura del gas
+---
 # Capitolo 9 – La natura dei gas
 
 Il [[PSSC_Cap9_Trad#Capitolo 9 - LA NATURA DI UN GAS|Capitolo 9]] si propone soprattutto di introdurre l'idea di un modello fisico, come mezzo per analizzare ed estrapolare osservazioni su sistemi relativamente complicati. La discussione è imperniata sul modello molecolare di un gas e mostra come questa rappresentazione ci permetta di comprendere molte importanti proprietà dei gas. La trattazione è qui parzialmente quantitativa, perché un'analisi in piena regola presuppone la conoscenza della dinamica. (Questa materia è trattata quantitativamente nel Capitolo 26.)

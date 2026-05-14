@@ -1,3 +1,6 @@
+---
+title: Capitolo 1 - Che cosa è la fisica?
+---
 ## Capitolo 1 - Che cos'è la fisica?
 
 Il [[PSSC_Cap1_Trad#Capitolo 1 - Che cosa è la fisica?|capitolo 1]] è un capitolo introduttivo, destinato soprattutto alla lettura a casa. Esso delinea sommariamente il campo della fisica nel mondo della scienza in generale, e la natura della ricerca fisica.

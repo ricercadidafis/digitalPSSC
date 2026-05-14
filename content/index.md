@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: digitalPSSC
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Benvenuti in un tentativo di digitalizzazione della prima edizione del PSSC.

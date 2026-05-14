@@ -1,4 +1,7 @@
-# Capitolo 10 - MISURAZIONE
+---
+title: Capitolo 10 - Misurazione
+---
+# Capitolo 10 - Misurazione
 
 La sensibilità di una microbilancia a fibra di quarzo (Fig. 7 — 3) mostra quanto possano essere raffinati i metodi precisi di misurazione fisica. Tuttavia, l’idea che tale misurazione sia sempre qualcosa di meticoloso e preciso non trova riscontro nella fisica. La valutazione della lunghezza di un filo a occhio nudo, o la misura approssimativa di una distanza stellare con un errore di diverse potenze di dieci, possono essere, in realtà, misurazioni preziose. La misurazione è il mezzo tramite il quale progrediamo, col quale mettiamo alla prova e affiniamo i nostri concetti sul funzionamento del mondo. Attraverso le misure, sia per una stima grossolana che per la determinazione più precisa, confrontiamo le nostre idee con una verifica quantitativa. La lezione che tale verifica sia necessaria è stata appresa da generazioni di fisici nella più preziosa delle scuole: la dura esperienza.
 
