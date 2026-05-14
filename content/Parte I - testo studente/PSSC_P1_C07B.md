@@ -168,6 +168,6 @@ La concordanza costante tra l’analisi effettuata con metodi così diversi — 
 
 5. ⭐ La Tabella 4 suggerisce che un determinato composto costituisce la maggior parte del corpo umano. Qual è questo composto?
 
-6. **Progetto** — Costruisci il pannello trasparente a tre colori descritto nel testo, [[PSSC_Cap7B_Trad#**7 — 9. Analisi spettrale**|Sezione 7-9]]. Utilizza il tuo pannello per esaminare la luce proveniente da diverse fonti, come una lampada a incandescenza, un’insegna al neon, una lampada a vapori di sodio, una lampada a vapori di mercurio, ecc. Quali conclusioni puoi trarne?
+6. **Progetto** — Costruisci il pannello trasparente a tre colori descritto nel testo, [[PSSC_P1_C07B#**7 — 9. Analisi spettrale**|Sezione 7-9]]. Utilizza il tuo pannello per esaminare la luce proveniente da diverse fonti, come una lampada a incandescenza, un’insegna al neon, una lampada a vapori di sodio, una lampada a vapori di mercurio, ecc. Quali conclusioni puoi trarne?
    #lab 
 

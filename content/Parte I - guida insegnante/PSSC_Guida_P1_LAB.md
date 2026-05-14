@@ -60,29 +60,29 @@ Le liste dei materiali alla fine degli esperimenti specificano il materiale nece
 
 | Numero | Esperimento                                                                                 | Momento più opportuno                                                                                         | Priorità |
 | ------ | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------- |
-| I-1    | [[PSSC_Lab_Trad#I – 1. Piccoli intervalli di tempo\|Brevi intervalli di tempo]]             | Prima della discussione del paragrafo [[PSSC_Cap2_Trad#2 - 5. Lo stroboscopio\|2-5]]                          | \*\*\*   |
-| I-2    | [[PSSC_Lab_Trad#I – 2. Grandi distanze\|Grandi distanze]]                                   | Durante il paragrafo [[PSSC_Cap3_Trad#3 — 2. Misurare grandi distanze – triangolazione\|3-2]]                 | \*\*\*   |
-| I-3    | [[PSSC_Lab_Trad#I – 3. Piccole distanze\|Piccole lunghezze]]                                | Durante il paragrafo [[PSSC_Cap3_Trad#3 — 3. Piccole distanze\|3-3]]                                          | \*\*     |
-| I-4    | [[PSSC_Lab_Trad#I – 4. Analisi di un esperimento\|Analisi di un esperimento]]               | Durante il [[PSSC_Cap4_Trad#Capitolo 4 - Funzioni e scale\|Capitolo 4]]                                       | \*\*\*   |
-| I-5    | [[PSSC_Lab_Trad#I – 5. Movimento velocità e accelerazione\|Moto: velocità ed acceleraz.]]   | Dopo la discussione del paragrafo [[PSSC_Cap5_Trad#5 — 3. Diagrammi dello spazio in funzione del tempo\|5-3]] | \*\*\*   |
-| I-6    | [[PSSC_Lab_Trad#I – 6. Piccole masse\|Piccole masse]]                                       | Dopo la discussione del paragrafo [[PSSC_Cap7A_Trad#7 — 2. La massa sulla bilancia\|7-2]]                     | \*\*     |
-| I-7    | [[PSSC_Lab_Trad#I – 7. Spettri degli elementi\|Lo spettro degli elementi]]                  | Durante il paragrafo [[PSSC_Cap7B_Trad#7 — 9. Analisi spettrale\|7-9]]                                        | \*\*     |
-| I-8    | [[PSSC_Lab_Trad#I – 8. Strati molecolari\|Strati molecolari]]                               | Qualunque momento dopo il paragrafo [[PSSC_Cap7B_Trad#7 — 9. Analisi spettrale\|7-9]]                         | \*\*\*   |
-| I-9    | [[PSSC_Lab_Trad#I – 9. Scala naturale delle temperature\|Scala naturale delle temperature]] | Prima del paragrafo [[PSSC_Cap9_Trad#9-4. Temperatura e termometri a gas\|9-4]]                               | \*\*     |
+| I-1    | [[PSSC_P1_LAB#I – 1. Piccoli intervalli di tempo\|Brevi intervalli di tempo]]             | Prima della discussione del paragrafo [[PSSC_P1_C02#2 - 5. Lo stroboscopio\|2-5]]                          | \*\*\*   |
+| I-2    | [[PSSC_P1_LAB#I – 2. Grandi distanze\|Grandi distanze]]                                   | Durante il paragrafo [[PSSC_P1_C03#3 — 2. Misurare grandi distanze – triangolazione\|3-2]]                 | \*\*\*   |
+| I-3    | [[PSSC_P1_LAB#I – 3. Piccole distanze\|Piccole lunghezze]]                                | Durante il paragrafo [[PSSC_P1_C03#3 — 3. Piccole distanze\|3-3]]                                          | \*\*     |
+| I-4    | [[PSSC_P1_LAB#I – 4. Analisi di un esperimento\|Analisi di un esperimento]]               | Durante il [[PSSC_P1_C04#Capitolo 4 - Funzioni e scale\|Capitolo 4]]                                       | \*\*\*   |
+| I-5    | [[PSSC_P1_LAB#I – 5. Movimento velocità e accelerazione\|Moto: velocità ed acceleraz.]]   | Dopo la discussione del paragrafo [[PSSC_P1_C05#5 — 3. Diagrammi dello spazio in funzione del tempo\|5-3]] | \*\*\*   |
+| I-6    | [[PSSC_P1_LAB#I – 6. Piccole masse\|Piccole masse]]                                       | Dopo la discussione del paragrafo [[PSSC_P1_C07A#7 — 2. La massa sulla bilancia\|7-2]]                     | \*\*     |
+| I-7    | [[PSSC_P1_LAB#I – 7. Spettri degli elementi\|Lo spettro degli elementi]]                  | Durante il paragrafo [[PSSC_P1_C07B#7 — 9. Analisi spettrale\|7-9]]                                        | \*\*     |
+| I-8    | [[PSSC_P1_LAB#I – 8. Strati molecolari\|Strati molecolari]]                               | Qualunque momento dopo il paragrafo [[PSSC_P1_C07B#7 — 9. Analisi spettrale\|7-9]]                         | \*\*\*   |
+| I-9    | [[PSSC_P1_LAB#I – 9. Scala naturale delle temperature\|Scala naturale delle temperature]] | Prima del paragrafo [[PSSC_P1_C09#9-4. Temperatura e termometri a gas\|9-4]]                               | \*\*     |
 
 \*\*\* essenziale  
 \*\* consigliato  
 \* facoltativo
 
-## [[PSSC_Lab_Trad#I – 1. Piccoli intervalli di tempo|I–1. Brevi intervalli di tempo]]
+## [[PSSC_P1_LAB#I – 1. Piccoli intervalli di tempo|I–1. Brevi intervalli di tempo]]
 
 In questo esperimento gli studenti tarano la laminetta vibrante di un campanello (che compie un moto periodico con periodo molto breve) per confronto con un orologio (che ha un periodo relativamente lungo). Dopo che la taratura è stata compiuta, la laminetta viene usata per misurare tempi brevi che non sono necessariamente associati a moti periodici.
 
-È meglio svolgere l'esperimento durante lo studio del [[PSSC_Cap2_Trad#Capitolo 2 - Tempo e misura|Capitolo 2]], preferibilmente prima della discussione del paragrafo [[PSSC_Cap2_Trad#2 - 5. Lo stroboscopio|2-5]]. Se il periodo di laboratorio è di un'ora o meno, può darsi che occorrano due periodi per completare l'intero esperimento. Ne vale certamente la pena, considerando l'importanza dell'esperimento e il lento progresso all'inizio del corso. Se preferite fare solo una parte dell'esperimento, i punti convenienti per interromperlo sono stati indicati con linee tratteggiate nella Guida di Laboratorio.
+È meglio svolgere l'esperimento durante lo studio del [[PSSC_P1_C02#Capitolo 2 - Tempo e misura|Capitolo 2]], preferibilmente prima della discussione del paragrafo [[PSSC_P1_C02#2 - 5. Lo stroboscopio|2-5]]. Se il periodo di laboratorio è di un'ora o meno, può darsi che occorrano due periodi per completare l'intero esperimento. Ne vale certamente la pena, considerando l'importanza dell'esperimento e il lento progresso all'inizio del corso. Se preferite fare solo una parte dell'esperimento, i punti convenienti per interromperlo sono stati indicati con linee tratteggiate nella Guida di Laboratorio.
 
 Questo è il momento di cominciare a esprimere la precisione in termini percentuali. Il modo migliore per introdurla quantitativamente è farlo durante una discussione susseguente l'esperienza.
 
-Gli esercizi CSL (Casa Scuola Laboratorio) alla fine del [[PSSC_Cap2_Trad#PER CASA, SCUOLA E LABORATORIO|Capitolo 2]] includono un certo numero di problemi relativi allo [[PSSC_Cap2_Trad#2 - 5. Lo stroboscopio|stroboscopio]] che si possono benissimo assegnare.
+Gli esercizi CSL (Casa Scuola Laboratorio) alla fine del [[PSSC_P1_C02#PER CASA, SCUOLA E LABORATORIO|Capitolo 2]] includono un certo numero di problemi relativi allo [[PSSC_P1_C02#2 - 5. Lo stroboscopio|stroboscopio]] che si possono benissimo assegnare.
 
 Ecco ora alcuni utili dettagli tecnici. Una buona illuminazione è importante a causa della brevità dei tempi di osservazione attraverso le strette fessure dello stroboscopio. Si può impedire il rapido smorzamento del moto della lamina d'acciaio fissandovi un morsetto a C come indicato in Fig. 2.  
 La lamina d'acciaio dovrebbe esser sempre messa in movimento tirando il morsetto a C. Tirando l'estremo libero della lamina si provoca un moto complesso, difficile da osservare. Un segno bianco fatto col gesso sull'estremo libero della lamina lo rende più facile da vedere.
@@ -140,15 +140,15 @@ Qualche studente può essere interessato a costruirsi uno stroboscopio per conto
 ---
 - nastro adesivo nero
 
-## [[PSSC_Lab_Trad#I – 2. Grandi distanze|I–2. Grandi distanze]]
+## [[PSSC_P1_LAB#I – 2. Grandi distanze|I–2. Grandi distanze]]
 
 Si usano in questo esperimento due dispositivi per la misura di grandi distanze: il telemetro a riflessione ed il telemetro a parallasse. Il principio fondamentale in entrambi è la triangolazione. Nel telemetro a riflessione questo fatto è però in un certo modo alterato da un fattore aggiuntivo, 2, che proviene dalla riflessione nello specchio.
 
-L'esperimento si riferisce al paragrafo [[PSSC_Cap3_Trad#3 — 2. Misurare grandi distanze – triangolazione|3-2]]. Non si dovrebbe tralasciare il telemetro a parallasse, perché esso chiarisce il significato della parallasse, che viene usata ripetutamente nella Parte II, e perché copre una gamma di distanze più vasta di quella del telemetro a riflessione.  
-Si può abolire il telemetro a riflessione se si assegna l'esperimento [[PSSC_Lab_Trad#I – 3. Piccole distanze|I–3]].  
+L'esperimento si riferisce al paragrafo [[PSSC_P1_C03#3 — 2. Misurare grandi distanze – triangolazione|3-2]]. Non si dovrebbe tralasciare il telemetro a parallasse, perché esso chiarisce il significato della parallasse, che viene usata ripetutamente nella Parte II, e perché copre una gamma di distanze più vasta di quella del telemetro a riflessione.  
+Si può abolire il telemetro a riflessione se si assegna l'esperimento [[PSSC_P1_LAB#I – 3. Piccole distanze|I–3]].  
 Consigliamo di far tarare gli strumenti dagli studenti, in metri.
 
-### [[PSSC_Lab_Trad#Il telemetro a riflessione|Il telemetro a riflessione]]
+### [[PSSC_P1_LAB#Il telemetro a riflessione|Il telemetro a riflessione]]
 
 Una taratura sperimentale è sufficiente, ma si descrive la taratura matematica per chi vi fosse interessato. Quando il braccio e lo specchio mobile del telemetro ruotano di un angolo $\theta$ , la linea che rappresenta il raggio visuale dallo specchio mobile ruota di un angolo $2\theta$.
 
@@ -180,7 +180,7 @@ Se la scala è posta in corrispondenza dello specchio fisso si ha $b = c$ e l'eq
 - $s = \frac{b^2}{2d}$
 
 il che mostra che la portata dello strumento cresce come il quadrato della linea di base.
-### [[PSSC_Lab_Trad#Il telemetro a parallasse|Il telemetro a parallasse]]
+### [[PSSC_P1_LAB#Il telemetro a parallasse|Il telemetro a parallasse]]
 
 Al contrario del telemetro a riflessione, il telemetro a parallasse non comprende la linea di base. Questo è un vantaggio perché si può scegliere una linea di base di pochi metri o di parecchi chilometri a seconda della distanza da misurare.  
 È conveniente perciò suddividere la scala del telemetro in centimetri, e calcolare da questa la distanza cercata. Gli studenti possono, naturalmente, usare alcune scale addizionali corrispondenti a linee di base fisse, sulle quali le distanze si possono leggere direttamente.  
@@ -215,9 +215,9 @@ Poiché si presuppone che le rette $AO$ e $CO$ siano parallele, l'approssimazion
 - nastro adesivo  
 - 1 doppio decimetro  
 - 1 matita dura, sottile
-## [[PSSC_Lab_Trad#I – 3. Piccole distanze|I–3. Piccole lunghezze]]
+## [[PSSC_P1_LAB#I – 3. Piccole distanze|I–3. Piccole lunghezze]]
 
-In questo esperimento gli studenti usano un micrometro ottico per misurare spessori dell'ordine di $10^{-6}$ m. Quest'esperimento si riferisce al paragrafo [[PSSC_Cap3_Trad#3 — 3. Piccole distanze|3-3]] e dev'essere fatto senz'altro se si omette il telemetro a riflessione nell'esperimento [[PSSC_Lab_Trad#I – 2. Grandi distanze|I–2]].
+In questo esperimento gli studenti usano un micrometro ottico per misurare spessori dell'ordine di $10^{-6}$ m. Quest'esperimento si riferisce al paragrafo [[PSSC_P1_C03#3 — 3. Piccole distanze|3-3]] e dev'essere fatto senz'altro se si omette il telemetro a riflessione nell'esperimento [[PSSC_P1_LAB#I – 2. Grandi distanze|I–2]].
 
 Fate tarare il micrometro dagli studenti nel sistema metrico. Una taratura mediante fili di diametro noto è più accurata che una taratura mediante pezzettini di carta. La taratura con dei pezzetti di carta è però più significativa, perché richiede solo un doppio decimetro. Inoltre, con i pezzetti di carta, la scala sarà suddivisa in multipli dello spessore di un foglio. Ciò renderà più facile l'interpolazione.
 
@@ -246,11 +246,11 @@ Le ipotesi sono che le lamette abbiano lo stesso spessore e che il filo della la
 - calibro micrometrico  
 - blocco o risma di carta  
 - piccole strisce di carta dello stesso spessore della precedente
-## [[PSSC_Lab_Trad#I – 4. Analisi di un esperimento|I–4. Analisi di un esperimento]]
+## [[PSSC_P1_LAB#I – 4. Analisi di un esperimento|I–4. Analisi di un esperimento]]
 
 Quest'esperimento è progettato in modo da dare ai vostri studenti la possibilità di dedicare un intero periodo di laboratorio all'analisi di un esperimento sotto la vostra guida. L'esperimento è stato concepito in modo da adattarsi a studenti con diversa preparazione matematica.
 
-Si riferisce al [[PSSC_Cap4_Trad#Capitolo 4 - Funzioni e scale|Capitolo 4]] del testo e va fatto dopo che sono stati assegnati alcuni esercizi CSL.
+Si riferisce al [[PSSC_P1_C04#Capitolo 4 - Funzioni e scale|Capitolo 4]] del testo e va fatto dopo che sono stati assegnati alcuni esercizi CSL.
 
 Tutti gli studenti dovrebbero completare il grafico di $t$ in funzione di $d$ e quello di $t$ in funzione di $1/d^2$, e un grafico di $t$ in funzione di $h$. Gli studenti migliori dovrebbero essere incoraggiati ad effettuare la doppia interpolazione e ricercare la relazione matematica tra $t$ ed $h$. Solo gli studenti che hanno studiato i logaritmi dovrebbero tentare di svolgere le ultime due parti.
 
@@ -308,9 +308,9 @@ Il valore calcolato di $t$ per $h = 20$ cm e $d = 4$ cm è più attendibile di q
 
 - 4 fogli di carta millimetrata  
 - 1 foglio di carta bilogaritmica (almeno 2×2 decadi)
-## [[PSSC_Lab_Trad#I – 5. Movimento velocità e accelerazione|I–5. Moto: velocità ed accelerazione]]
+## [[PSSC_P1_LAB#I – 5. Movimento velocità e accelerazione|I–5. Moto: velocità ed accelerazione]]
 
-Questo esperimento è essenziale per lo studio della cinematica nel [[PSSC_Cap5_Trad#Capitolo 5 - Movimento lungo una traiettoria|Capitolo 5]] e si può eseguire dopo la discussione del paragrafo [[PSSC_Cap5_Trad#5 — 3. Diagrammi dello spazio in funzione del tempo|5-3]]. (È meglio fare il grafico di $a$ in funzione di $t$ dopo aver studiato il paragrafo [[PSSC_Cap5_Trad#5 — 6. Accelerazione lungo la traiettoria|5-6]]).
+Questo esperimento è essenziale per lo studio della cinematica nel [[PSSC_P1_C05#Capitolo 5 - Movimento lungo una traiettoria|Capitolo 5]] e si può eseguire dopo la discussione del paragrafo [[PSSC_P1_C05#5 — 3. Diagrammi dello spazio in funzione del tempo|5-3]]. (È meglio fare il grafico di $a$ in funzione di $t$ dopo aver studiato il paragrafo [[PSSC_P1_C05#5 — 6. Accelerazione lungo la traiettoria|5-6]]).
 
 Sebbene lo studente impieghi molto tempo ad analizzare le informazioni registrate sul nastro ed a costruire i grafici, la maggior parte possibile di quest'analisi dovrebbe esser fatta in laboratorio, dove potete aiutare lo studente ad imparare come si fa l'analisi grafica.
 
@@ -320,7 +320,7 @@ Uno o due marcatempo, sistemati come in Fig. 1, possono essere usati per registr
 
 Circa 1,5 metri di nastro saranno sufficienti per ottenere da 20 a 25 punti sul grafico con 5 «tic» come unità di tempo.  
 Assicuratevi che gli studenti comincino il lavoro sui grafici ($v$ e $d$ in funzione di $t$) in classe; essi potranno poi continuare questo lavoro a casa.  
-La curva accelerazione-tempo si può fare più avanti, dopo aver studiato il paragrafo [[PSSC_Cap5_Trad#5 — 6. Accelerazione lungo la traiettoria|5-6]].
+La curva accelerazione-tempo si può fare più avanti, dopo aver studiato il paragrafo [[PSSC_P1_C05#5 — 6. Accelerazione lungo la traiettoria|5-6]].
 
 Un'analisi tipica è mostrata nelle Figg. (a), (b) e (c).
 
@@ -370,14 +370,14 @@ Gli effetti dell'attrito di solito non sono costanti.
 - nastro per il marcatempo  
 - disco di carta carbone  
 - 1 morsetto a C (da 7,5 o 10 cm)
-## [[PSSC_Lab_Trad#I – 6. Piccole masse|I–6. Piccole masse]]
+## [[PSSC_P1_LAB#I – 6. Piccole masse|I–6. Piccole masse]]
 
 Una bilancia comune da laboratorio può misurare una massa di diverse centinaia di grammi con una precisione dell'1% o meno, ma se la si usa per misurare la massa di un capello o di un oggetto leggero, la bilancia non ci darà neppure l'ordine di grandezza giusto.  
 Può darsi che alcuni studenti, dai loro studi di chimica, abbiano imparato a conoscere le complesse bilance da analisi.  
 Questo esperimento mostrerà allo studente che una semplice bilancia realizzata con una cannuccia da bibite può dare, di masse molto piccole, assai più che il solo ordine di grandezza.
 
 Ogni studente dovrebbe tarare la sua bilancia; non soltanto per la tecnica, ma anche, lo ripetiamo, per l'idea di estendere il suo campo di misure con l'uso di semplici dispositivi.  
-Il momento più adatto per quest'esperimento è dopo la discussione del paragrafo [[PSSC_Cap7A_Trad#7 — 2. La massa sulla bilancia|7–2]].
+Il momento più adatto per quest'esperimento è dopo la discussione del paragrafo [[PSSC_P1_C07A#7 — 2. La massa sulla bilancia|7–2]].
 
 Più vicino è l'ago al baricentro del sistema cannuccia-vite, più sensibile sarà la bilancia.  
 Se l'ago è sotto il baricentro, lo strumento sarà instabile e non potrà restare in equilibrio.  
@@ -389,9 +389,9 @@ Si possono maneggiare comodamente i piccoli pezzi di carta con una pinzetta a mo
 Gli effetti delle correnti d'aria si possono ridurre al minimo mettendo la bilancia in una scatola da scarpe od altro piccolo recipiente.
 
 Per evitare di rendere quest'esperimento soltanto un esercizio di costruzione e di taratura, è essenziale usare in qualche modo la bilancia.  
-Il suo uso insieme ad un micrometro ottico per trovare la massa ed il volume di oggetti piccoli sarà di aiuto nella discussione sulla densità nel paragrafo [[PSSC_Cap7A_Trad#7 — 4. Densità|7–4]].
+Il suo uso insieme ad un micrometro ottico per trovare la massa ed il volume di oggetti piccoli sarà di aiuto nella discussione sulla densità nel paragrafo [[PSSC_P1_C07A#7 — 4. Densità|7–4]].
 
-Si veda l'esperimento [[PSSC_Lab_Trad#I – 8. Strati molecolari|I–8]] per un'applicazione della bilancia a cannuccia all'esperimento sugli strati molecolari.
+Si veda l'esperimento [[PSSC_P1_LAB#I – 8. Strati molecolari|I–8]] per un'applicazione della bilancia a cannuccia all'esperimento sugli strati molecolari.
 
 ### Risposte alle domande
 
@@ -426,11 +426,11 @@ Siccome si possono fare circa dieci divisioni significative sulla scala, la port
 --- 
 - bilancia da laboratorio a bracci uguali (portata 0–2000 grammi)  
 - blocco o risma di carta
-## [[PSSC_Lab_Trad#I – 7. Spettri degli elementi|I–7. Lo spettro degli elementi]]
+## [[PSSC_P1_LAB#I – 7. Spettri degli elementi|I–7. Lo spettro degli elementi]]
 
 Questo esperimento dimostra che gli atomi di un elemento fortemente riscaldato emettono luce colorata coi colori caratteristici di quell'elemento.  
 Poiché l'occhio non può separare i colori componenti, si usa uno spettroscopio. La teoria su cui si basa il suo funzionamento non ha comunque importanza per il momento.  
-Per svolgere quest'esperimento, il momento più adatto è durante lo studio del paragrafo [[PSSC_Cap7B_Trad#7 — 9. Analisi spettrale|7–9]].
+Per svolgere quest'esperimento, il momento più adatto è durante lo studio del paragrafo [[PSSC_P1_C07B#7 — 9. Analisi spettrale|7–9]].
 
 I composti elencati danno buoni risultati se si usano in forma cristallina o, meglio, in polvere.  
 I nitrati di alcuni metalli, come il nitrato di sodio, il nitrato rameico, ecc., dovrebbero essere disponibili per mostrare che il colore emesso è una caratteristica del metallo e non del cloruro.  
@@ -488,10 +488,10 @@ Il materiale seguente è adatto per tutta la classe:
 - 1 spettroscopio  
 - 1 supporto da laboratorio di analisi, con morsetto da provette  
 - vari vetrini da orologio o recipienti simili
-## [[PSSC_Lab_Trad#I – 8. Strati molecolari|I–8. Strati molecolari]]
+## [[PSSC_P1_LAB#I – 8. Strati molecolari|I–8. Strati molecolari]]
 
 Questo esperimento ci fornisce un limite superiore per le dimensioni della molecola. È un risultato importante il fatto che lo studente possa ridurre questo limite fino all'ordine di $10^{-7}$ m (cioè $10^{-8}$ cm).  
-L'esperimento si riferisce al contenuto del paragrafo [[PSSC_Cap7C_Trad#7 — 12. Ulteriori prove dell'esistenza degli atomi|7–12]], ma può essere svolto in qualsiasi momento dopo aver terminato il paragrafo [[PSSC_Cap7B_Trad#7 — 9. Analisi spettrale|7–9]].
+L'esperimento si riferisce al contenuto del paragrafo [[PSSC_P1_C07C#7 — 12. Ulteriori prove dell'esistenza degli atomi|7–12]], ma può essere svolto in qualsiasi momento dopo aver terminato il paragrafo [[PSSC_P1_C07B#7 — 9. Analisi spettrale|7–9]].
 
 La seguente dimostrazione può aiutare gli studenti a comprendere il metodo indiretto di misura usato in questo esperimento.  
 Misurate in un recipiente graduato il volume della quantità di pallini metallici necessaria per coprire il fondo di un vassoio circolare.  
@@ -576,13 +576,13 @@ In realtà è allungata: perciò, il numero reale di molecole in una grammomolec
 ---
 - foglio di alluminio (facoltativo)  
 - acqua pulita
-## [[PSSC_Lab_Trad#I – 9. Scala naturale delle temperature|I–9. Scala naturale delle temperature]]
+## [[PSSC_P1_LAB#I – 9. Scala naturale delle temperature|I–9. Scala naturale delle temperature]]
 
 Lo scopo di quest'esperimento è di mostrare che un termometro a gas definisce una scala naturale delle temperature.  
 La scala è per definizione linearmente proporzionale al volume del gas, ed è indipendente dalla natura del gas.  
 Il controllo per confronto con un termometro a mercurio non costituisce una conferma della linearità: mostra soltanto che il termometro a mercurio è stato tarato in modo da andar d'accordo con la scala di quello a gas.
 
-L'esperimento si riferisce ai paragrafi [[PSSC_Cap9_Trad#9-4. Temperatura e termometri a gas|9–4]] e [[PSSC_Cap9_Trad#9-5. Temperatura e il modello di un gas|9–5]] e si può fare prima che vengano studiati questi paragrafi.
+L'esperimento si riferisce ai paragrafi [[PSSC_P1_C09#9-4. Temperatura e termometri a gas|9–4]] e [[PSSC_P1_C09#9-5. Temperatura e il modello di un gas|9–5]] e si può fare prima che vengano studiati questi paragrafi.
 
 Per ottenere i migliori risultati, l'interno della bottiglia ed il tubo di vetro devono essere asciutti.  
 Un batuffoletto di cotone collocato sull'estremità del tubo di vetro aiuterà a mantenere asciutto l'interno della bottiglia mentre questa viene immersa nell'acqua bollente.  
@@ -620,7 +620,7 @@ Le operazioni per la misura della temperatura dell'acqua fanno variare di solito
 Poiché un termometro non è in generale alla stessa temperatura dell'oggetto la cui temperatura si vuol misurare, ci sarà un piccolo scambio di calore tra i due; il termometro cioè scalderà o raffredderà l'oggetto.  
 Quanto quest'effetto sia notevole dipende dalle dimensioni relative del termometro e dell'oggetto.
 
-Questa domanda può servire come introduzione al [[PSSC_Cap10_Trad#Capitolo 10 - MISURAZIONE|Capitolo 10]] del testo.
+Questa domanda può servire come introduzione al [[PSSC_P1_C10#Capitolo 10 - MISURAZIONE|Capitolo 10]] del testo.
 
 ### Materiale
 

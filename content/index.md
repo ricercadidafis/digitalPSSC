@@ -1,7 +1,6 @@
 ---
 title: La Fisica secondo il PSSC
 ---
-
 Il Physical Science Study Committee (PSSC) è stato un comitato scientifico istituito presso il Massachusetts Institute of Technology di Boston nel 1956 con lo scopo di sottoporre a revisione l'insegnamento della fisica nella scuola secondaria superiore.
 Storia
 

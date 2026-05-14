@@ -3,13 +3,13 @@ title: Capitolo 1 - Che cosa è la fisica?
 ---
 ## Capitolo 1 - Che cos'è la fisica?
 
-Il [[PSSC_Cap1_Trad#Capitolo 1 - Che cosa è la fisica?|capitolo 1]] è un capitolo introduttivo, destinato soprattutto alla lettura a casa. Esso delinea sommariamente il campo della fisica nel mondo della scienza in generale, e la natura della ricerca fisica.
+Il [[PSSC_P1_C01#Capitolo 1 - Che cosa è la fisica?|capitolo 1]] è un capitolo introduttivo, destinato soprattutto alla lettura a casa. Esso delinea sommariamente il campo della fisica nel mondo della scienza in generale, e la natura della ricerca fisica.
 
 È importante riconoscere che questo capitolo introduttivo è da considerarsi semplicemente come una lettura di preparazione qualitativa e non rappresenta il punto di partenza per uno sviluppo esteso in classe. Una discussione dettagliata di alcuni esperimenti e strumenti menzionati qui risulterebbe inevitabilmente superficiale o inaccessibile a molti studenti. Gli studenti con una buona preparazione scientifica o quelli attenti ad ogni particolare possono insistere per una discussione immediata di molti argomenti ai quali si allude nel testo e nelle figure. Ma queste discussioni non sono pertinenti qui, e possono facilmente demoralizzare gli studenti principianti.
 
 ### Riassunto del Capitolo
 
-Il [[PSSC_Cap1_Trad#Capitolo 1 - Che cosa è la fisica?|capitolo 1]] inizia gli studenti alla natura e agli obiettivi della fisica. Esso delinea i rapporti tra la fisica e le altre scienze, discute i legami tra scienza e tecnica, considera brevemente la gamma di strumenti e di macchine usati per estendere le capacità dei sensi e creare quelle speciali situazioni che si vogliono studiare; ci ricorda che la fisica è il risultato degli sforzi coordinati di molte persone.
+Il [[PSSC_P1_C01#Capitolo 1 - Che cosa è la fisica?|capitolo 1]] inizia gli studenti alla natura e agli obiettivi della fisica. Esso delinea i rapporti tra la fisica e le altre scienze, discute i legami tra scienza e tecnica, considera brevemente la gamma di strumenti e di macchine usati per estendere le capacità dei sensi e creare quelle speciali situazioni che si vogliono studiare; ci ricorda che la fisica è il risultato degli sforzi coordinati di molte persone.
 
 Il capitolo introduce molti temi che sono poi esemplificati nel corso: la fisica è più che un riassunto freddamente obiettivo della nostra conoscenza del mondo fisico, essa è un'attività umana in cui le idee dell’uomo riguardo al mondo fisico vengono continuamente raffinate attraverso un controllo basato su esperimenti e osservazioni. Vi si tratta anche dell’attendibilità delle misure e della funzione delle apparecchiature. Non occorre per ora ribadire queste idee. A mano a mano che svolgerete il corso avrete molte occasioni di approfondirle mediante esempi concreti.
 
@@ -25,10 +25,10 @@ Non ci sono problemi alla fine di questo capitolo. È stato preparato un film da
 
 ### Paragrafi 1–4
 
-- [[PSSC_Cap1_Trad#1 - 1. La fisica e le altre scienze della natura|Paragrafo 1 - La fisica e le altre scienze della natura]]  
-- [[PSSC_Cap1_Trad#1 - 2. Fisica e tecnica|Paragrafo 2 - Fisica e tecnica]]  
-- [[PSSC_Cap1_Trad#1 - 3. Gli strumenti della fisica|Paragrafo 3 - Gli strumenti della fisica]]  
-- [[PSSC_Cap1_Trad#1 - 4. Chi costruisce la fisica?|Paragrafo 4 - Chi costruisce la fisica?]]
+- [[PSSC_P1_C01#1 - 1. La fisica e le altre scienze della natura|Paragrafo 1 - La fisica e le altre scienze della natura]]  
+- [[PSSC_P1_C01#1 - 2. Fisica e tecnica|Paragrafo 2 - Fisica e tecnica]]  
+- [[PSSC_P1_C01#1 - 3. Gli strumenti della fisica|Paragrafo 3 - Gli strumenti della fisica]]  
+- [[PSSC_P1_C01#1 - 4. Chi costruisce la fisica?|Paragrafo 4 - Chi costruisce la fisica?]]
 
 #### OBIETTIVO  
 Introduzione alla natura generale della fisica.
@@ -70,13 +70,13 @@ La distinzione tra queste due specie di sforzi umani è spesso vaga e certo non 
 
 #### Le figure del capitolo 1
 
-Le figure del [[PSSC_Cap1_Trad#Capitolo 1 - Che cosa è la fisica?|capitolo 1]] illustrano in modo qualitativo alcuni punti del testo, e non devono servire da trampolino per discussioni su complicati esperimenti scientifici.
+Le figure del [[PSSC_P1_C01#Capitolo 1 - Che cosa è la fisica?|capitolo 1]] illustrano in modo qualitativo alcuni punti del testo, e non devono servire da trampolino per discussioni su complicati esperimenti scientifici.
 
 La [[Fig_1_04a.png|figura 4]], per esempio, intende semplicemente mostrare come la scoperta scientifica (in questo caso la scoperta della radioattività) spesso avvenga per mezzo di apparecchi molto semplici. Per contrasto, le figure [[Fig_1_05.png|5]] e [[Fig_1_06a.png|6]] illustrano alcuni strumenti scientifici estremamente complicati. Gli studenti si stupiranno forse nel vedere che l'enorme macchina della figura 5 è necessaria per osservare alcune caratteristiche del comportamento di particelle submicroscopiche.
 
 Di nuovo, le figure [[Fig_1_06a.png|6(a)]] e [[Fig_1_06b.png|6(b)]] mostrano come siano necessari talvolta strumenti complicati per fornire informazioni su interazioni semplici che non si potrebbero vedere altrimenti.
 
-La [[Fig_1_06a.png|figura 6(a)]] illustra la camera a bolle (un dispositivo per la rivelazione di particelle atomiche, che viene discusso nel [[PSSC_Cap7A_Trad#7 — 1. La materia e la sua misura|capitolo 7]]) situata nell'interno di un magnete, circa a metà strada verso l'alto a destra nella figura.
+La [[Fig_1_06a.png|figura 6(a)]] illustra la camera a bolle (un dispositivo per la rivelazione di particelle atomiche, che viene discusso nel [[PSSC_P1_C07A#7 — 1. La materia e la sua misura|capitolo 7]]) situata nell'interno di un magnete, circa a metà strada verso l'alto a destra nella figura.
 
 La [[Fig_1_06b.png|figura 6(b)]] può generare un certo numero di domande:  
 «Perché c'è la spirale?»,  

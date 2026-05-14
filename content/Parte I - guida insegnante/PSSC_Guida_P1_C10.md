@@ -25,7 +25,7 @@ Il fatto stesso di misurare perturba inevitabilmente il sistema sul quale si ese
 
 ## CALENDARIO DEL CAPITOLO 10
 
-Il [[PSSC_Cap10_Trad#Capitolo 10 - MISURAZIONE|Capitolo 10]] tratta implicitamente di quella branca della scienza nota come teoria delle informazioni. È assai difficile parlare di quest'argomento solo superficialmente, senza essersi in precedenza soffermati ampiamente sui problemi statistici. Ciò sarebbe senza dubbio troppo difficile per gli studenti a questo livello. Tuttavia i risultati generali di tali studi possono essere presentati qualitativamente (come appunto vien fatto qui). Questa materia sarà un importante contributo alla comprensione della natura e dei problemi della ricerca scientifica da parte degli studenti.
+Il [[PSSC_P1_C10#Capitolo 10 - MISURAZIONE|Capitolo 10]] tratta implicitamente di quella branca della scienza nota come teoria delle informazioni. È assai difficile parlare di quest'argomento solo superficialmente, senza essersi in precedenza soffermati ampiamente sui problemi statistici. Ciò sarebbe senza dubbio troppo difficile per gli studenti a questo livello. Tuttavia i risultati generali di tali studi possono essere presentati qualitativamente (come appunto vien fatto qui). Questa materia sarà un importante contributo alla comprensione della natura e dei problemi della ricerca scientifica da parte degli studenti.
 
 Questo capitolo è destinato ad essere letto. Non dovrebbe richiedere molto tempo in classe, a meno che non vogliate approfondire qualche argomento più di quanto non faccia il testo. Gli esercizi s'intendono soprattutto come domande «da meditare» da parte degli studenti, e non occorre assegnarli o discuterli in classe. Se il tempo è poco, si può trattare il capitolo interamente come lettura per casa, o lo si può saltare senza pericolo di creare delle lacune.
 
@@ -38,10 +38,10 @@ I primi tre esercizi sulla materia finale del capitolo sono discussi nelle pagin
 *Measurements* (Misure) di William Siebert del Massachusetts Institute of Technology. La misura della velocità di una palla da fucile viene usata come base per una discussione sul significato di misura; i problemi discussi includono il rumore di fondo, la precisione, le «scatole nere» e l'elemento di decisione inerente a tutte le misure.  
 Durata della proiezione: 22 minuti.
 
-Questa pellicola può venire usata per riassumere le idee del capitolo o per avviare una discussione generale sulla misura. Il film, sebbene originariamente destinato ad inserirsi nello studio del [[PSSC_Cap10_Trad#Capitolo 10 - MISURAZIONE|Capitolo 10]], può essere anche usato molto efficacemente verso la fine del [[PSSC_Cap3_Trad#Capitolo 3 - Lo spazio e la sua misurazione|Capitolo 3]].
+Questa pellicola può venire usata per riassumere le idee del capitolo o per avviare una discussione generale sulla misura. Il film, sebbene originariamente destinato ad inserirsi nello studio del [[PSSC_P1_C10#Capitolo 10 - MISURAZIONE|Capitolo 10]], può essere anche usato molto efficacemente verso la fine del [[PSSC_P1_C03#Capitolo 3 - Lo spazio e la sua misurazione|Capitolo 3]].
 
 ## Paragrafo 10-1
-- [[PSSC_Cap10_Trad#10 — 1. Decisione — l’unità di misura|Paragrafo 1 - Il fondamento della misura: la decisione fra due alternative]]
+- [[PSSC_P1_C10#10 — 1. Decisione — l’unità di misura|Paragrafo 1 - Il fondamento della misura: la decisione fra due alternative]]
 
 ### **OBIETTIVO**  
 Indicare il ruolo dell'osservatore in una misura, e fare rilevare la natura fondamentalmente binaria della decisione.
@@ -79,7 +79,7 @@ Non importa quale particolare istante ci si chieda di specificare, né se abbiam
 
 ## Paragrafo 10-2
 
-- [[PSSC_Cap10_Trad#10 — 2. Amplificazione e presentazione|Paragrafo 2 - Amplificazione e rivelazione]]
+- [[PSSC_P1_C10#10 — 2. Amplificazione e presentazione|Paragrafo 2 - Amplificazione e rivelazione]]
 
 ### **OBIETTIVO**  
 Far rilevare che l'uso di strumenti per l'amplificazione e la rivelazione non esime l'osservatore umano dalla necessità di prendere decisioni fondamentali sui risultati di una misura.
@@ -87,11 +87,11 @@ Far rilevare che l'uso di strumenti per l'amplificazione e la rivelazione non es
 ### **PUNTI DA METTERE IN EVIDENZA**  
 Trattare come parte di una lettura per casa, accertandosi semplicemente che gli studenti vedano come anche i più perfezionati apparecchi usati per le misure non sostituiscano il giudizio umano. Si tratta solamente di mezzi per aiutare un osservatore a «vedere meglio».
 
-Anche semplicemente nel contare, qualcuno deve decidere che cosa va contato e che cosa no. Vedere i **COMMENTI** nel [[PSSC_Cap10_Trad#10 — 3. Segnali e rumore|Paragrafo 3]].
+Anche semplicemente nel contare, qualcuno deve decidere che cosa va contato e che cosa no. Vedere i **COMMENTI** nel [[PSSC_P1_C10#10 — 3. Segnali e rumore|Paragrafo 3]].
 
 ## Paragrafo 10-3
 
-- [[PSSC_Cap10_Trad#10 — 3. Segnali e rumore|Paragrafo 3 - Segnali e disturbi]]
+- [[PSSC_P1_C10#10 — 3. Segnali e rumore|Paragrafo 3 - Segnali e disturbi]]
 
 ### **OBIETTIVO**  
 Far rilevare che ci sono delle limitazioni intrinseche alla precisione di qualunque misura fisica.
@@ -102,7 +102,7 @@ Trattare principalmente come parte di una lettura per casa, accertandosi soltant
 ### **COMMENTI**  
 Gli esempi del testo — il limite costituito dal fatto di non sapere dove sia esattamente la fine del tavolo, la larghezza dei segni sulla scala di misura, e l'effetto, nel campo delle dimensioni atomiche, del moto browniano — si possono usare come esempi di limitazioni naturali alla precisione delle misure.
 
-Gli studenti possono essere inclini a considerare il conteggio come una forma di misura con cui si può ottenere un alto grado di precisione. Qualche volta è così. Però, come rileva il testo nel [[PSSC_Cap10_Trad#10 — 1. Decisione — l’unità di misura|Paragrafo 1]] di questo capitolo, è spesso difficile decidere che cosa contare e che cosa no. Per chiarire questo punto, si potrebbe forse usare l'esempio seguente.
+Gli studenti possono essere inclini a considerare il conteggio come una forma di misura con cui si può ottenere un alto grado di precisione. Qualche volta è così. Però, come rileva il testo nel [[PSSC_P1_C10#10 — 1. Decisione — l’unità di misura|Paragrafo 1]] di questo capitolo, è spesso difficile decidere che cosa contare e che cosa no. Per chiarire questo punto, si potrebbe forse usare l'esempio seguente.
 
 Se per qualche ragione mandassimo diverse persone a contare tutte le palline da gioco che ci sono in città, le varie risposte probabilmente non coinciderebbero. E non solo per il fatto che qualcuno troverebbe delle palline che altri non troverebbero. Qualche volta sarebbe difficile determinare che cosa è una pallina e che cosa non lo è. Come definiremmo una pallina? Dall'aspetto? Dalle dimensioni? Dal fatto che sia stata usata o meno per giocare a palline? Quanto dev'esser grande o quanto dev'esser piccola una pallina di vetro per non essere una pallina da gioco? Potremmo stabilire certi limiti di grandezza e dire che tutte le palline di vetro entro questi limiti sono palline da gioco, e tutte le palline di vetro più grandi e più piccole non sono palline da gioco?
 
@@ -116,7 +116,7 @@ Agli studenti può interessare sapere che il solo modo di ridurre gli effetti de
 
 ## Paragrafo 10-4
 
-- [[PSSC_Cap10_Trad#10 — 4. Scatole nere e calibrazione|Paragrafo 4 - Scatole nere e taratura]]
+- [[PSSC_P1_C10#10 — 4. Scatole nere e calibrazione|Paragrafo 4 - Scatole nere e taratura]]
 
 ### **OBIETTIVO**  
 Questo paragrafo accoglie una discussione elementare sulla filosofia delle misure, destinata a far comprendere agli studenti che, se tarano con cura i loro strumenti, non occorre che ne conoscano a fondo il funzionamento interno per ottenere dati utili.
@@ -131,7 +131,7 @@ La taratura ci permette di determinare la precisione relativa di uno strumento, 
 
 ## Paragrafo 10-5
 
-- [[PSSC_Cap10_Trad#10 — 5. Interazione|Paragrafo 5 - Interazione]]
+- [[PSSC_P1_C10#10 — 5. Interazione|Paragrafo 5 - Interazione]]
 
 ### **OBIETTIVO**  
 Far rilevare che l'atto stesso di misurare perturba il sistema che viene misurato, e pone un altro limite fondamentale alla precisione della misura.
@@ -144,7 +144,7 @@ Le enunciazioni apparentemente semplici di questo paragrafo nascono da questioni
 
 ## Paragrafo 10-6
 
-- [[PSSC_Cap10_Trad#10 — 6. Luce|Paragrafo 6 - La luce]]
+- [[PSSC_P1_C10#10 — 6. Luce|Paragrafo 6 - La luce]]
 
 ### **OBIETTIVO**  
 Introduzione alla Parte II.

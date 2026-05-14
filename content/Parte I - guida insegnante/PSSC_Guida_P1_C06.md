@@ -3,7 +3,7 @@ title: Capitolo 6 - I vettori
 ---
 # Capitolo 6 – I vettori
 
-La cinematica del moto unidimensionale ([[PSSC_Cap5_Trad#Capitolo 5 - Movimento lungo una traiettoria|Capitolo 5]]) viene estesa in questo capitolo al moto nello spazio. A questo scopo, il capitolo introduce le grandezze vettoriali. Il capitolo si divide in modo naturale in tre parti:  
+La cinematica del moto unidimensionale ([[PSSC_P1_C05#Capitolo 5 - Movimento lungo una traiettoria|Capitolo 5]]) viene estesa in questo capitolo al moto nello spazio. A questo scopo, il capitolo introduce le grandezze vettoriali. Il capitolo si divide in modo naturale in tre parti:  
 1) natura delle grandezze vettoriali e calcolo vettoriale;  
 2) vettore accelerazione;  
 3) discussione sui sistemi di riferimento e distinzione fra cinematica e dinamica.
@@ -12,11 +12,11 @@ Questo capitolo comprende idee d'importanza fondamentale e dovrebbe esser svolto
 
 ## RIASSUNTO DEL CAPITOLO
 
-**Paragrafi da 1 a 4.** I vettori vengono introdotti considerando spostamenti orientati e spiegando le regole per l'addizione e la sottrazione grafica di grandezze vettoriali. Si introduce il [[PSSC_Cap6_Trad#6 — 2. Vettori velocità|vettore velocità]] e si discute un certo numero di problemi di navigazione. Nella trattazione algebrica dei problemi vettoriali si considerano le [[PSSC_Cap6_Trad#6 — 3. Componenti dei vettori|componenti di vettori]] e i risultati della [[PSSC_Cap6_Trad#6 — 4. Moltiplicazione di vettori per numeri e scalari|moltiplicazione di vettori per scalari]].
+**Paragrafi da 1 a 4.** I vettori vengono introdotti considerando spostamenti orientati e spiegando le regole per l'addizione e la sottrazione grafica di grandezze vettoriali. Si introduce il [[PSSC_P1_C06#6 — 2. Vettori velocità|vettore velocità]] e si discute un certo numero di problemi di navigazione. Nella trattazione algebrica dei problemi vettoriali si considerano le [[PSSC_P1_C06#6 — 3. Componenti dei vettori|componenti di vettori]] e i risultati della [[PSSC_P1_C06#6 — 4. Moltiplicazione di vettori per numeri e scalari|moltiplicazione di vettori per scalari]].
 
-**Paragrafi 5 e 6.** Il concetto di [[PSSC_Cap6_Trad#6 — 5. Variazioni della velocità vettoriale e vettore accelerazione costante|vettore accelerazione]] è introdotto come misura della variazione di velocità (vettoriale) col tempo. Un'accelerazione è presente ogni volta che la velocità cambia in grandezza o in direzione. Vengono considerati due tipi di moto: a vettore accelerazione costante, e ad [[PSSC_Cap6_Trad#6 — 6. Accelerazione variabile e accelerazione vettoriale istantanea|accelerazione variabile]].
+**Paragrafi 5 e 6.** Il concetto di [[PSSC_P1_C06#6 — 5. Variazioni della velocità vettoriale e vettore accelerazione costante|vettore accelerazione]] è introdotto come misura della variazione di velocità (vettoriale) col tempo. Un'accelerazione è presente ogni volta che la velocità cambia in grandezza o in direzione. Vengono considerati due tipi di moto: a vettore accelerazione costante, e ad [[PSSC_P1_C06#6 — 6. Accelerazione variabile e accelerazione vettoriale istantanea|accelerazione variabile]].
 
-**Paragrafi da 7 a 9.** Le descrizioni cinematiche dipendono dalla scelta del [[PSSC_Cap6_Trad#6 — 7. La descrizione del movimento; sistemi di riferimento|sistema di riferimento]]: un moto particolare può spesso esser descritto in un modo più semplice facendo una scelta opportuna del sistema di riferimento. Si pone in evidenza il fatto che la [[PSSC_Cap6_Trad#6 — 8. Cinematica e dinamica|cinematica]] non spiega perché gli oggetti si muovano in un determinato modo, e si mostra come la cinematica newtoniana, pur restando valida in un campo assai vasto, non regga più per oggetti in moto con [[PSSC_Cap6_Trad#6 — 9. La velocità della luce|velocità prossime a quella della luce]].
+**Paragrafi da 7 a 9.** Le descrizioni cinematiche dipendono dalla scelta del [[PSSC_P1_C06#6 — 7. La descrizione del movimento; sistemi di riferimento|sistema di riferimento]]: un moto particolare può spesso esser descritto in un modo più semplice facendo una scelta opportuna del sistema di riferimento. Si pone in evidenza il fatto che la [[PSSC_P1_C06#6 — 8. Cinematica e dinamica|cinematica]] non spiega perché gli oggetti si muovano in un determinato modo, e si mostra come la cinematica newtoniana, pur restando valida in un campo assai vasto, non regga più per oggetti in moto con [[PSSC_P1_C06#6 — 9. La velocità della luce|velocità prossime a quella della luce]].
 
 ## CALENDARIO DEL CAPITOLO 6
 
@@ -35,18 +35,18 @@ Cercate che gli studenti comprendano bene i vettori, tenendo presente però che 
 
 ### Laboratorio
 
-Benché non vi siano esperimenti particolari dedicati al [[PSSC_Cap6_Trad#Capitolo 6 - Vettori|Capitolo 6]], gli studenti potranno impiegare vantaggiosamente le ore di laboratorio esercitandosi a risolvere, con la guida dell'insegnante, problemi sui vettori mediante riga e goniometro.
+Benché non vi siano esperimenti particolari dedicati al [[PSSC_P1_C06#Capitolo 6 - Vettori|Capitolo 6]], gli studenti potranno impiegare vantaggiosamente le ore di laboratorio esercitandosi a risolvere, con la guida dell'insegnante, problemi sui vettori mediante riga e goniometro.
 ### Lavori per Casa, Scuola e Laboratorio
 
 La seguente tabella classifica i problemi secondo la stima del loro grado di difficoltà e secondo i paragrafi cui si riferiscono. Sono indicati quelli particolarmente adatti a una discussione in classe. I problemi particolarmente raccomandati sono contrassegnati da un asterisco (\*). Le soluzioni dei problemi sono date nelle pagine verdi: le risposte brevi a pagina 6-17, i commenti e le soluzioni dettagliate nelle pagine da 6-18 a 6-33.
 
 | **Paragrafo**                                                                                                                                                                                          | **Facile**         | **Medio**        | **Difficile** | **Discussione in classe** |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ | ---------------- | ------------- | ------------------------- |
-| [[PSSC_Cap6_Trad#**6 — 1. Traiettorie e vettori; addizione e sottrazione di vettori**\|1]]                                                                                                             | 1, 2\*, 3          | 4\*, 5\*, 6\*, 7 | –             | 4 e 5 insieme, 2, 6, 7    |
-| [[PSSC_Cap6_Trad#**6 — 2. Vettori velocità**\|2]]                                                                                                                                                      | 8, 9\*, 11\*       | 10, 13\*         | 12, 14\*      | 9, 11, 14\*               |
-| [[PSSC_Cap6_Trad#**6 — 3. Componenti dei vettori**\|3]]                                                                                                                                                | 15, 16\*, 18\*, 19 | 17, 20\*, 27\*   | 21\*          | 16\*                      |
-| [[PSSC_Cap6_Trad#**6 — 4. Moltiplicazione di vettori per numeri e scalari**\|4]]                                                                                                                       | 8                  | 10, 22\*         | 23, 24        | 10                        |
-| [[PSSC_Cap6_Trad#**6 — 5. Variazioni della velocità vettoriale e vettore accelerazione costante**\|5]], [[PSSC_Cap6_Trad#**6 — 6. Accelerazione variabile e accelerazione vettoriale istantanea**\|6]] | –                  | 26\*             | 25\*          | 25, 26\*                  |
+| [[PSSC_P1_C06#**6 — 1. Traiettorie e vettori; addizione e sottrazione di vettori**\|1]]                                                                                                             | 1, 2\*, 3          | 4\*, 5\*, 6\*, 7 | –             | 4 e 5 insieme, 2, 6, 7    |
+| [[PSSC_P1_C06#**6 — 2. Vettori velocità**\|2]]                                                                                                                                                      | 8, 9\*, 11\*       | 10, 13\*         | 12, 14\*      | 9, 11, 14\*               |
+| [[PSSC_P1_C06#**6 — 3. Componenti dei vettori**\|3]]                                                                                                                                                | 15, 16\*, 18\*, 19 | 17, 20\*, 27\*   | 21\*          | 16\*                      |
+| [[PSSC_P1_C06#**6 — 4. Moltiplicazione di vettori per numeri e scalari**\|4]]                                                                                                                       | 8                  | 10, 22\*         | 23, 24        | 10                        |
+| [[PSSC_P1_C06#**6 — 5. Variazioni della velocità vettoriale e vettore accelerazione costante**\|5]], [[PSSC_P1_C06#**6 — 6. Accelerazione variabile e accelerazione vettoriale istantanea**\|6]] | –                  | 26\*             | 25\*          | 25, 26\*                  |
 
 ### Film
 
@@ -60,7 +60,7 @@ Un'attrezzatura normale di modelli per le dimostrazioni sui vettori può essere 
 Essi dovranno esercitarsi in classe a risolvere numerosi problemi, allo scopo di assimilare il carattere vettoriale del moto.
 ## Paragrafo 1
 
-- [[PSSC_Cap6_Trad#**6 — 1. Traiettorie e vettori; addizione e sottrazione di vettori**]]
+- [[PSSC_P1_C06#**6 — 1. Traiettorie e vettori; addizione e sottrazione di vettori**]]
 
 ### OBIETTIVO
 
@@ -80,7 +80,7 @@ e. Gli scalari sono grandezze che si sommano come numeri.
 
 ### PUNTI DA METTERE IN EVIDENZA
 
-Trattare a fondo. Prima di affrontare le situazioni fisiche più complicate discusse nel [[PSSC_Cap6_Trad#6 — 2. Vettori velocità|paragrafo 2]], sarebbe bene illustrare i procedimenti grafici per la somma di vettori.
+Trattare a fondo. Prima di affrontare le situazioni fisiche più complicate discusse nel [[PSSC_P1_C06#6 — 2. Vettori velocità|paragrafo 2]], sarebbe bene illustrare i procedimenti grafici per la somma di vettori.
 
 ### SVOLGIMENTO
 
@@ -91,14 +91,14 @@ Esempio: un viaggio in linea d'aria da Firenze, di 78 km in direzione 5° da nor
 
 È importante per gli studenti disegnare i vettori ed eseguire graficamente le somme vettoriali. È bene essere esatti su questo punto. Con matite appuntite, buone righe e goniometri, si possono sommare graficamente due vettori con una approssimazione dello 0,3% circa — meglio di quanto si possa fare trigonometricamente con un regolo.
 
-Il [[PSSC_Cap6_Trad#PER CASA, CLASSE E LABORATORIO|Problema 6 dei Lavori per Casa, Scuola e Laboratorio]] è specificamente dedicato a questo scopo.  
+Il [[PSSC_P1_C06#PER CASA, CLASSE E LABORATORIO|Problema 6 dei Lavori per Casa, Scuola e Laboratorio]] è specificamente dedicato a questo scopo.  
 Insistiamo sulla necessità di una buona attrezzatura e di disegni in scala accurati, in seguito all'esperienza fatta in una classe: gli studenti eseguivano disegni in scala sciatti e approssimativi e trovavano quest'attività piuttosto insipida anche se lavoravano su problemi che richiedevano una certa esperienza. Appena si richiese attenzione e precisione, la classe si impegnò in una specie di gara per ottenere risultati più accurati, l'interesse crebbe e si mantenne.
 
 C'è un'altra cosa importante a proposito dei disegni in scala. Di quando in quando, negli esercizi di laboratorio, gli studenti riporteranno angoli e distanze direttamente come disegni in scala. Dopo aver riportato i dati in un disegno, alcuni studenti che sappiano applicare la trigonometria rileveranno le misure dai disegni e passeranno al calcolo trigonometrico. **La precisione non sarà mai superiore a quella del disegno originale!**  
 Nella maggior parte dei casi, il calcolo si può eseguire più facilmente per via grafica.
 
 Quando $AB + BC = AC$, $AC$ si chiama *vettore somma* di $AB$ e $BC$ (o *risultante*).  
-Agli inizi della vostra discussione in classe, considerate qualche problema che implichi la somma di più di due vettori. Il [[PSSC_Cap6_Trad#PER CASA, CLASSE E LABORATORIO|problema 1 dei Lavori per Casa, Scuola e Laboratorio]] è un esempio. Oppure, chiedete agli studenti di sommare vettori come quelli riportati qui a destra.
+Agli inizi della vostra discussione in classe, considerate qualche problema che implichi la somma di più di due vettori. Il [[PSSC_P1_C06#PER CASA, CLASSE E LABORATORIO|problema 1 dei Lavori per Casa, Scuola e Laboratorio]] è un esempio. Oppure, chiedete agli studenti di sommare vettori come quelli riportati qui a destra.
 
 (Potete rappresentare i vettori disegnandoli, come sopra, oppure specificandone lunghezza e direzione.)  
 Ogni vettore viene mosso parallelamente a se stesso, finché la sua coda coincide con la testa del vettore precedente. **Notare che il vettore somma è indipendente dall'ordine di addizione.**
@@ -140,7 +140,7 @@ Dato che la Terra è sferica, qualsiasi carta piana comporta una certa distorsio
 Per ovviare a tale difficoltà, potete scegliere delle città che non distino più di un centinaio di chilometri una dall'altra.
 ## Paragrafo 2
 
-- [[PSSC_Cap6_Trad#**6 — 2. Vettori velocità**]]
+- [[PSSC_P1_C06#**6 — 2. Vettori velocità**]]
 
 ### OBIETTIVO
 
@@ -216,7 +216,7 @@ $AB = 69$ km/h, $BC = 40$ km/h, $AC = 80$ km/h.
 ![Figura 3](Fig_GuidaIT_6-3.png)
 ## Paragrafo 3
 
-- [[PSSC_Cap6_Trad#6 — 3. Componenti dei vettori|Paragrafo 3 – Le componenti dei vettori]]
+- [[PSSC_P1_C06#6 — 3. Componenti dei vettori|Paragrafo 3 – Le componenti dei vettori]]
 
 ### OBIETTIVO
 
@@ -331,7 +331,7 @@ Ecco un altro problema per un'interrogazione o per una discussione; **si può ri
 
 ## Paragrafo 4
 
-- [[PSSC_Cap6_Trad#6 — 4. Moltiplicazione di vettori per numeri e scalari|Paragrafo 4 – Prodotto di un vettore per un numero e per una grandezza scalare]]
+- [[PSSC_P1_C06#6 — 4. Moltiplicazione di vettori per numeri e scalari|Paragrafo 4 – Prodotto di un vettore per un numero e per una grandezza scalare]]
 
 ### OBIETTIVO
 
@@ -393,7 +393,7 @@ La presenza di un fattore molto grande, 45, **obbligherà ad usare una nuova sca
 
 ## Paragrafo 5
 
-- [[PSSC_Cap6_Trad#6 — 5. Variazioni della velocità vettoriale e vettore accelerazione costante|Paragrafo 5 – Variazioni di velocità e moto con vettore accelerazione costante]]
+- [[PSSC_P1_C06#6 — 5. Variazioni della velocità vettoriale e vettore accelerazione costante|Paragrafo 5 – Variazioni di velocità e moto con vettore accelerazione costante]]
 
 ### OBIETTIVO
 
@@ -401,7 +401,7 @@ Introdurre il concetto di vettore accelerazione.
 
 ### PUNTI DA METTERE IN EVIDENZA
 
-È importante che gli studenti afferrino il concetto di **vettore accelerazione costante** prima di passare all'[[PSSC_Cap6_Trad#6 — 6. Accelerazione variabile e accelerazione vettoriale istantanea|accelerazione variabile]] (Paragrafo 6).  
+È importante che gli studenti afferrino il concetto di **vettore accelerazione costante** prima di passare all'[[PSSC_P1_C06#6 — 6. Accelerazione variabile e accelerazione vettoriale istantanea|accelerazione variabile]] (Paragrafo 6).  
 Usate molti problemi: ne troverete qui sotto alcuni adatti alla discussione in classe.  
 Se i vostri studenti non capiscono a fondo, **non abbandonate le speranze**: ritroveranno il vettore accelerazione nella Parte II.
 
@@ -459,7 +459,7 @@ ossia:
 - $\frac{4{,}81}{12} = 0{,}4$ km/h/s, 33,5° da nord verso est.
 L'equazione $\vec{v_f} = \vec{v_i} + \vec{a}t$ è di **importanza basilare**.  
 Per comprenderne a fondo il significato è necessario che gli studenti eseguano i successivi passaggi grafici.  
-Saranno largamente ripagati del loro lavoro, che li aiuterà anche ad afferrare il contenuto del [[PSSC_Cap6_Trad#6 — 6. Accelerazione variabile e accelerazione vettoriale istantanea|paragrafo successivo]].
+Saranno largamente ripagati del loro lavoro, che li aiuterà anche ad afferrare il contenuto del [[PSSC_P1_C06#6 — 6. Accelerazione variabile e accelerazione vettoriale istantanea|paragrafo successivo]].
 
 Ecco un suggerimento:
 
@@ -516,7 +516,7 @@ Così, **entrambe le soluzioni riportate qui sotto sono corrette**:
 
 ![Figura 14](Fig_GuidaIT_6-14.png)
 
-Il procedimento che abbiamo suggerito ha lo scopo di **rivelare un certo numero di punti nascosti** che possono mettere in difficoltà gli studenti nel [[PSSC_Cap6_Trad#6 — 6. Accelerazione variabile e accelerazione vettoriale istantanea|Paragrafo 6 – Accelerazione variabile]].
+Il procedimento che abbiamo suggerito ha lo scopo di **rivelare un certo numero di punti nascosti** che possono mettere in difficoltà gli studenti nel [[PSSC_P1_C06#6 — 6. Accelerazione variabile e accelerazione vettoriale istantanea|Paragrafo 6 – Accelerazione variabile]].
 
 In particolare, **le difficoltà sorgono perché abbiamo a che fare con vettori** e perché **l'accelerazione ha unità diverse da quelle della velocità** e deve perciò essere **disegnata nella propria scala**.
 
@@ -546,7 +546,7 @@ Gli studenti dovrebbero notare che:
 
 ## Paragrafo 6 
 
-- [[PSSC_Cap6_Trad#6 — 6. Accelerazione variabile e accelerazione vettoriale istantanea|Paragrafo 6 – Accelerazione variabile e vettore accelerazione istantanea]]
+- [[PSSC_P1_C06#6 — 6. Accelerazione variabile e accelerazione vettoriale istantanea|Paragrafo 6 – Accelerazione variabile e vettore accelerazione istantanea]]
 
 ### OBIETTIVO
 
@@ -576,7 +576,7 @@ Le due tabelle daranno all’incirca **gli stessi valori dell’accelerazione ne
 ma la seconda tabella dovrebbe mostrare con **qualche particolare** il modo in cui $\vec{a}$ sta variando.
 
 Gli studenti dovrebbero eseguire una simile **analisi grafica del moto circolare** raffigurato nella **Fig. 6-29**.  
-Altri esempi sono dati nei problemi [[PSSC_Cap6_Trad#PER CASA, CLASSE E LABORATORIO|CSL 25 e 26]].  
+Altri esempi sono dati nei problemi [[PSSC_P1_C06#PER CASA, CLASSE E LABORATORIO|CSL 25 e 26]].  
 L’**analisi grafica** di questi due problemi è **più istruttiva a questo punto** che non le soluzioni trigonometriche.
 
 Fate il possibile per render chiari **i concetti di accelerazione media ed istantanea**.  
@@ -633,7 +633,7 @@ Calcolate **graficamente la velocità (vettoriale) media durante ciascun interva
 ![Figura 16](Fig_GuidaIT_6-16.png)
 ## Paragrafo 7
 
-- [[PSSC_Cap6_Trad#6 — 7. La descrizione del movimento; sistemi di riferimento|Paragrafo 7 – Descrizione del moto. Sistemi di riferimento]]
+- [[PSSC_P1_C06#6 — 7. La descrizione del movimento; sistemi di riferimento|Paragrafo 7 – Descrizione del moto. Sistemi di riferimento]]
 
 ### OBIETTIVO
 
@@ -659,7 +659,7 @@ Quest'argomento sarà **ampiamente riveduto** quando verranno discussi gli aspet
 
 ## Paragrafo 8
 
-- [[PSSC_Cap6_Trad#6 — 8. Cinematica e dinamica|Paragrafo 8 – Cinematica e dinamica]]
+- [[PSSC_P1_C06#6 — 8. Cinematica e dinamica|Paragrafo 8 – Cinematica e dinamica]]
 
 ### OBIETTIVO
 
@@ -695,7 +695,7 @@ Non è forse il caso di **fermarsi a trattare a fondo i rapporti tra fisica e in
 
 ## Paragrafo 9
 
-- [[PSSC_Cap6_Trad#6 — 9. La velocità della luce|Paragrafo 9 – La velocità della luce]]
+- [[PSSC_P1_C06#6 — 9. La velocità della luce|Paragrafo 9 – La velocità della luce]]
 
 ### OBIETTIVO
 

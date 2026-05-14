@@ -1,7 +1,6 @@
 ---
 title: Laboratorio
 ---
-
 # Indice
 
 **Parte I**

@@ -3,9 +3,9 @@ title: Capitolo 2 - Tempo e misura
 ---
 ## Capitolo 2 – Tempo e misura
 
-I paragrafi iniziali di questo [[PSSC_Cap2_Trad#Capitolo 2 - Tempo e misura|capitolo]] sono un'introduzione non solo alla misura del tempo, ma ad uno dei problemi fondamentali della fisica (e del suo insegnamento): andare oltre i nostri sensi e le esperienze familiari per arrivare a un quadro organico del mondo fisico — un mondo i cui aspetti sono spesso troppo grandi o troppo piccoli, troppo veloci o troppo lenti, troppo complessi o troppo lontani per comprenderli direttamente attraverso i sensi.
+I paragrafi iniziali di questo [[PSSC_P1_C02#Capitolo 2 - Tempo e misura|capitolo]] sono un'introduzione non solo alla misura del tempo, ma ad uno dei problemi fondamentali della fisica (e del suo insegnamento): andare oltre i nostri sensi e le esperienze familiari per arrivare a un quadro organico del mondo fisico — un mondo i cui aspetti sono spesso troppo grandi o troppo piccoli, troppo veloci o troppo lenti, troppo complessi o troppo lontani per comprenderli direttamente attraverso i sensi.
 
-Il [[PSSC_Cap2_Trad#Capitolo 2 - Tempo e misura|capitolo 2]] si divide naturalmente in tre parti:  
+Il [[PSSC_P1_C02#Capitolo 2 - Tempo e misura|capitolo 2]] si divide naturalmente in tre parti:  
 1. Una discussione introduttiva sull'idea di misura e i suoi rapporti coi sensi, discussione che identifica il tempo in una variabile fisica.  
 2. Una discussione quantitativa della misura degli intervalli di tempo mediante la tecnica stroboscopica e quella dei flash multipli.  
 3. Un richiamo sul fatto che la misura del tempo implica il contare unità arbitrarie in un certo intervallo, e l'introduzione della notazione con le potenze di dieci e il concetto di ordine di grandezza, che conduce ad una discussione della gamma di intervalli di tempo che si incontrano nella fisica.
@@ -20,7 +20,7 @@ La parte I del corso riguarda le nostre idee fondamentali di tempo e di spazio (
 Questi sono paragrafi introduttivi e trattano delle misure di tempo in relazione ai sensi dell'osservatore. Dimostrano che gli strumenti sono semplici estensioni della diretta percezione dei sensi, e introducono l’idea che si misurano sempre delle differenze.
 
 **Paragrafi 4 e 5**  
-Questi paragrafi trattano della misura quantitativa di intervalli di tempo con le tecniche dei [[PSSC_Cap2_Trad#2 - 4. Intervalli di tempo lunghi e brevi; flash multiplo|flash multipli]] e dello [[PSSC_Cap2_Trad#2 - 5. Lo stroboscopio|stroboscopio]] per osservare le successive posizioni di sistemi fisici.
+Questi paragrafi trattano della misura quantitativa di intervalli di tempo con le tecniche dei [[PSSC_P1_C02#2 - 4. Intervalli di tempo lunghi e brevi; flash multiplo|flash multipli]] e dello [[PSSC_P1_C02#2 - 5. Lo stroboscopio|stroboscopio]] per osservare le successive posizioni di sistemi fisici.
 
 **Paragrafi da 6 a 8**  
 Notiamo che gli intervalli di tempo vengono misurati in termini di unità arbitrarie. La notazione con le potenze di dieci viene introdotta come una abbreviazione utile per maneggiare numeri molto grandi o molto piccoli. Il concetto di ordine di grandezza di una quantità fisica viene presentato come specificazione della più vicina potenza di dieci dell'unità in cui la quantità è misurata. Il capitolo conclude con l'osservazione che il tempo ha un «verso naturale» di scorrimento.
@@ -30,19 +30,19 @@ Notiamo che gli intervalli di tempo vengono misurati in termini di unità arbitr
 ### Calendario del Capitolo 2
 
 L'intero capitolo può essere assegnato come lettura per casa prima della discussione in classe.  
-L'[[PSSC_Lab_Trad#I – 1. Piccoli intervalli di tempo|esperimento I-1]] dovrebbe essere svolto prima della discussione in classe dei paragrafi [[PSSC_Cap2_Trad#2 - 4. Intervalli di tempo lunghi e brevi; flash multiplo|4]] e [[PSSC_Cap2_Trad#2 - 5. Lo stroboscopio|5]], per chiarire questa discussione.  
-La discussione in classe si può sviluppare attorno ai film descritti qui sotto. Alcuni problemi relativi ai paragrafi 4–5 e [[PSSC_Cap2_Trad#2 - 7. Tempi lunghi e brevi - ordini di grandezza|7]] dovrebbero essere discussi in classe e assegnati come compiti per casa.
+L'[[PSSC_P1_LAB#I – 1. Piccoli intervalli di tempo|esperimento I-1]] dovrebbe essere svolto prima della discussione in classe dei paragrafi [[PSSC_P1_C02#2 - 4. Intervalli di tempo lunghi e brevi; flash multiplo|4]] e [[PSSC_P1_C02#2 - 5. Lo stroboscopio|5]], per chiarire questa discussione.  
+La discussione in classe si può sviluppare attorno ai film descritti qui sotto. Alcuni problemi relativi ai paragrafi 4–5 e [[PSSC_P1_C02#2 - 7. Tempi lunghi e brevi - ordini di grandezza|7]] dovrebbero essere discussi in classe e assegnati come compiti per casa.
 
 ---
 
 ### Materiali Sussidiari per il Capitolo 2
 
 **Laboratorio**  
-[[PSSC_Lab_Trad#I – 1. Piccoli intervalli di tempo|Esperimento I-1 – Piccoli intervalli di tempo]].  
+[[PSSC_P1_LAB#I – 1. Piccoli intervalli di tempo|Esperimento I-1 – Piccoli intervalli di tempo]].  
 Quest’esperimento implica l’uso di un semplice stroboscopio e del marcatempo a nastro di carta.  
 Oltre alla loro utilizzazione a questo punto per misurare brevi intervalli di tempo e far conoscere agli studenti alcuni problemi della strumentazione, entrambi questi dispositivi verranno usati ripetutamente in seguito in esercitazioni di laboratorio. Di conseguenza, gli studenti dovrebbero acquistare familiarità con il funzionamento e le caratteristiche di questi dispositivi come strumenti di misura.
 
-Per le risposte alle domande degli studenti nella Guida di laboratorio e per suggerimenti sul modo di condurre gli esperimenti, vedere le pagine gialle sull’[[PSSC_Lab_Trad#I – 1. Piccoli intervalli di tempo|esperimento I-1]].
+Per le risposte alle domande degli studenti nella Guida di laboratorio e per suggerimenti sul modo di condurre gli esperimenti, vedere le pagine gialle sull’[[PSSC_P1_LAB#I – 1. Piccoli intervalli di tempo|esperimento I-1]].
 
 ### Per casa, scuola e laboratorio
 
@@ -52,7 +52,7 @@ Le soluzioni dei problemi sono date nelle pagine verdi: le risposte brevi a pagi
 
 #### Tabella 1: Classificazione dei problemi per grado di difficoltà e uso
 
-| Paragrafo           | [[PSSC_Cap2_Trad#2 - 1. Punto di partenza - i sensi\|1]], [[PSSC_Cap2_Trad#2 - 2. I concetti chiave della fisica; la necessità di estendere i sensi\|2]], [[PSSC_Cap2_Trad#2 - 3. Il tempo e il suo corso\|3]] | [[PSSC_Cap2_Trad#2 - 4. Intervalli di tempo lunghi e brevi; flash multiplo\|4]] | [[PSSC_Cap2_Trad#2 - 5. Lo stroboscopio\|5]] | [[PSSC_Cap2_Trad#2 - 6. Confrontare i tempi; contare in unità\|6]] | [[PSSC_Cap2_Trad#2 - 7. Tempi lunghi e brevi - ordini di grandezza\|7]] |
+| Paragrafo           | [[PSSC_P1_C02#2 - 1. Punto di partenza - i sensi\|1]], [[PSSC_P1_C02#2 - 2. I concetti chiave della fisica; la necessità di estendere i sensi\|2]], [[PSSC_P1_C02#2 - 3. Il tempo e il suo corso\|3]] | [[PSSC_P1_C02#2 - 4. Intervalli di tempo lunghi e brevi; flash multiplo\|4]] | [[PSSC_P1_C02#2 - 5. Lo stroboscopio\|5]] | [[PSSC_P1_C02#2 - 6. Confrontare i tempi; contare in unità\|6]] | [[PSSC_P1_C02#2 - 7. Tempi lunghi e brevi - ordini di grandezza\|7]] |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 | **Facile**          | 1, 2, 3                                                                                                                                                                                                        | 8, 9\*                                                                          | 14                                           |                                                                    | 17                                                                      |
 | **Medio**           |                                                                                                                                                                                                                | 7\* ,10\*, 11                                                                   | 12                                           | 16\*                                                               | 18\*,19,20\*,21                                                         |
@@ -86,19 +86,19 @@ Le soluzioni dei problemi sono date nelle pagine verdi: le risposte brevi a pagi
   Vengono discussi il concetto di tempo di dimezzamento e il trattamento del granito per estrarne lo zirconio e controllare il piombo 206.
 
 Ognuno di questi film, o anche tutti, possono essere impiegati con profitto. Se si proiettano tutti, l’ordine in cui sono stati descritti qui sopra è probabilmente il più naturale.  
-Se possibile, sarà probabilmente cosa saggia completare l’[[PSSC_Lab_Trad#I – 1. Piccoli intervalli di tempo|esperimento di laboratorio I-1]] prima di impiegare «Intervalli di tempo brevi» o «Tempo e orologi».
+Se possibile, sarà probabilmente cosa saggia completare l’[[PSSC_P1_LAB#I – 1. Piccoli intervalli di tempo|esperimento di laboratorio I-1]] prima di impiegare «Intervalli di tempo brevi» o «Tempo e orologi».
 
 ---
 
 ### Dimostrazioni
 
-Se si dispone di un buon stroboscopio da laboratorio lo si può usare per illustrare i concetti del [[PSSC_Cap2_Trad#2 - 5. Lo stroboscopio|paragrafo 5]].  
-Comunque, le dimostrazioni non sostituiscono adeguatamente il lavoro di laboratorio sull’[[PSSC_Lab_Trad#I – 1. Piccoli intervalli di tempo|esperimento I-1]].
+Se si dispone di un buon stroboscopio da laboratorio lo si può usare per illustrare i concetti del [[PSSC_P1_C02#2 - 5. Lo stroboscopio|paragrafo 5]].  
+Comunque, le dimostrazioni non sostituiscono adeguatamente il lavoro di laboratorio sull’[[PSSC_P1_LAB#I – 1. Piccoli intervalli di tempo|esperimento I-1]].
 ### Paragrafi 2–1, 2–2, 2–3
 
-- [[PSSC_Cap2_Trad#2 - 1. Punto di partenza - i sensi|Paragrafo 1 – Il punto di partenza; i sensi]]  
-- [[PSSC_Cap2_Trad#2 - 2. I concetti chiave della fisica; la necessità di estendere i sensi|Paragrafo 2 – I concetti fondamentali della fisica; necessità di ampliare il campo dei sensi]]  
-- [[PSSC_Cap2_Trad#2 - 3. Il tempo e il suo corso|Paragrafo 3 – Il tempo e il suo scorrere]]
+- [[PSSC_P1_C02#2 - 1. Punto di partenza - i sensi|Paragrafo 1 – Il punto di partenza; i sensi]]  
+- [[PSSC_P1_C02#2 - 2. I concetti chiave della fisica; la necessità di estendere i sensi|Paragrafo 2 – I concetti fondamentali della fisica; necessità di ampliare il campo dei sensi]]  
+- [[PSSC_P1_C02#2 - 3. Il tempo e il suo corso|Paragrafo 3 – Il tempo e il suo scorrere]]
 
 #### OBIETTIVO  
 Specificare cosa s’intende per misura di «tempo», in relazione ai sensi dell’osservatore e ai cambiamenti nel mondo fisico.
@@ -135,19 +135,19 @@ Per osservare il «ciclo vitale» dell’universo, dovremmo attendere per un num
 
 ### Paragrafi 2–4, 2–5
 
-- [[PSSC_Cap2_Trad#2 - 4. Intervalli di tempo lunghi e brevi; flash multiplo|Paragrafo 4 – Intervalli di tempo brevi e lunghi; tecnica del multiflash]]  
-- [[PSSC_Cap2_Trad#2 - 5. Lo stroboscopio|Paragrafo 5 – Lo stroboscopio]]
+- [[PSSC_P1_C02#2 - 4. Intervalli di tempo lunghi e brevi; flash multiplo|Paragrafo 4 – Intervalli di tempo brevi e lunghi; tecnica del multiflash]]  
+- [[PSSC_P1_C02#2 - 5. Lo stroboscopio|Paragrafo 5 – Lo stroboscopio]]
 
 #### OBIETTIVO  
 Mostrare come si possano misurare, mediante tecniche fotografiche e stroboscopiche, i cambiamenti fisici che avvengono in intervalli di tempo più lunghi o più brevi di quelli che riusciamo ad osservare direttamente.  
 Illuminando, fotografando, osservando ad intervalli regolari si riesce a misurare e analizzare moti troppo rapidi o troppo lenti per essere direttamente percepiti.
 
 #### PUNTI DA METTERE IN EVIDENZA  
-L’idea di descrivere il moto mediante campioni di misure di posizioni in funzione del tempo è importante, e sarà usata ampiamente nel [[PSSC_Cap5_Trad#Capitolo 5 - Movimento lungo una traiettoria|capitolo 5]].  
+L’idea di descrivere il moto mediante campioni di misure di posizioni in funzione del tempo è importante, e sarà usata ampiamente nel [[PSSC_P1_C05#Capitolo 5 - Movimento lungo una traiettoria|capitolo 5]].  
 Comunque, questo è un concetto intuitivo e non dovrebbe generare molte difficoltà.  
 Qui si dovrebbe porre in rilievo la misura degli intervalli di tempo, non l’analisi del moto per se stessa, e specialmente non la meccanica di apparecchi stroboscopici o lampeggiatori complicati.
 
-Iniziare lo sviluppo di questi paragrafi con una sessione di laboratorio sull’[[PSSC_Lab_Trad#I – 1. Piccoli intervalli di tempo|esperimento I-1]] contribuirà sia alla discussione generale in classe che alla comprensione dei film che forse impiegherete.
+Iniziare lo sviluppo di questi paragrafi con una sessione di laboratorio sull’[[PSSC_P1_LAB#I – 1. Piccoli intervalli di tempo|esperimento I-1]] contribuirà sia alla discussione generale in classe che alla comprensione dei film che forse impiegherete.
 
 È necessario che gli studenti comprendano perfettamente il funzionamento e la taratura degli strumenti usati nell’esperimento I-1.  
 Lo stroboscopio sarà usato per l’osservazione delle onde periodiche nella parte 2.  
@@ -157,7 +157,7 @@ Il marcatempo a nastro di carta sarà usato negli esercizi di laboratorio sulla 
 
 #### SVOLGIMENTO
 
-Come si è detto, dopo che gli studenti avranno letto i paragrafi, sarà un buon punto di partenza fare l’[[PSSC_Lab_Trad#I – 1. Piccoli intervalli di tempo|esperimento I-1]].  
+Come si è detto, dopo che gli studenti avranno letto i paragrafi, sarà un buon punto di partenza fare l’[[PSSC_P1_LAB#I – 1. Piccoli intervalli di tempo|esperimento I-1]].  
 Gli studenti impareranno molto di più sul cronometraggio di intervalli brevi con quest’esperimento che con la discussione in classe non preceduta dall’esperimento.
 
 A questo punto è opportuno proiettare i film:  
@@ -206,7 +206,7 @@ Sottolineare che:
 
 ### Paragrafo 2–6
 
-- [[PSSC_Cap2_Trad#2 - 6. Confrontare i tempi; contare in unità|Paragrafo 6 – Confronto dei tempi; unità di misura]]
+- [[PSSC_P1_C02#2 - 6. Confrontare i tempi; contare in unità|Paragrafo 6 – Confronto dei tempi; unità di misura]]
 
 #### CONTENUTO
 
@@ -240,7 +240,7 @@ Gli studenti dovrebbero anche rendersi conto che le nostre **unità campione**, 
 Esse non si trovano in natura. In molti casi furono scelte probabilmente per convenienza.  
 Nulla ci obbliga a misurare il tempo in secondi, anziché in qualche altra unità che potremmo inventare.
 
-Una interessante discussione in classe, che sottolinea l’arbitrarietà delle unità di tempo (e anticipa il problema dei campioni che sarà preso in esame nel [[PSSC_Cap3_Trad#3 — 1. L’unità di distanza|capitolo seguente]]), può essere sviluppata sull’invenzione di una nuova unità di tempo.
+Una interessante discussione in classe, che sottolinea l’arbitrarietà delle unità di tempo (e anticipa il problema dei campioni che sarà preso in esame nel [[PSSC_P1_C03#3 — 1. L’unità di distanza|capitolo seguente]]), può essere sviluppata sull’invenzione di una nuova unità di tempo.
 
 Potreste chiamarla **augenblick** (o in qualche altro modo, per esempio con un nome derivante da quello della vostra scuola).  
 Supponiamo che un augenblick sia uguale, diciamo, a **15,2 secondi**.  
@@ -260,7 +260,7 @@ farete notare che, sebbene le unità campione siano arbitrarie, se la gente vuol
 Questo è il motivo per cui, in ogni nazione, occorre un *ufficio pesi e misure*.
 ### Paragrafo 2–7
 
-- [[PSSC_Cap2_Trad#2 - 7. Tempi lunghi e brevi - ordini di grandezza|Paragrafo 7 – Tempi lunghi e tempi brevi. Ordini di grandezza]]
+- [[PSSC_P1_C02#2 - 7. Tempi lunghi e brevi - ordini di grandezza|Paragrafo 7 – Tempi lunghi e tempi brevi. Ordini di grandezza]]
 
 #### OBIETTIVO  
 Indicare l’enorme gamma di intervalli di tempo che si possono misurare con l’aiuto di strumenti e introdurre la notazione con le potenze di dieci.
@@ -326,7 +326,7 @@ Con la stima dell’ordine di grandezza stiamo semplicemente tentando di definir
 e non ci preoccupa sapere che possiamo sbagliare **di un fattore 10 in più o in meno**.
 ### Paragrafo 2–8
 
-- [[PSSC_Cap2_Trad#2 - 8. Il senso del tempo|Paragrafo 8 – La direzione del tempo]]
+- [[PSSC_P1_C02#2 - 8. Il senso del tempo|Paragrafo 8 – La direzione del tempo]]
 
 #### OBIETTIVO  
 Dalle osservazioni dei nostri sensi, ci sembra che il tempo abbia una direzione «naturale» di scorrimento.

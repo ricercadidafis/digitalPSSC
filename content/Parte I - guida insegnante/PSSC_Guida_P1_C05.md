@@ -3,11 +3,11 @@ title: Capitolo 5 - Moto lungo una traiettoria
 ---
 # Capitolo 5 - Moto lungo una traiettoria
 
-I concetti di misura di tempo e di spazio trattati nei [[PSSC_Cap2_Trad#Capitolo 2 - Tempo e misura|Capitoli 2]] e [[PSSC_Cap3_Trad#Capitolo 3 - Lo spazio e la sua misurazione|3]] vengono applicati nei [[PSSC_Cap5_Trad#Capitolo 5 - Movimento lungo una traiettoria|Capitoli 5]] e [[PSSC_Cap6_Trad#Capitolo 6 - Vettori|6]] alla descrizione del moto. Nel Capitolo 5 lo studio della cinematica è limitato al moto lungo una traiettoria, ed i concetti più importanti come velocità, accelerazione, ecc. vengono definiti in relazione solo al moto unidimensionale. Nel Capitolo 6 questi concetti sono estesi al moto nello spazio tridimensionale con l'introduzione dei vettori.
+I concetti di misura di tempo e di spazio trattati nei [[PSSC_P1_C02#Capitolo 2 - Tempo e misura|Capitoli 2]] e [[PSSC_P1_C03#Capitolo 3 - Lo spazio e la sua misurazione|3]] vengono applicati nei [[PSSC_P1_C05#Capitolo 5 - Movimento lungo una traiettoria|Capitoli 5]] e [[PSSC_P1_C06#Capitolo 6 - Vettori|6]] alla descrizione del moto. Nel Capitolo 5 lo studio della cinematica è limitato al moto lungo una traiettoria, ed i concetti più importanti come velocità, accelerazione, ecc. vengono definiti in relazione solo al moto unidimensionale. Nel Capitolo 6 questi concetti sono estesi al moto nello spazio tridimensionale con l'introduzione dei vettori.
 
 Nel progettare il corso, si è stabilito di introdurre la cinematica a questo punto per permettere agli studenti di assimilare la materia prima di studiare la dinamica nella Parte 3, e per interrompere una sequenza piuttosto lunga di argomenti un po' formali quale si avrebbe se la cinematica e la dinamica venissero trattate di seguito. Alcuni concetti introdotti qui verranno usati nella Parte 2 e molti argomenti saranno ripassati all'inizio della Parte 3.
 
-Nel trattare i concetti fondamentali della cinematica nei [[PSSC_Cap5_Trad#Capitolo 5 - Movimento lungo una traiettoria|Capitoli 5]] e [[PSSC_Cap6_Trad#Capitolo 6 - Vettori|6]], non si suppone che lo studente conosca la trigonometria e l'analisi matematica; la trattazione si affida invece sostanzialmente a costruzioni grafiche. Oltre a rappresentare un mezzo per calcolare vari aspetti del moto, la presentazione grafica ha, sui metodi analitici, il grande vantaggio di fornire un «quadro» di ciò che realmente accade nei problemi di cinematica. Gli studenti a questo livello possono risolvere graficamente problemi che normalmente sarebbero difficili per studenti di analisi ancora principianti.
+Nel trattare i concetti fondamentali della cinematica nei [[PSSC_P1_C05#Capitolo 5 - Movimento lungo una traiettoria|Capitoli 5]] e [[PSSC_P1_C06#Capitolo 6 - Vettori|6]], non si suppone che lo studente conosca la trigonometria e l'analisi matematica; la trattazione si affida invece sostanzialmente a costruzioni grafiche. Oltre a rappresentare un mezzo per calcolare vari aspetti del moto, la presentazione grafica ha, sui metodi analitici, il grande vantaggio di fornire un «quadro» di ciò che realmente accade nei problemi di cinematica. Gli studenti a questo livello possono risolvere graficamente problemi che normalmente sarebbero difficili per studenti di analisi ancora principianti.
 
 L'analisi grafica dovrebbe divenire un metodo quantitativo per affrontare i problemi. Si dovrebbe esortare gli studenti a disegnare grafici accurati e ad eseguire misure precise delle pendenze delle linee e dell'area al disotto delle curve. La loro abilità nel collegare metodi algebrici e grafici dovrebbe aumentare man mano che procedono in questi capitoli, ma non ci si può aspettare che tutti gli studenti s'impadroniscano di metodi puramente algebrici, fin dall'inizio.
 
@@ -28,25 +28,25 @@ Il paragrafo 9 riassume il capitolo.
 
 ## CALENDARIO DEL CAPITOLO 5
 
-I [[PSSC_Cap5_Trad#Capitolo 5 - Movimento lungo una traiettoria|Capitoli 5]] e [[PSSC_Cap6_Trad#Capitolo 6 - Vettori|6]] trattano una materia nuova ed importante che richiederà diverse lezioni per un pieno sviluppo quantitativo. Si dovrebbe dedicare un tempo considerevole alla soluzione di problemi, sia in classe che fuori. La Guida contiene alcuni problemi ausiliari, che possono essere usati per interrogazioni o discussioni in classe. Le letture dovrebbero generalmente precedere la discussione in classe.
+I [[PSSC_P1_C05#Capitolo 5 - Movimento lungo una traiettoria|Capitoli 5]] e [[PSSC_P1_C06#Capitolo 6 - Vettori|6]] trattano una materia nuova ed importante che richiederà diverse lezioni per un pieno sviluppo quantitativo. Si dovrebbe dedicare un tempo considerevole alla soluzione di problemi, sia in classe che fuori. La Guida contiene alcuni problemi ausiliari, che possono essere usati per interrogazioni o discussioni in classe. Le letture dovrebbero generalmente precedere la discussione in classe.
 
 I paragrafi 1 e 2 possono essere assegnati come letture; anche i paragrafi da 3 a 5, possibilmente dopo che alcune idee di questi paragrafi sono state trattate in classe durante la discussione dei paragrafi precedenti. Lo studio del paragrafo 6 dovrebbe precedere la discussione in classe sull'accelerazione, ma potete discutere in classe le formule date nel paragrafo 7 prima di assegnare questo paragrafo come lettura.
 
-Alla conclusione del Capitolo, dedicate un paio di lezioni alla ricapitolazione e alla soluzione di problemi: gli studenti si sveltiranno nell'uso delle tecniche sia grafiche che algebriche dei problemi di cinematica. Il Problema 22 dei [[PSSC_Cap5_Trad#PER CASA, IN CLASSE E IN LABORATORIO|Lavori per casa, scuola e laboratorio]] è particolarmente adatto perché utilizza ai fini della soluzione entrambi i metodi, algebrico e grafico.
+Alla conclusione del Capitolo, dedicate un paio di lezioni alla ricapitolazione e alla soluzione di problemi: gli studenti si sveltiranno nell'uso delle tecniche sia grafiche che algebriche dei problemi di cinematica. Il Problema 22 dei [[PSSC_P1_C05#PER CASA, IN CLASSE E IN LABORATORIO|Lavori per casa, scuola e laboratorio]] è particolarmente adatto perché utilizza ai fini della soluzione entrambi i metodi, algebrico e grafico.
 
 Il paragrafo 8, se discusso in classe, può esser compreso in questa ricapitolazione. Il film *Straight Line Kinematics* (Cinematica lungo una linea retta) è utile per riassumere il capitolo (la prima parte del film può essere usata come introduzione).
 ## MATERIALI SUSSIDIARI PER IL CAPITOLO 5
 
 ### Laboratorio
 
-[[PSSC_Lab_Trad#I – 5. Movimento velocità e accelerazione|Esperimento I-5 – Moto: velocità ed accelerazione]]. Quest'esperimento usa il marcatempo a nastro di carta per fornire dati per la costruzione di grafici dello spazio, della velocità e dell'accelerazione in funzione del tempo. Attraverso questo esperimento le idee del [[PSSC_Cap5_Trad#Capitolo 5 - Movimento lungo una traiettoria|Capitolo 5]] acquisteranno significato concreto. Può essere eseguito in qualsiasi momento dopo aver completato il paragrafo 3. Vedere le pagine gialle sull'esperimento I-5 per suggerimenti.
+[[PSSC_P1_LAB#I – 5. Movimento velocità e accelerazione|Esperimento I-5 – Moto: velocità ed accelerazione]]. Quest'esperimento usa il marcatempo a nastro di carta per fornire dati per la costruzione di grafici dello spazio, della velocità e dell'accelerazione in funzione del tempo. Attraverso questo esperimento le idee del [[PSSC_P1_C05#Capitolo 5 - Movimento lungo una traiettoria|Capitolo 5]] acquisteranno significato concreto. Può essere eseguito in qualsiasi momento dopo aver completato il paragrafo 3. Vedere le pagine gialle sull'esperimento I-5 per suggerimenti.
 
 ### Lavori per casa, scuola e laboratorio
 
 La seguente tabella classifica i problemi secondo il grado di difficoltà e i paragrafi cui si riferiscono. Sono indicati quelli particolarmente adatti ad una discussione in classe. I problemi particolarmente consigliati sono contrassegnati da un asterisco (\*). I problemi 16 e 17 esaminano i concetti chiave del capitolo.  
 Le soluzioni dei problemi sono date nelle pagine verdi; le risposte brevi a pagina 5-17; i commenti e le soluzioni dettagliate nelle pagine da 5-18.
 
-| Paragrafi                 | [[PSSC_Cap5_Trad#5 — 1. Velocità e distanza\|1]] | [[PSSC_Cap5_Trad#5 — 2. Velocità variabili\|2]] | [[PSSC_Cap5_Trad#5 — 3. Diagrammi dello spazio in funzione del tempo\|3]] | [[PSSC_Cap5_Trad#5 — 4. Velocità e direzioni\|4]], [[PSSC_Cap5_Trad#5 — 5. Velocità istantanea - L’inclinazione della tangente\|5]] | [[PSSC_Cap5_Trad#5 — 6. Accelerazione lungo la traiettoria\|6]] | [[PSSC_Cap5_Trad#5 — 7. Risultati utili per il moto con accelerazione costante lungo la traiettoria\|7]] | [[PSSC_Cap5_Trad#5 — 9. Sommario\|9]] |
+| Paragrafi                 | [[PSSC_P1_C05#5 — 1. Velocità e distanza\|1]] | [[PSSC_P1_C05#5 — 2. Velocità variabili\|2]] | [[PSSC_P1_C05#5 — 3. Diagrammi dello spazio in funzione del tempo\|3]] | [[PSSC_P1_C05#5 — 4. Velocità e direzioni\|4]], [[PSSC_P1_C05#5 — 5. Velocità istantanea - L’inclinazione della tangente\|5]] | [[PSSC_P1_C05#5 — 6. Accelerazione lungo la traiettoria\|6]] | [[PSSC_P1_C05#5 — 7. Risultati utili per il moto con accelerazione costante lungo la traiettoria\|7]] | [[PSSC_P1_C05#5 — 9. Sommario\|9]] |
 | ------------------------- | ------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | **Facile**                | 1, 2\*, 5\*                                      | 7a\*, b                                         | 7c, 10, 11                                                                | 14                                                                                                                                  | 15\*                                                            | -                                                                                                        | -                                     |
 | **Medio**                 | 3\*, 4                                           | 8\*                                             | -                                                                         | 12, 13\*                                                                                                                            | -                                                               | 18\*, 19, 20, 21, 22\*, 23\*, 24\*, 25                                                                   | -                                     |
@@ -69,8 +69,8 @@ La seconda parte del film è un po' troppo rapida se la si proietta prima che gl
 
 ## Paragrafi 5 — 1 e 5 — 2  
 
-- [[PSSC_Cap5_Trad#5 — 1. Velocità e distanza|Paragrafo 1 – Velocità e spazio]]  
-- [[PSSC_Cap5_Trad#5 — 2. Velocità variabili|Paragrafo 2 – Velocità variabili]]
+- [[PSSC_P1_C05#5 — 1. Velocità e distanza|Paragrafo 1 – Velocità e spazio]]  
+- [[PSSC_P1_C05#5 — 2. Velocità variabili|Paragrafo 2 – Velocità variabili]]
 
 ### OBIETTIVO
 
@@ -88,7 +88,7 @@ e. Estensione (mediante un processo di passaggio al limite) dal caso di velocit�
 
 Questa materia è estremamente importante e dovrebbe essere svolta completamente mediante discussione in classe, soluzioni di problemi in classe ed assegnazione di problemi per casa. Bisognerà dedicarvi circa due lezioni all'inizio, e ripassare la materia verso la fine del capitolo.
 
-Il [[PSSC_Cap5_Trad#5 — 8. Misura delle distanze con la velocità Radar e Sonar|paragrafo 8]], poiché discute applicazioni pratiche (radar e sonar) di alcune idee contenute in questi paragrafi, può essere trattato ora, se non preferite parlarne nel ripasso alla fine del capitolo.
+Il [[PSSC_P1_C05#5 — 8. Misura delle distanze con la velocità Radar e Sonar|paragrafo 8]], poiché discute applicazioni pratiche (radar e sonar) di alcune idee contenute in questi paragrafi, può essere trattato ora, se non preferite parlarne nel ripasso alla fine del capitolo.
 
 Questi due paragrafi dovrebbero essere trattati insieme, perché se si applicano i metodi grafici solo ai problemi di velocità costanti, essi possono sembrare inutilmente laboriosi. Gli studenti dovrebbero rendersi conto che questa semplice introduzione alle tecniche grafiche prepara il terreno per problemi più complicati che non si possono risolvere con formule semplici.
 
@@ -119,7 +119,7 @@ Entrambe le Figg. (c) e (d) sono grafici esatti della velocità dell'auto in fun
 
 Presentate l'idea di una velocità che varia uniformemente nel tempo come derivata naturalmente dallo studio precedente, piuttosto che come qualcosa di radicalmente nuovo. Mostrare che l’area al di sotto di un qualunque grafico velocità-tempo dà lo spazio percorso, con lo «stringere» la risposta finale tra due limiti, è mostrare un procedimento matematico fondamentale, e vale la pena di sottolinearlo qui. Se la nozione di limite viene resa chiara adesso, il materiale successivo risulterà più facile.
 
-Nel testo l'idea che lo spazio percorso è rappresentato dall'«area» sottostante una curva velocità-tempo è svolta in due tappe. La prima tappa è l'idea qualitativa che qualunque curva si può approssimare con un grafico a scalini che si può trattare con i metodi del [[PSSC_Cap5_Trad#5 — 1. Velocità e distanza|paragrafo 1]]. La seconda tappa è il procedimento più formale e rigoroso di «schiacciamento» che prova realmente le asserzioni del [[PSSC_Cap5_Trad#5 — 2. Velocità variabili|paragrafo 2]].
+Nel testo l'idea che lo spazio percorso è rappresentato dall'«area» sottostante una curva velocità-tempo è svolta in due tappe. La prima tappa è l'idea qualitativa che qualunque curva si può approssimare con un grafico a scalini che si può trattare con i metodi del [[PSSC_P1_C05#5 — 1. Velocità e distanza|paragrafo 1]]. La seconda tappa è il procedimento più formale e rigoroso di «schiacciamento» che prova realmente le asserzioni del [[PSSC_P1_C05#5 — 2. Velocità variabili|paragrafo 2]].
 
 Probabilmente il modo migliore di far assimilare le idee di questi paragrafi è di illustrarli spesso alla lavagna. Con ogni nuovo esempio si dovrebbe chiedere agli studenti di descrivere ciò che avviene all'oggetto in moto, prima di procedere ad un'analisi più dettagliata. Fate che non dimentichino che questi grafici rappresentano realmente la velocità alla quale l'auto si sta muovendo in qualsiasi istante determinato.
 
@@ -153,7 +153,7 @@ Se pensate di aver bisogno di altri problemi da discutere in classe o di questio
 
 3. Potete disegnare quasi ogni sorta di grafici velocità-tempo e far calcolare agli studenti lo spazio percorso. Una variazione interessante è trovare lo spazio percorso tra due istanti particolari anziché dall'inizio del viaggio.
     
-4. Un problema molto più difficile — che potrebbe servire come introduzione all'accelerazione uniforme ([[PSSC_Cap5_Trad#5 — 6. Accelerazione lungo la traiettoria|Paragrafo 7]]) — è il seguente:  
+4. Un problema molto più difficile — che potrebbe servire come introduzione all'accelerazione uniforme ([[PSSC_P1_C05#5 — 6. Accelerazione lungo la traiettoria|Paragrafo 7]]) — è il seguente:  
     Un'auto accelera uniformemente con partenza da ferma così che dopo 20 secondi viaggia ad una velocità di 24 metri al secondo.
 - **Quanta strada percorre durante i primi 10 secondi?**    
 - **Quanto impiega a percorrere 180 metri?**
@@ -191,9 +191,9 @@ $t = \sqrt{\frac{180}{0{,}6}} = \sqrt{300} \approx 17{,}3, \text{secondi}$
 Ecco la guida ai paragrafi 5–3, 5–4 e 5–5 del Capitolo 5, corretta e impaginata in Markdown per Obsidian. Sono stati inseriti i link interni alle sezioni corrette e l’immagine secondo lo standard richiesto:
 
 ## Paragrafi 5 — 3, 5 — 4, 5 — 5  
-- [[PSSC_Cap5_Trad#5 — 3. Diagrammi dello spazio in funzione del tempo|Paragrafo 3 – Diagrammi dello spazio in funzione del tempo]]  
-- [[PSSC_Cap5_Trad#5 — 4. Velocità e direzioni|Paragrafo 4 – Velocità e verso di percorrenza]]  
-- [[PSSC_Cap5_Trad#5 — 5. Velocità istantanea - L’inclinazione della tangente|Paragrafo 5 – Velocità istantanea – Pendenza della tangente]]
+- [[PSSC_P1_C05#5 — 3. Diagrammi dello spazio in funzione del tempo|Paragrafo 3 – Diagrammi dello spazio in funzione del tempo]]  
+- [[PSSC_P1_C05#5 — 4. Velocità e direzioni|Paragrafo 4 – Velocità e verso di percorrenza]]  
+- [[PSSC_P1_C05#5 — 5. Velocità istantanea - L’inclinazione della tangente|Paragrafo 5 – Velocità istantanea – Pendenza della tangente]]
 
 ### OBIETTIVO
 
@@ -225,7 +225,7 @@ Gli studenti possono dedurne l'idea che lo spazio percorso durante un certo inte
 
 ### SVOLGIMENTO
 
-L'[[PSSC_Lab_Trad#I – 5. Movimento velocità e accelerazione|esperimento I-5]] dovrebbe essere eseguito in un momento qualsiasi dopo aver completato il [[PSSC_Cap5_Trad#5 — 3. Diagrammi dello spazio in funzione del tempo|paragrafo 3]].
+L'[[PSSC_P1_LAB#I – 5. Movimento velocità e accelerazione|esperimento I-5]] dovrebbe essere eseguito in un momento qualsiasi dopo aver completato il [[PSSC_P1_C05#5 — 3. Diagrammi dello spazio in funzione del tempo|paragrafo 3]].
 
 La costruzione dei grafici spazio-tempo dovrebbe procedere più facilmente di quella dei grafici velocità-tempo. Occorrerà una certa attenzione per distinguere tra questi nuovi grafici spazio-tempo ed i precedenti grafici velocità-tempo. Il modo migliore per farlo è probabilmente chiedere spesso che cosa sta succedendo esattamente all'auto in ogni posizione rappresentata sul grafico.
 
@@ -251,11 +251,11 @@ L'auto B ha il grafico più «ripido», ma percorre solo 15 chilometri in 0,2 or
 
 ### COMMENTI
 
-La parola «velocità» è spesso usata per rappresentare il modulo della velocità vettoriale, e come tale è una quantità positiva, come la lettura di un tachimetro. Però, siccome la parola «velocità» non viene introdotta nel suo significato vettoriale fino al [[PSSC_Cap6_Trad#6 — 2. Vettori velocità|Capitolo 6]], nel [[PSSC_Cap5_Trad#Capitolo 5 - Movimento lungo una traiettoria|Capitolo 5]] significa «velocità unidimensionale».
+La parola «velocità» è spesso usata per rappresentare il modulo della velocità vettoriale, e come tale è una quantità positiva, come la lettura di un tachimetro. Però, siccome la parola «velocità» non viene introdotta nel suo significato vettoriale fino al [[PSSC_P1_C06#6 — 2. Vettori velocità|Capitolo 6]], nel [[PSSC_P1_C05#Capitolo 5 - Movimento lungo una traiettoria|Capitolo 5]] significa «velocità unidimensionale».
 
 Poiché la velocità è identificata con la pendenza di un grafico, e poiché una pendenza può esser positiva o negativa, la nostra «velocità» è una quantità con segno, non sempre positiva. Gli studenti dovrebbero capire che il segno della velocità specifica il verso nel quale si muove l'oggetto lungo una traiettoria. Se la velocità viene assunta arbitrariamente positiva per il moto in un verso, la velocità è negativa per un moto nel verso opposto.
 
-Il testo distingue accuratamente tra i casi di velocità costante e di velocità variabile, discutendo il primo nei [[PSSC_Cap5_Trad#5 — 3. Diagrammi dello spazio in funzione del tempo|paragrafi 3]] e [[PSSC_Cap5_Trad#5 — 4. Velocità e direzioni|4]] e introducendo il secondo nel [[PSSC_Cap5_Trad#5 — 5. Velocità istantanea - L’inclinazione della tangente|paragrafo 5]]. Con una classe preparata, alcuni insegnanti preferiranno forse scostarsi da questa sequenza e presentare per primo un grafico come quello qui sotto, eventualmente con una zona (1) in cui l'auto sta ferma.
+Il testo distingue accuratamente tra i casi di velocità costante e di velocità variabile, discutendo il primo nei [[PSSC_P1_C05#5 — 3. Diagrammi dello spazio in funzione del tempo|paragrafi 3]] e [[PSSC_P1_C05#5 — 4. Velocità e direzioni|4]] e introducendo il secondo nel [[PSSC_P1_C05#5 — 5. Velocità istantanea - L’inclinazione della tangente|paragrafo 5]]. Con una classe preparata, alcuni insegnanti preferiranno forse scostarsi da questa sequenza e presentare per primo un grafico come quello qui sotto, eventualmente con una zona (1) in cui l'auto sta ferma.
 
 Forse gli studenti saranno in grado di rispondere a domande come:  
 «Quand'è che l'auto ha la velocità maggiore? Quand'è che ha la minore?» ecc.
@@ -266,7 +266,7 @@ L'equazione $v = \frac{s_2 - s_1}{t_2 - t_1}$ sottolinea la necessità di applic
 
 Notate che, per un grafico spazio-tempo, la pendenza rappresenta una grandezza fisica — la velocità — e ha le unità spazio/tempo.
 
-Se i paragrafi precedenti sono stati compresi a fondo, gli studenti non dovrebbero avere difficoltà con le idee fondamentali presentate nel [[PSSC_Cap5_Trad#5 — 5. Velocità istantanea - L’inclinazione della tangente|paragrafo 5]].
+Se i paragrafi precedenti sono stati compresi a fondo, gli studenti non dovrebbero avere difficoltà con le idee fondamentali presentate nel [[PSSC_P1_C05#5 — 5. Velocità istantanea - L’inclinazione della tangente|paragrafo 5]].
 
 Il viaggio di Fig. (a) conduce direttamente alla Fig. (b), e gli studenti possono perfino essere indotti a proporre l'idea della tangente senza aver lavorato prima con l'idea della «lente d'ingrandimento». Certamente dovrebbero esser capaci di decidere in quale istante nella Fig. (b) l'auto sta andando più veloce ed in quale più piano. Per decidere tra due punti come (1) e (2), possono essere indotti a disegnare la retta tangente.
 
@@ -294,7 +294,7 @@ Se non si richiede precisione, la tangente si può tirare ad occhio.
 
 ![Figura 11: Metodo dello specchio per determinare una tangente approssimata a una curva.](Figure/Fig_GuidaIT_5-11.png)
 
-Le due parti finali del [[PSSC_Cap5_Trad#5 — 5. Velocità istantanea - L’inclinazione della tangente|paragrafo 5]] introducono la differenza tra **velocità media** e **velocità istantanea**. Nello schema seguito da questo corso, la distinzione non è molto importante. Noi supponiamo che una persona sappia che, quando guarda il tachimetro di un'auto, sta misurando la velocità in un particolare istante — cioè la **velocità istantanea**; mentre quando dice che ha tenuto la media di 60 km/h in un viaggio di 600 km, vuol dire che in dieci ore ha viaggiato, probabilmente solo per un tempo molto limitato, esattamente a 60 km/h.
+Le due parti finali del [[PSSC_P1_C05#5 — 5. Velocità istantanea - L’inclinazione della tangente|paragrafo 5]] introducono la differenza tra **velocità media** e **velocità istantanea**. Nello schema seguito da questo corso, la distinzione non è molto importante. Noi supponiamo che una persona sappia che, quando guarda il tachimetro di un'auto, sta misurando la velocità in un particolare istante — cioè la **velocità istantanea**; mentre quando dice che ha tenuto la media di 60 km/h in un viaggio di 600 km, vuol dire che in dieci ore ha viaggiato, probabilmente solo per un tempo molto limitato, esattamente a 60 km/h.
 
 (Se ai vostri studenti piacciono problemi come questi, domandate loro se, per mantenere la media di 60 km/h in un viaggio di 600 km, un'auto deve almeno una volta viaggiare esattamente a 60 km/h. La risposta è **sì**, se l'auto non può cambiare velocità in modo discontinuo.)
 
@@ -343,7 +343,7 @@ Per presentare problemi con velocità continuamente variabili, dovete riprodurre
 
 ## Paragrafo 6
 
-- [[PSSC_Cap5_Trad#5 — 6. Accelerazione lungo la traiettoria]]
+- [[PSSC_P1_C05#5 — 6. Accelerazione lungo la traiettoria]]
 
 ### OBIETTIVO
 
@@ -351,7 +351,7 @@ Introdurre il concetto di accelerazione per il moto unidimensionale, e mostrare 
 
 ### PUNTI DA METTERE IN EVIDENZA
 
-È importante capire bene l'accelerazione. Questo paragrafo dovrebbe essere trattato a fondo prima di passare al [[PSSC_Cap5_Trad#5 — 7. Risultati utili per il moto con accelerazione costante lungo la traiettoria|paragrafo 7]]. Se gli studenti capiscono i [[PSSC_Cap5_Trad#5 — 3. Diagrammi dello spazio in funzione del tempo|paragrafi 3]], [[PSSC_Cap5_Trad#5 — 4. Velocità e direzioni|4]] e [[PSSC_Cap5_Trad#5 — 5. Velocità istantanea - L’inclinazione della tangente|5]], questa parte si dovrebbe sbrigare abbastanza velocemente.  
+È importante capire bene l'accelerazione. Questo paragrafo dovrebbe essere trattato a fondo prima di passare al [[PSSC_P1_C05#5 — 7. Risultati utili per il moto con accelerazione costante lungo la traiettoria|paragrafo 7]]. Se gli studenti capiscono i [[PSSC_P1_C05#5 — 3. Diagrammi dello spazio in funzione del tempo|paragrafi 3]], [[PSSC_P1_C05#5 — 4. Velocità e direzioni|4]] e [[PSSC_P1_C05#5 — 5. Velocità istantanea - L’inclinazione della tangente|5]], questa parte si dovrebbe sbrigare abbastanza velocemente.  
 Assicuratevi che gli studenti capiscano la differenza tra **velocità** e **accelerazione**, perché queste parole vengono spesso confuse nella normale conversazione.
 
 ### COMMENTO
@@ -382,7 +382,7 @@ A causa delle relazioni simili tra spazio e velocità, e tra velocità e acceler
 
 È un caso simile a quello dello spazio, naturalmente, nel quale **l'area sotto la curva della velocità dà la variazione della coordinata spazio**. Ma una variazione di spazio è semplicemente lo **spazio percorso**, che è un concetto più naturale per qualche studente rispetto alla **variazione di velocità**.
 
-Il **vettore accelerazione**, che sarà introdotto nel [[PSSC_Cap6_Trad#6 — 5. Variazioni della velocità vettoriale e vettore accelerazione costante|prossimo capitolo]], **non è sempre nella direzione del moto**, cioè non è necessariamente diretto lungo la traiettoria.
+Il **vettore accelerazione**, che sarà introdotto nel [[PSSC_P1_C06#6 — 5. Variazioni della velocità vettoriale e vettore accelerazione costante|prossimo capitolo]], **non è sempre nella direzione del moto**, cioè non è necessariamente diretto lungo la traiettoria.
 
 L'**accelerazione lungo la traiettoria**, definita in questo paragrafo, è in realtà la **componente del vettore accelerazione lungo la direzione del moto**.
 
@@ -396,7 +396,7 @@ Notate la differenza tra i casi della **velocità** e dell'**accelerazione**:
    Un'auto sta viaggiando alla velocità di 56 km/h. Dopo un secondo sta viaggiando a 54 km/h.  **Qual è la sua accelerazione lungo la strada?**  (Risposta: –2 km/h al secondo)
    Se la velocità dell'auto fosse –56 km/h e –58 km/h dopo un secondo,  **quale sarebbe la sua accelerazione?**  (Risposta: –2 km/h al secondo)
    
-2) Sono parecchi i problemi sulle **accelerazioni uniformi** nei [[PSSC_Cap5_Trad#PER CASA, IN CLASSE E IN LABORATORIO|Lavori per casa, scuola e laboratorio]].  Alcune semplici varianti sono adatte per questionari.
+2) Sono parecchi i problemi sulle **accelerazioni uniformi** nei [[PSSC_P1_C05#PER CASA, IN CLASSE E IN LABORATORIO|Lavori per casa, scuola e laboratorio]].  Alcune semplici varianti sono adatte per questionari.
 3) Ecco un diagramma velocità-tempo.
    
 ![Figura 13: Diagramma velocità-tempo per identificare zone di accelerazione uniforme e varia.](Figure/Fig_GuidaIT_5-13.png)
@@ -413,7 +413,7 @@ Chiamate:
 ![Figura 14: Grafico spazio-tempo con indicazione qualitativa del segno dell'accelerazione.](Figure/Fig_GuidaIT_5-14.png)
 ## Paragrafo 7
 
-- [[PSSC_Cap5_Trad#5 — 7. Risultati utili per il moto con accelerazione costante lungo la traiettoria|Paragrafo 7 – Relazioni utili relative al moto con accelerazione costante lungo la traiettoria]]
+- [[PSSC_P1_C05#5 — 7. Risultati utili per il moto con accelerazione costante lungo la traiettoria|Paragrafo 7 – Relazioni utili relative al moto con accelerazione costante lungo la traiettoria]]
 
 ### OBIETTIVO
 
@@ -450,7 +450,7 @@ Spesso questa può essere la forma più utile; le due forme sono equivalenti.
 ### SVOLGIMENTO
 
 Le formule sono utili e spesso affascinano gli studenti.  
-Per evitare di **sostituire le formule alla comprensione**, aiutate gli studenti a ricordare le idee fondamentali del capitolo risolvendo alcuni problemi dei [[PSSC_Cap5_Trad#PER CASA, IN CLASSE E IN LABORATORIO|Lavori per casa, scuola e laboratorio]] che sono ovviamente problemi sulle accelerazioni costanti, usando le **tecniche grafiche**.
+Per evitare di **sostituire le formule alla comprensione**, aiutate gli studenti a ricordare le idee fondamentali del capitolo risolvendo alcuni problemi dei [[PSSC_P1_C05#PER CASA, IN CLASSE E IN LABORATORIO|Lavori per casa, scuola e laboratorio]] che sono ovviamente problemi sulle accelerazioni costanti, usando le **tecniche grafiche**.
 
 Il **problema 22** è adatto a questo scopo.  
 Potrete sorprendere gli studenti, e forse anche voi stessi, scoprendo quanto rapide sono le **tecniche grafiche**, e come siano facili e semplici da ricordare.
@@ -557,7 +557,7 @@ Si dovrà inevitabilmente dedicare un po' di tempo alla **conversione delle unit
 
 ## Paragrafo 8
 
-- [[PSSC_Cap5_Trad#5 — 8. Misura delle distanze con la velocità Radar e Sonar|Paragrafo 8 – Misura della distanza mediante la velocità: Radar e Sonar]]
+- [[PSSC_P1_C05#5 — 8. Misura delle distanze con la velocità Radar e Sonar|Paragrafo 8 – Misura della distanza mediante la velocità: Radar e Sonar]]
 
 ### OBIETTIVO
 
@@ -571,7 +571,7 @@ b. Applicazione di questo principio da parte dei pipistrelli e degli operatori d
 ### PUNTI DA METTERE IN EVIDENZA
 
 Un'interessante digressione. Trattare brevemente.  
-Può servire come parte del **riassunto del capitolo**, o come ampliamento dei [[PSSC_Cap5_Trad#5 — 1. Velocità e distanza|paragrafi 1]] e [[PSSC_Cap5_Trad#5 — 2. Velocità variabili|2]].
+Può servire come parte del **riassunto del capitolo**, o come ampliamento dei [[PSSC_P1_C05#5 — 1. Velocità e distanza|paragrafi 1]] e [[PSSC_P1_C05#5 — 2. Velocità variabili|2]].
 
 ### COMMENTO
 

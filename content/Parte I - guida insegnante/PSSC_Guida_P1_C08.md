@@ -9,19 +9,19 @@ Basandosi su prove fisiche e chimiche, il Capitolo 8 considera la natura atomica
 
 Il capitolo si può dividere in tre parti:
 
-**I Paragrafi da 1 a 7** iniziano con le [[PSSC_Cap8_Trad#8 — 1. Leggi della composizione chimica|leggi della composizione chimica costante]] e delle [[PSSC_Cap8_Trad#8 — 1. Leggi della composizione chimica|proporzioni multiple]]. Il problema della [[PSSC_Cap8_Trad#8 — 2. Il problema della determinazione delle formule molecolari|determinazione delle formule molecolari]] viene poi affrontato con l'aiuto di un conteggio (dalla disintegrazione radioattiva) del numero di atomi di gas per unità di volume.  
-In base all'osservazione che volumi uguali del gas misurato contengono uguale numero di molecole, si formula l'ipotesi che questo fatto valga per tutti i gas. La verifica di questa ipotesi conduce poi alla [[PSSC_Cap8_Trad#8 — 5. La legge delle relazioni volumetriche|legge dei volumi di combinazione]], alle [[PSSC_Cap8_Trad#8 — 6. Masse molecolari e unità|masse atomiche e molecolari]], ed al [[PSSC_Cap8_Trad#8 — 7. Moli e numero di Avogadro|numero di Avogadro]].
+**I Paragrafi da 1 a 7** iniziano con le [[PSSC_P1_C08#8 — 1. Leggi della composizione chimica|leggi della composizione chimica costante]] e delle [[PSSC_P1_C08#8 — 1. Leggi della composizione chimica|proporzioni multiple]]. Il problema della [[PSSC_P1_C08#8 — 2. Il problema della determinazione delle formule molecolari|determinazione delle formule molecolari]] viene poi affrontato con l'aiuto di un conteggio (dalla disintegrazione radioattiva) del numero di atomi di gas per unità di volume.  
+In base all'osservazione che volumi uguali del gas misurato contengono uguale numero di molecole, si formula l'ipotesi che questo fatto valga per tutti i gas. La verifica di questa ipotesi conduce poi alla [[PSSC_P1_C08#8 — 5. La legge delle relazioni volumetriche|legge dei volumi di combinazione]], alle [[PSSC_P1_C08#8 — 6. Masse molecolari e unità|masse atomiche e molecolari]], ed al [[PSSC_P1_C08#8 — 7. Moli e numero di Avogadro|numero di Avogadro]].
 
-**I Paragrafi 8 e 9** trattano degli [[PSSC_Cap8_Trad#8 — 8. Masse atomiche e numeri interi; isotopi|isotopi]] e della [[PSSC_Cap8_Trad#8 — 9. La struttura intima della materia|struttura interna degli atomi]]. Si richiama l'attenzione sul fatto che tutte le masse atomiche sono (approssimativamente) multipli interi della massa dell'atomo più leggero, l'idrogeno. Sulla base di questo fatto si presume che tutti gli atomi siano costituiti di unità idrogenoidi.
+**I Paragrafi 8 e 9** trattano degli [[PSSC_P1_C08#8 — 8. Masse atomiche e numeri interi; isotopi|isotopi]] e della [[PSSC_P1_C08#8 — 9. La struttura intima della materia|struttura interna degli atomi]]. Si richiama l'attenzione sul fatto che tutte le masse atomiche sono (approssimativamente) multipli interi della massa dell'atomo più leggero, l'idrogeno. Sulla base di questo fatto si presume che tutti gli atomi siano costituiti di unità idrogenoidi.
 
-**I Paragrafi da 10 a 16** discutono il mondo straordinariamente complesso delle grandi strutture atomiche, cominciando da [[PSSC_Cap8_Trad#8 — 10. Molecole — Strutture e proprietà|molecole organiche relativamente semplici]], per passare poi ad [[PSSC_Cap8_Trad#8 — 12. La chimica della vita|entità biologiche elementari]], e infine all'esame dello [[PSSC_Cap8_Trad#8 — 14. Cristalli La fisica dello stato|stato cristallino della materia]].
+**I Paragrafi da 10 a 16** discutono il mondo straordinariamente complesso delle grandi strutture atomiche, cominciando da [[PSSC_P1_C08#8 — 10. Molecole — Strutture e proprietà|molecole organiche relativamente semplici]], per passare poi ad [[PSSC_P1_C08#8 — 12. La chimica della vita|entità biologiche elementari]], e infine all'esame dello [[PSSC_P1_C08#8 — 14. Cristalli La fisica dello stato|stato cristallino della materia]].
 
 Lo svolgimento di questi argomenti si impernia su alcune conclusioni sulla struttura della materia e sulla via seguita per formularle. Avendo un'idea del modo in cui si è giunti a scoprire la struttura della materia e dei limiti attualmente esistenti in questo campo, gli studenti dovrebbero comprendere più a fondo la natura della ricerca scientifica.
 
 ## CALENDARIO DEL CAPITOLO 8
 
 A meno che non integriate questo corso con un corso di chimica, vorrete probabilmente lasciare al testo il compito di presentare la materia di questo capitolo, dedicando un giorno o due di discussione in classe agli argomenti principali di alcuni paragrafi.  
-I Paragrafi 1-7, se trattati quantitativamente, richiederanno parecchi giorni di discussione in classe. Tranne il [[PSSC_Cap8_Trad#8 — 7. Moli e numero di Avogadro|numero di Avogadro]] e le [[PSSC_Cap8_Trad#8 — 6. Masse molecolari e unità|dimensioni atomiche]], la materia del Capitolo 8 non ricorrerà più durante il corso: una breve trattazione può benissimo bastare.  
+I Paragrafi 1-7, se trattati quantitativamente, richiederanno parecchi giorni di discussione in classe. Tranne il [[PSSC_P1_C08#8 — 7. Moli e numero di Avogadro|numero di Avogadro]] e le [[PSSC_P1_C08#8 — 6. Masse molecolari e unità|dimensioni atomiche]], la materia del Capitolo 8 non ricorrerà più durante il corso: una breve trattazione può benissimo bastare.  
 Se vi manca il tempo, assegnate l'intero capitolo come lettura per casa prima di discuterlo in classe. Se vi è possibile, tentate di riservare mezz'ora all'interessantissimo film di Alan Holden *«Crystals» (Cristalli)* descritto più avanti.
 
 ## MATERIALI SUSSIDIARI PER IL CAPITOLO 8
@@ -34,16 +34,16 @@ La seguente tabella classifica i problemi secondo la stima del loro grado di dif
 
 | **Paragrafo**                                                                                                                                         | **Facile** | **Medio**   | **Difficile** | **Discussione in classe** |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------- | ------------- | ------------------------- |
-| [[PSSC_Cap8_Trad#8 — 1. Leggi della composizione chimica\|1]], [[PSSC_Cap8_Trad#8 — 2. Il problema della determinazione delle formule molecolari\|2]] | 2          | 1, 3*       | –             | 1, 2, 3*                  |
-| [[PSSC_Cap8_Trad#8 — 4. La determinazione delle formule molecolari\|4]], [[PSSC_Cap8_Trad#8 — 5. La legge delle relazioni volumetriche\|5]]           | –          | 5*          | 6             | –                         |
-| [[PSSC_Cap8_Trad#8 — 6. Masse molecolari e unità\|6]]                                                                                                 | –          | 4, 7, 8, 9* | –             | 7                         |
-| [[PSSC_Cap8_Trad#8 — 7. Moli e numero di Avogadro\|7]]                                                                                                | 10, 11*    | 14, 16*     | –             | 11*                       |
-| [[PSSC_Cap8_Trad#8 — 8. Masse atomiche e numeri interi; isotopi\|8]]                                                                                  | 13         | –           | 12            | –                         |
-| [[PSSC_Cap8_Trad#8 — 11. Lo studio delle molecole organiche\|11]]                                                                                     | 15         | –           | 17            | 17                        |
-| [[PSSC_Cap8_Trad#8 — 12. La chimica della vita\|12]]                                                                                                  | 18, 19     | –           | –             | –                         |
+| [[PSSC_P1_C08#8 — 1. Leggi della composizione chimica\|1]], [[PSSC_P1_C08#8 — 2. Il problema della determinazione delle formule molecolari\|2]] | 2          | 1, 3*       | –             | 1, 2, 3*                  |
+| [[PSSC_P1_C08#8 — 4. La determinazione delle formule molecolari\|4]], [[PSSC_P1_C08#8 — 5. La legge delle relazioni volumetriche\|5]]           | –          | 5*          | 6             | –                         |
+| [[PSSC_P1_C08#8 — 6. Masse molecolari e unità\|6]]                                                                                                 | –          | 4, 7, 8, 9* | –             | 7                         |
+| [[PSSC_P1_C08#8 — 7. Moli e numero di Avogadro\|7]]                                                                                                | 10, 11*    | 14, 16*     | –             | 11*                       |
+| [[PSSC_P1_C08#8 — 8. Masse atomiche e numeri interi; isotopi\|8]]                                                                                  | 13         | –           | 12            | –                         |
+| [[PSSC_P1_C08#8 — 11. Lo studio delle molecole organiche\|11]]                                                                                     | 15         | –           | 17            | 17                        |
+| [[PSSC_P1_C08#8 — 12. La chimica della vita\|12]]                                                                                                  | 18, 19     | –           | –             | –                         |
 ### **Film**  
 *«Atoms and Chemistry»* (*Gli atomi e la chimica*) del Dr. Robert St. George della Cambridge School.  
-Questo film discute e dimostra la [[PSSC_Cap8_Trad#8 — 1. Leggi della composizione chimica|legge della composizione costante]] e quella delle [[PSSC_Cap8_Trad#8 — 1. Leggi della composizione chimica|proporzioni multiple]], con esperimenti imperniati sull'elettrolisi dell'acqua, la ricombinazione di idrogeno ed ossigeno, e la scomposizione quantitativa di tre composti di azoto-ossigeno.  
+Questo film discute e dimostra la [[PSSC_P1_C08#8 — 1. Leggi della composizione chimica|legge della composizione costante]] e quella delle [[PSSC_P1_C08#8 — 1. Leggi della composizione chimica|proporzioni multiple]], con esperimenti imperniati sull'elettrolisi dell'acqua, la ricombinazione di idrogeno ed ossigeno, e la scomposizione quantitativa di tre composti di azoto-ossigeno.  
 **Durata della proiezione**: 21 minuti.
 
 *«Crystals»* (*Cristalli*) del Dr. Alan Holden dei Bell Telephone Laboratories.  
@@ -55,36 +55,36 @@ I fenomeni riguardanti i cristalli sono posti in relazione diretta con il concet
 
 ## Paragrafi da 8-1 a 8-7
 
-- Paragrafo 1 – [[PSSC_Cap8_Trad#8 — 1. Leggi della composizione chimica|Le leggi delle combinazioni chimiche]]  
-- Paragrafo 2 – [[PSSC_Cap8_Trad#8 — 2. Il problema della determinazione delle formule molecolari|Il problema della determinazione delle formule molecolari]]  
-- Paragrafo 3 – [[PSSC_Cap8_Trad#8 — 3. Il numero di particelle nei gas|Il numero delle particelle nei gas]]  
-- Paragrafo 4 – [[PSSC_Cap8_Trad#8 — 4. La determinazione delle formule molecolari|La determinazione delle formule molecolari]]  
-- Paragrafo 5 – [[PSSC_Cap8_Trad#8 — 5. La legge delle relazioni volumetriche|La legge dei volumi di combinazione]]  
-- Paragrafo 6 – [[PSSC_Cap8_Trad#8 — 6. Masse molecolari e unità|Masse molecolari e atomiche]]  
-- Paragrafo 7 – [[PSSC_Cap8_Trad#8 — 7. Moli e numero di Avogadro|Le mole e il numero di Avogadro]]
+- Paragrafo 1 – [[PSSC_P1_C08#8 — 1. Leggi della composizione chimica|Le leggi delle combinazioni chimiche]]  
+- Paragrafo 2 – [[PSSC_P1_C08#8 — 2. Il problema della determinazione delle formule molecolari|Il problema della determinazione delle formule molecolari]]  
+- Paragrafo 3 – [[PSSC_P1_C08#8 — 3. Il numero di particelle nei gas|Il numero delle particelle nei gas]]  
+- Paragrafo 4 – [[PSSC_P1_C08#8 — 4. La determinazione delle formule molecolari|La determinazione delle formule molecolari]]  
+- Paragrafo 5 – [[PSSC_P1_C08#8 — 5. La legge delle relazioni volumetriche|La legge dei volumi di combinazione]]  
+- Paragrafo 6 – [[PSSC_P1_C08#8 — 6. Masse molecolari e unità|Masse molecolari e atomiche]]  
+- Paragrafo 7 – [[PSSC_P1_C08#8 — 7. Moli e numero di Avogadro|Le mole e il numero di Avogadro]]
 
 ### OBIETTIVO  
 Riassumere le prove chimiche per l'esistenza degli atomi e la determinazione delle masse atomiche.
 
 ### CONTENUTO
 
-a. **[[PSSC_Cap8_Trad#8 — 1. Leggi della composizione chimica|Legge della combinazione chimica costante]]**: ogni campione di un composto chimico puro contiene le stesse proporzioni in massa di tutti gli elementi nei quali si può scomporre.
+a. **[[PSSC_P1_C08#8 — 1. Leggi della composizione chimica|Legge della combinazione chimica costante]]**: ogni campione di un composto chimico puro contiene le stesse proporzioni in massa di tutti gli elementi nei quali si può scomporre.
 
-b. **[[PSSC_Cap8_Trad#8 — 1. Leggi della composizione chimica|Legge delle proporzioni multiple]]**: ogni volta che due elementi si combinano in vari modi per formare molecole diverse, il rapporto delle diverse masse di un elemento che si combinano con una data massa dell'altro è un rapporto di numeri interi piccoli.
+b. **[[PSSC_P1_C08#8 — 1. Leggi della composizione chimica|Legge delle proporzioni multiple]]**: ogni volta che due elementi si combinano in vari modi per formare molecole diverse, il rapporto delle diverse masse di un elemento che si combinano con una data massa dell'altro è un rapporto di numeri interi piccoli.
 
-c. [[PSSC_Cap8_Trad#8 — 3. Il numero di particelle nei gas|Contando le particelle atomiche]] si trova che, alla temperatura ambiente ed a pressione normale, i gas che si possono misurare con questo metodo hanno $2{,}5 \times 10^{25}$ particelle per m³.
+c. [[PSSC_P1_C08#8 — 3. Il numero di particelle nei gas|Contando le particelle atomiche]] si trova che, alla temperatura ambiente ed a pressione normale, i gas che si possono misurare con questo metodo hanno $2{,}5 \times 10^{25}$ particelle per m³.
 
-d. [[PSSC_Cap8_Trad#8 — 4. La determinazione delle formule molecolari|Ipotesi di Avogadro]]: alla stessa temperatura e pressione, il numero di molecole, in uguali volumi di gas, è lo stesso.
+d. [[PSSC_P1_C08#8 — 4. La determinazione delle formule molecolari|Ipotesi di Avogadro]]: alla stessa temperatura e pressione, il numero di molecole, in uguali volumi di gas, è lo stesso.
 
-e. [[PSSC_Cap8_Trad#8 — 4. La determinazione delle formule molecolari|Confrontando le masse]] di un particolare elemento ottenute dalla scomposizione di uguali volumi di differenti molecole gassose contenenti quell'elemento, si può determinare il numero di atomi dell'elemento in ciascuna delle molecole.
+e. [[PSSC_P1_C08#8 — 4. La determinazione delle formule molecolari|Confrontando le masse]] di un particolare elemento ottenute dalla scomposizione di uguali volumi di differenti molecole gassose contenenti quell'elemento, si può determinare il numero di atomi dell'elemento in ciascuna delle molecole.
 
-f. **[[PSSC_Cap8_Trad#8 — 5. La legge delle relazioni volumetriche|Legge dei volumi di combinazione]]**: quando le sostanze vengono scomposte, i volumi dei diversi gas prodotti, nelle stesse condizioni di temperatura e pressione, stanno fra loro in rapporti di numeri interi. Quando si producono composti in seguito a reazioni chimiche tra gas, anche i volumi dei gas consumati mostrano rapporti di numeri interi.
+f. **[[PSSC_P1_C08#8 — 5. La legge delle relazioni volumetriche|Legge dei volumi di combinazione]]**: quando le sostanze vengono scomposte, i volumi dei diversi gas prodotti, nelle stesse condizioni di temperatura e pressione, stanno fra loro in rapporti di numeri interi. Quando si producono composti in seguito a reazioni chimiche tra gas, anche i volumi dei gas consumati mostrano rapporti di numeri interi.
 
-g. [[PSSC_Cap8_Trad#8 — 6. Masse molecolari e unità|La conoscenza dei rapporti tra le masse degli atomi]], insieme con la conoscenza della massa dell'atomo d'idrogeno ($1{,}67 \times 10^{-24}$ g), ci permette di trovare la massa di qualsiasi atomo.
+g. [[PSSC_P1_C08#8 — 6. Masse molecolari e unità|La conoscenza dei rapporti tra le masse degli atomi]], insieme con la conoscenza della massa dell'atomo d'idrogeno ($1{,}67 \times 10^{-24}$ g), ci permette di trovare la massa di qualsiasi atomo.
 
-h. **[[PSSC_Cap8_Trad#8 — 6. Masse molecolari e unità|Scala delle masse atomiche]]**: la scala chimica assegna alla massa dell'ossigeno esattamente il valore 16,0000; a tutte le altre masse vengono dati valori relativi a questo campione. La scala fisica delle masse è definita assegnando ad una specie particolare di ossigeno ($^{16}$O) il valore esatto di 16,0000.
+h. **[[PSSC_P1_C08#8 — 6. Masse molecolari e unità|Scala delle masse atomiche]]**: la scala chimica assegna alla massa dell'ossigeno esattamente il valore 16,0000; a tutte le altre masse vengono dati valori relativi a questo campione. La scala fisica delle masse è definita assegnando ad una specie particolare di ossigeno ($^{16}$O) il valore esatto di 16,0000.
 
-i. Il **[[PSSC_Cap8_Trad#8 — 7. Moli e numero di Avogadro|numero di Avogadro]]** è definito come il numero di atomi di $^{16}$O in 16 grammi esatti; esso vale $6{,}025 \times 10^{23}$.
+i. Il **[[PSSC_P1_C08#8 — 7. Moli e numero di Avogadro|numero di Avogadro]]** è definito come il numero di atomi di $^{16}$O in 16 grammi esatti; esso vale $6{,}025 \times 10^{23}$.
 
 Una **grammomolecola** di qualunque specie di molecole identiche è $6{,}025 \times 10^{23}$ di queste molecole.  
 La massa in grammi di una grammomolecola di qualunque atomo è esattamente uguale alla massa dell'atomo espressa in unità atomiche di massa.  
@@ -92,7 +92,7 @@ Una grammomolecola di qualunque gas, alla pressione atmosferica e a 0°C, occupa
 
 ### PUNTI DA METTERE IN EVIDENZA
 
-I paragrafi da [[PSSC_Cap8_Trad#8 — 1. Leggi della composizione chimica|1]] a [[PSSC_Cap8_Trad#8 — 7. Moli e numero di Avogadro|7]] riassumono brevemente una materia che viene di solito insegnata nei corsi di chimica.  
+I paragrafi da [[PSSC_P1_C08#8 — 1. Leggi della composizione chimica|1]] a [[PSSC_P1_C08#8 — 7. Moli e numero di Avogadro|7]] riassumono brevemente una materia che viene di solito insegnata nei corsi di chimica.  
 Se i vostri studenti conoscono la chimica, basterà eseguire rapidamente qualche esercizio come ripasso; gli studenti non dovrebbero trovarvi alcuna difficoltà.  
 Se invece non l'hanno studiata non potete attendervi che imparino tutti questi argomenti in poco tempo. Vi consigliamo quindi, se non avete molte ore a disposizione, di assegnare tutti questi paragrafi come lettura per casa e di soffermarvi invece sulla Tabella 3, sulle formule molecolari, e sul significato di *grammomolecola*.
 
@@ -113,7 +113,7 @@ L'aggiunta di altri elementi per formare delle leghe aumenta la resistenza mecca
 (Questo aumento di resistività è così forte che se occorre una combinazione di resistenza meccanica e bassa resistenza elettrica, si preferisce normalmente costruire i cavi intrecciando insieme fili di rame e fili di acciaio, anziché usare una lega.)
 
 #### **I composti di azoto ed ossigeno**  
-L'esempio classico della [[PSSC_Cap8_Trad#8 — 1. Leggi della composizione chimica|legge delle proporzioni multiple]] è dato dai composti di ossigeno e di azoto citati a pagina 175 e descritti nella tabella a pagina 8-4.  
+L'esempio classico della [[PSSC_P1_C08#8 — 1. Leggi della composizione chimica|legge delle proporzioni multiple]] è dato dai composti di ossigeno e di azoto citati a pagina 175 e descritti nella tabella a pagina 8-4.  
 Taluni di questi composti sono usati in alcune delle dimostrazioni del film *«Atoms and Chemistry»* (*Gli atomi e la chimica*).  
 Questi ossidi si possono anche usare per illustrare le varie proprietà risultanti da diversi composti semplici fatti degli stessi materiali. Le proprietà degli ossidi vengono date nella tabella.
 
@@ -130,8 +130,8 @@ Questi ossidi si possono anche usare per illustrare le varie proprietà risultan
 | NO₃                 | Triossido d'azoto        | gassoso          | blu                                | –                             | –                                   | –                         | –                                     | Si decompone a temperatura normale. |
 ## Paragrafi 8-8 e 8–9
 
-- Paragrafo 8 – [[PSSC_Cap8_Trad#8 — 8. Masse atomiche e numeri interi; isotopi|Masse atomiche e numeri interi; gli isotopi]]  
-- Paragrafo 9 – [[PSSC_Cap8_Trad#8 — 9. La struttura intima della materia|L'intima struttura della materia]]
+- Paragrafo 8 – [[PSSC_P1_C08#8 — 8. Masse atomiche e numeri interi; isotopi|Masse atomiche e numeri interi; gli isotopi]]  
+- Paragrafo 9 – [[PSSC_P1_C08#8 — 9. La struttura intima della materia|L'intima struttura della materia]]
 
 ### OBIETTIVO  
 Suggerire che gli atomi stessi sono fatti di blocchi costruttivi — i protoni, gli elettroni e i neutroni.
@@ -182,9 +182,9 @@ Piuttosto che rischiare di confondere le idee agli studenti, sarebbe meglio risp
 
 ## Paragrafi da 8-10 a 8-12
 
-- Paragrafo 10 – [[PSSC_Cap8_Trad#8 — 10. Molecole — Strutture e proprietà|Le molecole – Strutture e proprietà]]  
-- Paragrafo 11 – [[PSSC_Cap8_Trad#8 — 11. Lo studio delle molecole organiche|Lo studio delle molecole organiche]]  
-- Paragrafo 12 – [[PSSC_Cap8_Trad#8 — 12. La chimica della vita|La chimica della vita]]
+- Paragrafo 10 – [[PSSC_P1_C08#8 — 10. Molecole — Strutture e proprietà|Le molecole – Strutture e proprietà]]  
+- Paragrafo 11 – [[PSSC_P1_C08#8 — 11. Lo studio delle molecole organiche|Lo studio delle molecole organiche]]  
+- Paragrafo 12 – [[PSSC_P1_C08#8 — 12. La chimica della vita|La chimica della vita]]
 
 ### OBIETTIVO  
 Mostrare come le proprietà fisiche e chimiche delle molecole siano legate alle loro caratteristiche atomiche; mettere in evidenza il fatto che le molecole organiche, nonostante la loro complessità, sono composte dei blocchi costitutivi fondamentali della materia — gli atomi; ed estendere la discussione degli atomi e delle molecole alla struttura di esseri viventi.
@@ -209,10 +209,10 @@ Altri articoli interessanti appaiono continuamente nello *Scientific American* e
 
 ## Paragrafi da 8-13 a 8-16
 
-- Paragrafo 13 – [[PSSC_Cap8_Trad#8 — 13. Molecole e solidi|Molecole e solidi]]  
-- Paragrafo 14 – [[PSSC_Cap8_Trad#8 — 14. Cristalli La fisica dello stato|I cristalli: la fisica dello stato solido]]  
-- Paragrafo 15 – [[PSSC_Cap8_Trad#8 — 15. La geometria dei cristalli|La geometria dei cristalli]]  
-- Paragrafo 16 – [[PSSC_Cap8_Trad#8 — 16. Ordine e disordine|Ordine e disordine]]
+- Paragrafo 13 – [[PSSC_P1_C08#8 — 13. Molecole e solidi|Molecole e solidi]]  
+- Paragrafo 14 – [[PSSC_P1_C08#8 — 14. Cristalli La fisica dello stato|I cristalli: la fisica dello stato solido]]  
+- Paragrafo 15 – [[PSSC_P1_C08#8 — 15. La geometria dei cristalli|La geometria dei cristalli]]  
+- Paragrafo 16 – [[PSSC_P1_C08#8 — 16. Ordine e disordine|Ordine e disordine]]
 ### OBIETTIVO  
 Presentare brevemente il ruolo degli atomi nella formazione dei cristalli e mostrare come la struttura cristallina influisca sulle proprietà della materia solida.
 

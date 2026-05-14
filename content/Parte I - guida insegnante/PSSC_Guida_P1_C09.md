@@ -3,7 +3,7 @@ title: Capitolo 9 - La natura del gas
 ---
 # Capitolo 9 – La natura dei gas
 
-Il [[PSSC_Cap9_Trad#Capitolo 9 - LA NATURA DI UN GAS|Capitolo 9]] si propone soprattutto di introdurre l'idea di un modello fisico, come mezzo per analizzare ed estrapolare osservazioni su sistemi relativamente complicati. La discussione è imperniata sul modello molecolare di un gas e mostra come questa rappresentazione ci permetta di comprendere molte importanti proprietà dei gas. La trattazione è qui parzialmente quantitativa, perché un'analisi in piena regola presuppone la conoscenza della dinamica. (Questa materia è trattata quantitativamente nel Capitolo 26.)
+Il [[PSSC_P1_C09#Capitolo 9 - LA NATURA DI UN GAS|Capitolo 9]] si propone soprattutto di introdurre l'idea di un modello fisico, come mezzo per analizzare ed estrapolare osservazioni su sistemi relativamente complicati. La discussione è imperniata sul modello molecolare di un gas e mostra come questa rappresentazione ci permetta di comprendere molte importanti proprietà dei gas. La trattazione è qui parzialmente quantitativa, perché un'analisi in piena regola presuppone la conoscenza della dinamica. (Questa materia è trattata quantitativamente nel Capitolo 26.)
 
 Affrontando questo Capitolo, l'insegnante dovrà cercare di mantenere la materia al livello seguito dal testo, evitando di impegnarsi in una rigorosa giustificazione dinamica dei risultati. Si dovrebbero evitare definizioni esatte di parole come «pressione», perché gli studenti non conoscono ancora una definizione precisa di forza. (Il testo a questo punto usa di proposito parole come «spinta» invece di forza). Una discussione quantitativa della teoria cinetica (come quella presentata nel Capitolo 26) richiede dimestichezza col concetto di forza e con le leggi di conservazione della quantità di moto e dell'energia. Ciò che importa, per il momento, è che gli studenti si facciano un'idea della legge dei gas, come utile descrizione delle proprietà dei gas, e comprendano in che modo uno scienziato usi un modello, non solo come rappresentazione semplificata di qualche fenomeno fisico complesso, ma piuttosto come strumento per allargare il campo della conoscenza e dare un indirizzo ai propri esperimenti.
 
@@ -11,20 +11,20 @@ Affrontando questo Capitolo, l'insegnante dovrà cercare di mantenere la materia
 
 Il Capitolo 9 si può dividere nelle tre parti seguenti:
 
-Paragrafi [[PSSC_Cap9_Trad#9-1. Modelli fisici|1]] e [[PSSC_Cap9_Trad#9-2. Il modello molecolare di un gas|2]]. Il testo introduce il concetto di modello fisico, in contrasto con l'uso comune della parola «modello». Per modello fisico non s'intende qualcosa costruito con legno e colla, bensì con idee ed ipotesi che ci permettono di analizzare situazioni complesse. Un modello deve essere controllato da esperimenti, e occorre molta cautela nell'estendere il modello ad un campo ancora inesplorato. Prendiamo come modello di un gas un insieme di molecole largamente distanziate in moto continuo, che urtano l'una contro l'altra e contro le pareti del recipiente. Questo modello sembra coerente con molte delle proprietà evidenti dei gas: la loro bassa densità, l'alta mobilità, ecc.
+Paragrafi [[PSSC_P1_C09#9-1. Modelli fisici|1]] e [[PSSC_P1_C09#9-2. Il modello molecolare di un gas|2]]. Il testo introduce il concetto di modello fisico, in contrasto con l'uso comune della parola «modello». Per modello fisico non s'intende qualcosa costruito con legno e colla, bensì con idee ed ipotesi che ci permettono di analizzare situazioni complesse. Un modello deve essere controllato da esperimenti, e occorre molta cautela nell'estendere il modello ad un campo ancora inesplorato. Prendiamo come modello di un gas un insieme di molecole largamente distanziate in moto continuo, che urtano l'una contro l'altra e contro le pareti del recipiente. Questo modello sembra coerente con molte delle proprietà evidenti dei gas: la loro bassa densità, l'alta mobilità, ecc.
 
-Paragrafi da [[PSSC_Cap9_Trad#9-3. Legge di Boyle|3]] a [[PSSC_Cap9_Trad#9-5. Temperatura e il modello di un gas|5]]. Il modello molecolare viene ora esaminato più da vicino. Il modello prevede che la pressione di un gas debba essere proporzionale al numero di molecole per unità di volume. (Legge di Boyle). Questa relazione si può verificare sperimentalmente, se la pressione non è troppo forte: sotto forti pressioni, si hanno scarti considerevoli. Ripetendo l'esperimento a diverse temperature, si trova che la pressione dipende anche dalla temperatura. Si può usare questa relazione per costruire un termometro a gas per la misura delle temperature, e stabilire una scala assoluta delle temperature. Dal modello molecolare, vediamo che la temperatura è identificabile con la massa e la velocità delle molecole (in realtà $mv^2$, sebbene questo fatto per ora non venga provato).
+Paragrafi da [[PSSC_P1_C09#9-3. Legge di Boyle|3]] a [[PSSC_P1_C09#9-5. Temperatura e il modello di un gas|5]]. Il modello molecolare viene ora esaminato più da vicino. Il modello prevede che la pressione di un gas debba essere proporzionale al numero di molecole per unità di volume. (Legge di Boyle). Questa relazione si può verificare sperimentalmente, se la pressione non è troppo forte: sotto forti pressioni, si hanno scarti considerevoli. Ripetendo l'esperimento a diverse temperature, si trova che la pressione dipende anche dalla temperatura. Si può usare questa relazione per costruire un termometro a gas per la misura delle temperature, e stabilire una scala assoluta delle temperature. Dal modello molecolare, vediamo che la temperatura è identificabile con la massa e la velocità delle molecole (in realtà $mv^2$, sebbene questo fatto per ora non venga provato).
 
-Paragrafi [[PSSC_Cap9_Trad#9-6. Moto browniano e rumore Johnson|6]] e [[PSSC_Cap9_Trad#9-7. Gas senza pareti|7]]. Il modello molecolare prevede che, a densità sufficientemente basse, dovrebbe essere osservabile il moto casuale delle singole molecole. Questo si verifica nell'osservazione del moto browniano, che stabilisce un limite naturale per la precisione di qualunque misura fisica. Per finire, notiamo che grandi masse di gas (per esempio, l'atmosfera terrestre, le nubi stellari) possono essere trattenute senza pareti, dall'attrazione di gravità.
+Paragrafi [[PSSC_P1_C09#9-6. Moto browniano e rumore Johnson|6]] e [[PSSC_P1_C09#9-7. Gas senza pareti|7]]. Il modello molecolare prevede che, a densità sufficientemente basse, dovrebbe essere osservabile il moto casuale delle singole molecole. Questo si verifica nell'osservazione del moto browniano, che stabilisce un limite naturale per la precisione di qualunque misura fisica. Per finire, notiamo che grandi masse di gas (per esempio, l'atmosfera terrestre, le nubi stellari) possono essere trattenute senza pareti, dall'attrazione di gravità.
 
 ## CALENDARIO DEL CAPITOLO 9
 
-Questo capitolo costituisce una lettura abbastanza facile, e gran parte della materia può venire assimilata attraverso la lettura del testo; non occorrerà quindi molto tempo per la discussione in classe. Probabilmente è meglio limitare le ore di lezione alla discussione di alcuni dei problemi quantitativi tratti dai [[PSSC_Cap9_Trad#PER CASA, IN CLASSE E IN LABORATORIO|lavori per Casa, Scuola e Laboratorio]] riguardanti i Paragrafi da 3 a 5. Una trattazione completa di tutta la materia del Capitolo 9 richiederebbe troppo tempo. Gli argomenti principali che possono essere trattati a fondo dagli studenti di scuola media superiore saranno riesaminati dettagliatamente nel Capitolo 26.
+Questo capitolo costituisce una lettura abbastanza facile, e gran parte della materia può venire assimilata attraverso la lettura del testo; non occorrerà quindi molto tempo per la discussione in classe. Probabilmente è meglio limitare le ore di lezione alla discussione di alcuni dei problemi quantitativi tratti dai [[PSSC_P1_C09#PER CASA, IN CLASSE E IN LABORATORIO|lavori per Casa, Scuola e Laboratorio]] riguardanti i Paragrafi da 3 a 5. Una trattazione completa di tutta la materia del Capitolo 9 richiederebbe troppo tempo. Gli argomenti principali che possono essere trattati a fondo dagli studenti di scuola media superiore saranno riesaminati dettagliatamente nel Capitolo 26.
 
 ## MATERIALI SUSSIDIARI PER IL CAPITOLO 9
 
 ### **Laboratorio**  
-Esperimento [[PSSC_Lab_Trad#I – 9. Scala naturale delle temperature|I-9 – Scala naturale delle temperature]]. In questo esperimento, gli studenti tarano un semplice termometro a gas a diverse temperature. Per suggerimenti vedere le pagine gialle sull'Esperimento I-9.
+Esperimento [[PSSC_P1_LAB#I – 9. Scala naturale delle temperature|I-9 – Scala naturale delle temperature]]. In questo esperimento, gli studenti tarano un semplice termometro a gas a diverse temperature. Per suggerimenti vedere le pagine gialle sull'Esperimento I-9.
 
 ### **Lavori per Casa, Scuola e Laboratorio**  
 La seguente tabella classifica i problemi secondo la stima del loro grado di difficoltà e secondo i paragrafi cui si riferiscono. Sono indicati quelli particolarmente adatti ad una discussione in classe. I problemi particolarmente consigliati sono contrassegnati da un asterisco (\*). Le soluzioni dei problemi sono date nelle pagine verdi: le risposte brevi a pagina 9-7; i commenti e le soluzioni dettagliate nelle pagine da 9-8 a 9-18.
@@ -49,8 +49,8 @@ In questo capitolo non esagerate con le dimostrazioni. Non è questo il momento 
 
 ## Paragrafi da 9-1 a 9-2
 
-- [[PSSC_Cap9_Trad#9-1. Modelli fisici|Paragrafo 1 – Modelli fisici]] 
-- [[PSSC_Cap9_Trad#9-2. Il modello molecolare di un gas|Paragrafo 2 – Il modello molecolare di un gas]]
+- [[PSSC_P1_C09#9-1. Modelli fisici|Paragrafo 1 – Modelli fisici]] 
+- [[PSSC_P1_C09#9-2. Il modello molecolare di un gas|Paragrafo 2 – Il modello molecolare di un gas]]
 
 ### OBIETTIVO
 
@@ -80,9 +80,9 @@ Il testo nota che la velocità del moto di molecole largamente distanziate è «
 
 ## Paragrafi da 9-3 a 9-5
 
-- Paragrafo 3 – [[PSSC_Cap9_Trad#9-3. Legge di Boyle|La legge di Boyle]]  
-- Paragrafo 4 – [[PSSC_Cap9_Trad#9-4. Temperatura e termometri a gas|La temperatura e i termometri a gas]]  
-- Paragrafo 5 – [[PSSC_Cap9_Trad#9-5. Temperatura e il modello di un gas|La temperatura e il modello dei gas]]
+- Paragrafo 3 – [[PSSC_P1_C09#9-3. Legge di Boyle|La legge di Boyle]]  
+- Paragrafo 4 – [[PSSC_P1_C09#9-4. Temperatura e termometri a gas|La temperatura e i termometri a gas]]  
+- Paragrafo 5 – [[PSSC_P1_C09#9-5. Temperatura e il modello di un gas|La temperatura e il modello dei gas]]
 
 ### OBIETTIVO
 
@@ -112,7 +112,7 @@ dove $\theta$ è funzione della temperatura.
 Questa relazione (legge di Boyle) vale per un campo assai vasto di pressioni e di temperature, ma cessa di essere valida ad alte pressioni e basse temperature, quando le molecole sono troppo vicine tra di loro.
 
 d. Il fatto che la pressione di un volume costante di gas dipenda dalla temperatura può essere sfruttato per costruire una scala delle temperature.  
-→ vedi anche [[PSSC_Lab_Trad#I – 9. Scala naturale delle temperature|Esperimento I–9]].
+→ vedi anche [[PSSC_P1_LAB#I – 9. Scala naturale delle temperature|Esperimento I–9]].
 
 e. Il modello molecolare permette d'identificare la temperatura con la velocità del moto delle molecole di un gas. La temperatura dipende anche dalla massa molecolare. Con uno studio più approfondito, troviamo che la temperatura è proporzionale a $mv^2$.
 
@@ -129,7 +129,7 @@ Non soffermatevi sulla definizione di diverse scale di temperatura o sui metodi 
 
 ### COMMENTI
 
-Gli studenti vi faranno forse qualche domanda riguardo ai particolari dell'esperimento sulla «legge di Boyle» discusso nel [[PSSC_Cap9_Trad#9-3. Legge di Boyle|Paragrafo 3]]. L'apparecchiatura mostrata nelle Figg. 9-5 e 9-6 è molto schematica. Ci occorre qualche sistema per mettere il volume noto di gas ($V_0$) in un recipiente pieno di ghiaccio o nell'acqua bollente, e difficilmente ce lo può fornire la semplice attrezzatura mostrata nelle figure. Vi sono diversi piccoli particolari che qualche studente potrebbe rilevare, ma che altrimenti sarebbe bene ignorare:
+Gli studenti vi faranno forse qualche domanda riguardo ai particolari dell'esperimento sulla «legge di Boyle» discusso nel [[PSSC_P1_C09#9-3. Legge di Boyle|Paragrafo 3]]. L'apparecchiatura mostrata nelle Figg. 9-5 e 9-6 è molto schematica. Ci occorre qualche sistema per mettere il volume noto di gas ($V_0$) in un recipiente pieno di ghiaccio o nell'acqua bollente, e difficilmente ce lo può fornire la semplice attrezzatura mostrata nelle figure. Vi sono diversi piccoli particolari che qualche studente potrebbe rilevare, ma che altrimenti sarebbe bene ignorare:
 
 1. Si suppone che il volume $V_1$ sia noto da una precedente taratura.  
 2. Si suppone che il volume $V_1$ non cambi quando aggiungiamo gas nel recipiente — il che equivale a supporre che il volume del mercurio spostato sia trascurabile rispetto a $V_0$.  
@@ -201,8 +201,8 @@ Tuttavia, per quanto gli scienziati riescano ad avvicinarsi allo zero assoluto, 
 
 ## Paragrafi 9-6 e 9-7
 
-- Paragrafo 6 – [[PSSC_Cap9_Trad#9-6. Moto browniano e rumore Johnson|Moto browniano e rumore di fondo]]  
-- Paragrafo 7 – [[PSSC_Cap9_Trad#9-7. Gas senza pareti|Gas liberi]]
+- Paragrafo 6 – [[PSSC_P1_C09#9-6. Moto browniano e rumore Johnson|Moto browniano e rumore di fondo]]  
+- Paragrafo 7 – [[PSSC_P1_C09#9-7. Gas senza pareti|Gas liberi]]
 ### OBIETTIVO
 
 Far rilevare che il moto molecolare può essere oggetto di osservazione (e che le molecole di gas, come il resto della materia, sono soggette all'attrazione della gravità).

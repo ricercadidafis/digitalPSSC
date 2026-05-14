@@ -3,8 +3,8 @@ title: Capitolo 3 - Lo spazio e la sua misura
 ---
 ## Capitolo 3 – Lo spazio e la sua misura
 
-Il [[PSSC_Cap3_Trad#Capitolo 3 - Lo spazio e la sua misurazione|capitolo 3]] si occupa soprattutto dell’idea di distanza e di alcune tecniche per la misura d’intervalli di spazio.  
-Come nel [[PSSC_Cap2_Trad#Capitolo 2 - Tempo e misura|capitolo 2]], l’accento viene posto sulla costruzione di un sistema che permetta di misurare intervalli troppo grandi o troppo piccoli per essere valutati direttamente dai sensi.
+Il [[PSSC_P1_C03#Capitolo 3 - Lo spazio e la sua misurazione|capitolo 3]] si occupa soprattutto dell’idea di distanza e di alcune tecniche per la misura d’intervalli di spazio.  
+Come nel [[PSSC_P1_C02#Capitolo 2 - Tempo e misura|capitolo 2]], l’accento viene posto sulla costruzione di un sistema che permetta di misurare intervalli troppo grandi o troppo piccoli per essere valutati direttamente dai sensi.
 
 Il capitolo si divide naturalmente in due parti:  
 1. Problemi e metodi di misura di distanze grandi e piccole;  
@@ -22,16 +22,16 @@ Almeno un’ora di lezione dovrebbe essere dedicata ad attività di laboratorio.
 
 ### Riassunto del Capitolo
 
-I [[PSSC_Cap3_Trad#3 — 1. L’unità di distanza|paragrafi da 1 a 5]] trattano dello «spazio» come concetto fisicamente determinabile.  
+I [[PSSC_P1_C03#3 — 1. L’unità di distanza|paragrafi da 1 a 5]] trattano dello «spazio» come concetto fisicamente determinabile.  
 Il capitolo comincia con le nozioni intuitive di spazio, e col ricordare che dello spazio, come del tempo, ci interessano gli intervalli.  
 La necessità di stabilire un’unità di distanza è evidente. Le unità metriche sono arbitrarie, ma convenienti.
 
-Vengono discussi vari metodi per misurare le distanze, in particolare la [[PSSC_Cap3_Trad#3 — 2. Misurare grandi distanze – triangolazione|triangolazione]], per determinare grandi distanze, ed alcune tecniche ottiche o meccaniche per [[PSSC_Cap3_Trad#3 — 3. Piccole distanze|distanze piccole]].  
+Vengono discussi vari metodi per misurare le distanze, in particolare la [[PSSC_P1_C03#3 — 2. Misurare grandi distanze – triangolazione|triangolazione]], per determinare grandi distanze, ed alcune tecniche ottiche o meccaniche per [[PSSC_P1_C03#3 — 3. Piccole distanze|distanze piccole]].  
 Vengono indicati gli **ordini di grandezza** delle distanze che si possono valutare con l’aiuto di strumenti.  
 Vengono introdotte alcune delle idee più importanti sulla **dimensionalità**.  
 Viene brevemente considerata la misura di **aree** e di **volumi**.
 
-I [[PSSC_Cap3_Trad#3 — 6. Sulle limitazioni delle misure|paragrafi 6]] e [[PSSC_Cap3_Trad#3 — 7. Cifre significative|7]] trattano dei **limiti** nel procedimento di misura delle distanze, e di come si esprima la **limitata precisione** delle misure mediante l’uso appropriato delle cifre significative.
+I [[PSSC_P1_C03#3 — 6. Sulle limitazioni delle misure|paragrafi 6]] e [[PSSC_P1_C03#3 — 7. Cifre significative|7]] trattano dei **limiti** nel procedimento di misura delle distanze, e di come si esprima la **limitata precisione** delle misure mediante l’uso appropriato delle cifre significative.
 
 ---
 
@@ -45,7 +45,7 @@ Saranno necessari continui richiami alla memoria durante tutto il corso.
 
 Molti argomenti importanti di questo capitolo vengono discussi anche nei film descritti qui sotto.  
 Potete proiettarne uno, o tutti e due, per stimolare la discussione in classe sulle misure di distanza e l’interesse scientifico in generale.  
-Si dovrebbe assegnare qualche problema relativo ai paragrafi [[PSSC_Cap3_Trad#3 — 2. Misurare grandi distanze – triangolazione|2]] e [[PSSC_Cap3_Trad#3 — 7. Cifre significative|7]].
+Si dovrebbe assegnare qualche problema relativo ai paragrafi [[PSSC_P1_C03#3 — 2. Misurare grandi distanze – triangolazione|2]] e [[PSSC_P1_C03#3 — 7. Cifre significative|7]].
 
 ---
 
@@ -53,7 +53,7 @@ Si dovrebbe assegnare qualche problema relativo ai paragrafi [[PSSC_Cap3_Trad#3 
 
 **Laboratorio**
 
-- [[PSSC_Lab_Trad#I – 2. Grandi distanze|Esperimento I-2 – Grandi distanze]]  
+- [[PSSC_P1_LAB#I – 2. Grandi distanze|Esperimento I-2 – Grandi distanze]]  
   Con questo esperimento gli studenti acquistano familiarità con l’uso dei metodi di triangolazione servendosi di due dispositivi: il **telemetro a riflessione** ed il **telemetro a parallasse**.  
   Noterete che nell’esperimento, la teoria del telemetro a riflessione non viene trattata.  
   Esso viene tarato semplicemente su distanze note o misurabili.  
@@ -61,7 +61,7 @@ Si dovrebbe assegnare qualche problema relativo ai paragrafi [[PSSC_Cap3_Trad#3 
   È un’illustrazione poco importante di come la scienza proceda: una combinazione di verifiche.  
   Vedere le pagine gialle sull’esperimento I-2 per suggerimenti.
 
-- [[PSSC_Lab_Trad#I – 3. Piccole distanze|Esperimento I-3 – Piccole distanze]]  
+- [[PSSC_P1_LAB#I – 3. Piccole distanze|Esperimento I-3 – Piccole distanze]]  
   In questo esperimento gli studenti montano e tarano un **micrometro ottico** che è capace di misurare distanze dell’ordine di $10^{-5}$ m.  
   Vedere le pagine gialle sull’esperimento I-3 per suggerimenti.
 ### Per casa, scuola e laboratorio
@@ -73,7 +73,7 @@ Le soluzioni dei problemi sono date nelle pagine verdi: le risposte brevi a pagi
 
 #### Tabella 1: Classificazione dei problemi per paragrafo e tipo di attività
 
-| Paragrafo           | [[PSSC_Cap3_Trad#3 — 1. L’unità di distanza\|1]] | [[PSSC_Cap3_Trad#3 — 2. Misurare grandi distanze – triangolazione\|2]] | [[PSSC_Cap3_Trad#3 — 3. Piccole distanze\|3]] | [[PSSC_Cap3_Trad#3 — 4. Le dimensioni dello spazio\|4]], [[PSSC_Cap3_Trad#3 — 5. Misurazione di superfici e volumi\|5]] | [[PSSC_Cap3_Trad#3 — 6. Sulle limitazioni delle misure\|6]] | [[PSSC_Cap3_Trad#3 — 7. Cifre significative\|7]] |
+| Paragrafo           | [[PSSC_P1_C03#3 — 1. L’unità di distanza\|1]] | [[PSSC_P1_C03#3 — 2. Misurare grandi distanze – triangolazione\|2]] | [[PSSC_P1_C03#3 — 3. Piccole distanze\|3]] | [[PSSC_P1_C03#3 — 4. Le dimensioni dello spazio\|4]], [[PSSC_P1_C03#3 — 5. Misurazione di superfici e volumi\|5]] | [[PSSC_P1_C03#3 — 6. Sulle limitazioni delle misure\|6]] | [[PSSC_P1_C03#3 — 7. Cifre significative\|7]] |
 | ------------------- | ------------------------------------------------ | ---------------------------------------------------------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------ |
 | **Facile**          | 1                                                | –                                                                      | 11                                            | 12, 13, 14                                                                                                              | –                                                           | 23, 24                                           |
 | **Medio**           | –                                                | 4, 9\*                                                                 | –                                             | 15                                                                                                                      | 16\*, 17                                                    | 18, 19, 20\*, 21, 22                             |
@@ -96,7 +96,7 @@ Le soluzioni dei problemi sono date nelle pagine verdi: le risposte brevi a pagi
   **Durata**: 20 minuti.
 ### Paragrafo 3–1
 
-- [[PSSC_Cap3_Trad#3 — 1. L’unità di distanza|Paragrafo 1 – L’unità di misura per le distanze]]
+- [[PSSC_P1_C03#3 — 1. L’unità di distanza|Paragrafo 1 – L’unità di misura per le distanze]]
 
 #### OBIETTIVO  
 Mostrare come si sviluppano i sistemi di unità e, in un secondo tempo, introdurre le unità metriche di distanza.
@@ -139,7 +139,7 @@ La lunghezza del meridiano per un grado di latitudine è 1/90 di un quadrante (l
 Già i **Greci** usarono questo metodo per ottenere **una stima soddisfacente delle dimensioni della Terra**.
 ### Paragrafo 3–2
 
-- [[PSSC_Cap3_Trad#3 — 2. Misurare grandi distanze – triangolazione|Paragrafo 2 – Misura delle grandi distanze: la triangolazione]]
+- [[PSSC_P1_C03#3 — 2. Misurare grandi distanze – triangolazione|Paragrafo 2 – Misura delle grandi distanze: la triangolazione]]
 
 #### OBIETTIVO  
 Mostrare come si possono ottenere enormi estensioni nella gamma delle misure di distanza con l’uso di semplici tecniche geometriche.
@@ -156,7 +156,7 @@ L’idea alla base della triangolazione è ingegnosa, ma molto semplice.
 Sebbene sia un argomento importante e interessante, può essere trattato abbastanza brevemente.  
 Il compito di far comprendere i metodi di triangolazione sarà in gran parte riservato al laboratorio.  
 
-- L’[[PSSC_Lab_Trad#I – 2. Grandi distanze|esperimento I-2]] è opportuno a questo punto.  
+- L’[[PSSC_P1_LAB#I – 2. Grandi distanze|esperimento I-2]] è opportuno a questo punto.  
 - Utili anche i problemi 3, 5, 9.
 
 ---
@@ -180,7 +180,7 @@ Sono molte le applicazioni dell’idea che sta alla base della triangolazione;
 molte sono citate nel testo ed altre verranno in mente agli alunni.  
 I seguenti commenti servono a supportare l’insegnante nelle eventuali domande, **non sono destinati a una esposizione in classe**.
 
-Il metodo per determinare le dimensioni della Terra citato nella [[PSSC_Cap3_Trad#3 — 1. L’unità di distanza|Guida al paragrafo 1]] è essenzialmente un metodo di triangolazione:  
+Il metodo per determinare le dimensioni della Terra citato nella [[PSSC_P1_C03#3 — 1. L’unità di distanza|Guida al paragrafo 1]] è essenzialmente un metodo di triangolazione:  
 - la «base» misurata è un **arco di meridiano**,  
 - la distanza da misurare è il **raggio della Terra**,  
 - l’**angolo sotteso** si ottiene dal cambiamento di latitudine.
@@ -364,7 +364,7 @@ Infatti:
 - Il **diametro della nostra galassia** è circa **$10^5$ anni luce**
 ### Paragrafo 3–3
 
-- [[PSSC_Cap3_Trad#3 — 3. Piccole distanze|Paragrafo 3 – Piccole distanze]]
+- [[PSSC_P1_C03#3 — 3. Piccole distanze|Paragrafo 3 – Piccole distanze]]
 
 #### CONTENUTO  
 Si possono usare parecchi metodi o dispositivi che ci permettono di dedurre la grandezza di una distanza piccola dalla misura di una più grande.
@@ -373,10 +373,10 @@ Si possono usare parecchi metodi o dispositivi che ci permettono di dedurre la g
 Si dovrebbe soprattutto far vedere agli studenti **come e quanto si possono estendere le misure di distanze molto piccole**.  
 
 - In laboratorio, lo studente può arrivare a misurare col micrometro ottico sino a $10^{-5}$ metri.  
-- Nell'[[PSSC_Lab_Trad#I – 8. Strati molecolari|esperimento sullo strato monomolecolare (I-8)]], relativo al capitolo 7, arriverà a $10^{-9}$ metri.  
+- Nell'[[PSSC_P1_LAB#I – 8. Strati molecolari|esperimento sullo strato monomolecolare (I-8)]], relativo al capitolo 7, arriverà a $10^{-9}$ metri.  
 - Prima che il corso sia finito, imparerà tecniche per spingersi fino alle **dimensioni subatomiche**.  
 - Questo paragrafo può essere trattato **molto brevemente**, dato che molte idee sono simili a quelle del paragrafo precedente.  
-- Se avete tempo, la costruzione e la taratura del micrometro ottico ([[PSSC_Lab_Trad#I – 3. Piccole distanze|esperimento I–3]]) saranno un esercizio opportuno.  
+- Se avete tempo, la costruzione e la taratura del micrometro ottico ([[PSSC_P1_LAB#I – 3. Piccole distanze|esperimento I–3]]) saranno un esercizio opportuno.  
 - Se fate l'esperimento, **non dovreste per ora introdurre il calibro micrometrico**, perché esso può diminuire l'interesse degli studenti nel costruire e calibrare da sé il loro dispositivo.
 
 #### COMMENTI  
@@ -395,7 +395,7 @@ Lasciate che gli studenti **risolvano questa questione in laboratorio** con il m
 
 ### Paragrafo 3–4
 
-- [[PSSC_Cap3_Trad#3 — 4. Le dimensioni dello spazio|Paragrafo 4 – Le dimensioni dello spazio]]
+- [[PSSC_P1_C03#3 — 4. Le dimensioni dello spazio|Paragrafo 4 – Le dimensioni dello spazio]]
 
 #### OBIETTIVO  
 Rendere più esplicite le connessioni fisiche intuitive fra **lunghezze**, **aree** e **volumi**, cioè tra una, due e tre dimensioni.
@@ -427,7 +427,7 @@ Gli studenti possono far notare che anche nel mondo d’ogni giorno, **ci voglio
 > Questo concetto è fondamentale nella **teoria della relatività**, ed ha sollevato diffuse e stravaganti speculazioni sulla “quarta dimensione” nelle menti del pubblico all’epoca in cui Einstein pubblicò la sua teoria.
 ### Paragrafo 3–5
 
-- [[PSSC_Cap3_Trad#3 — 5. Misurazione di superfici e volumi|Paragrafo 5 – Misura delle superfici e dei volumi]]
+- [[PSSC_P1_C03#3 — 5. Misurazione di superfici e volumi|Paragrafo 5 – Misura delle superfici e dei volumi]]
 
 #### OBIETTIVO  
 Mostrare che la misura delle **aree** e dei **volumi** è semplicemente una **estensione del processo consistente nel contare delle unità**.
@@ -446,8 +446,8 @@ Alcuni problemi dal **12° al 17°**, posti alla fine del capitolo, possono esse
 Saranno utili agli studenti per familiarizzarsi con le **misure di area e di volume**.
 ### Paragrafi 3–6 e 3–7
 
-- [[PSSC_Cap3_Trad#3 — 6. Sulle limitazioni delle misure|Paragrafo 6 – I limiti dei procedimenti di misura]]  
-- [[PSSC_Cap3_Trad#3 — 7. Cifre significative|Paragrafo 7 – Cifre significative]]
+- [[PSSC_P1_C03#3 — 6. Sulle limitazioni delle misure|Paragrafo 6 – I limiti dei procedimenti di misura]]  
+- [[PSSC_P1_C03#3 — 7. Cifre significative|Paragrafo 7 – Cifre significative]]
 
 #### OBIETTIVO  
 Mostrare alcuni **limiti dei metodi di misura** ed introdurre l’uso delle **cifre significative** nel riportare i risultati delle misure.
