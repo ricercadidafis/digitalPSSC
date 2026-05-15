@@ -204,7 +204,7 @@ Per poter svolgere la materia secondo l’ordine che ci proponiamo di seguire, �
 #### INFORMAZIONI
 Quegli studenti che conoscono qualcosa sul moto dei pianeti e dei loro satelliti nel sistema solare potranno comprendere chiaramente il metodo di Roemer per misurare la velocità della luce. Gli altri studenti ne avranno soltanto qualche vaga nozione: d’altra parte non è necessario che comprendano fino in fondo. Qualcuno di loro potrebbe comunque chiedervi chiarimenti alla fine della lezione: le note che seguono non esauriscono l’argomento, ma potranno esservi utili.
 
-![Figura 1: Schema del metodo di Roemer per misurare la velocità della luce mediante le eclissi di un satellite di Giove.](Figure/Figura_GuidaIT_11_01.png)
+![Figura 1: Schema del metodo di Roemer per misurare la velocità della luce mediante le eclissi di un satellite di Giove.](Figure/Fig_GuidaIT_11_1.png)
 
 Ci riferiamo alla figura qui sopra.
 
