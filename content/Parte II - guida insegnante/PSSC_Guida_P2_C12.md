@@ -1,3 +1,7 @@
+---
+title: Capitolo 12 - Riflessioni e immagini
+---
+
 # Capitolo 12 - Riflessioni e immagini
 
 In questo capitolo si esaminano la propagazione rettilinea della luce, la rappresentazione grafica dei raggi, le leggi della riflessione e la formazione delle immagini. Due semplici concetti — la propagazione rettilinea e le leggi della riflessione — compendiano un gran numero di osservazioni sperimentali.
@@ -81,7 +85,7 @@ B - Per compendiare le osservazioni fatte e per accertarvi che la classe abbia c
 
 Riportiamo un disegno che mostra ciò che accade quando sorgente e schermo restano fissi, e l'ostacolo si sposta. Gli studenti potranno vedere un'immagine simile, per quanto un po' più complicata, osservando l'ombra delle proprie mani, mentre queste si avvicinano al banco.
 
-!(Figure/Fig_GuidaIT_12_01.png)
+![](Figure/Fig_GuidaIT_12_01.png)
 
 Si noti che con una singola sorgente luminosa, come nel disegno qui sopra, l'ombra diviene più netta al ridursi delle zone sfumate. Sovente però si è in presenza di diverse sorgenti (oppure di sorgenti di luce diffusa) che contribuiscono a dare un'illuminazione diffusa anche se apparentemente c'è un'unica sorgente principale. Avvicinandosi un ostacolo allo schermo, la luce diffusa si riduce in modo da produrre un più netto contrasto fra l'ombra e le zone circostanti.
 
@@ -101,9 +105,9 @@ DOMANDE AGLI STUDENTI - Alcune variazioni sui temi dei Problemi 2 e 21 offrirann
 
 1. Due lampioni alti 6 m sono posti a 4,5 m di fronte ai margini di un muretto lungo 6 m ed alto 3 m, come in figura. Si mostrino le zone di ombra e di ombra parziale.
 
-!(Figure/Fig_GuidaIT_12_02.png)
+![](Figure/Fig_GuidaIT_12_02.png)
 
-!(Figure/Fig_GuidaIT_12_03.png)
+![](Figure/Fig_GuidaIT_12_03.png)
 
 Soluzione: BCEF è una zona di ombra totale.
 
@@ -127,11 +131,11 @@ c) Due raggi bastano a determinare la posizione di un punto? Sì, bastano: ma un
 
 d) Una variante interessante, che apre la strada alle immagini negli specchi, potrebbe essere questa: i raggi tratteggiati provengono dalla testa di un uomo, e quelli continui dai suoi piedi. L'uomo è in piedi oppure è disteso?
 
-!(Figure/Fig_GuidaIT_12_04.png)
+![](Figure/Fig_GuidaIT_12_04.png)
 
 Prolungando i raggi fino al loro punto di intersezione si vede subito che l'uomo è disteso a terra!
 
-!(Figure/Fig_GuidaIT_12_05.png)
+![](Figure/Fig_GuidaIT_12_05.png)
 
 Non indugiate troppo a lungo su questi argomenti: non ce n'è motivo, a meno che non procediate immediatamente all'uso degli schemi dei raggi per la localizzazione di un'immagine in uno specchio. Il passaggio successivo consiste nell'introdurre la determinazione della posizione di un'immagine in uno specchio piano (Esperienza II-1), ed è un interessante sviluppo di questi concetti sulla localizzazione di un oggetto; quindi si procederà ad una discussione in classe dei Paragrafi 4 e 5.
 
@@ -205,11 +209,11 @@ Se gli studenti hanno qualche dubbio sul prolungamento all'indietro dei raggi di
 
 Ecco qualche suggerimento al proposito:
 
-!(Figure/Fig_GuidaIT_12_06.png)
+![](Figure/Fig_GuidaIT_12_06.png)
 
 Presentate, per suscitare l'interesse, la questione come un indovinello, tracciando alcune linee divergenti come queste:
 
-!(Figure/Fig_GuidaIT_12_07.png)
+![](Figure/Fig_GuidaIT_12_07.png)
 
 Domandate quindi alla classe qual è il numero minimo di sorgenti luminose puntiformi che potrebbero dare luogo a simili raggi. A meno che gli studenti non sollevino la questione, non preoccupatevi di discutere l'ambiguità originata dal fatto che diverse coppie di punti possono spiegare i quattro raggi. Accettate quindi, ad esempio, qualsiasi di queste soluzioni, senza discutere le altre possibilità.
 
@@ -219,11 +223,11 @@ Nella realtà ogni sorgente luminosa, in qualsiasi posizione, produce ben più d
 
 Da ultimo può essere utile tracciare sulla lavagna un disegno come questo:
 
-!(Figure/Fig_GuidaIT_12_08.png)
+![](Figure/Fig_GuidaIT_12_08.png)
 
 Domandate se è necessario che l'oggetto sia in tale posizione, oppure se i raggi 1, 2 e 3 possano provenire da uno specchio. Disegnate quindi uno specchio e chiedete ad uno studente di usare le leggi della riflessione per disegnare il raggio incidente che ha prodotto il raggio 1. Fate lo stesso per i raggi 2 e 3.
 
-!(Figure/Fig_GuidaIT_12_09.png)
+![](Figure/Fig_GuidaIT_12_09.png)
 
 In presenza dello specchio, quale sorgente puntiforme potrebbe produrre raggi come questi? Se osserviamo i raggi, non sapendo che c'è lo specchio, da dove possiamo pensare che provengano? Sottolineate il concetto di punto-immagine, che corrisponde ad un certo punto-oggetto; potreste rivedere in breve la dimostrazione del Paragrafo 5: molti studenti la seguiranno facilmente, alcuni tuttavia avranno bisogno di aiuto.
 
@@ -237,13 +241,13 @@ DOMANDE AGLI STUDENTI
 
 Soluzione: Prolungate le linee di mira, raggi, fino al punto in cui si incrociano. Il cervo è lì!
 
-!(Figure/Fig_GuidaIT_12_10.png)
+![](Figure/Fig_GuidaIT_12_10.png)
 
 2. Due specchi si incontrano ad angolo retto. Un raggio di luce incide su uno di essi con un angolo di $30^\circ$. Quale sarà la traiettoria completa del raggio?
 
 Soluzione: non importa con che angolo un raggio colpisca una coppia di specchi ad angolo retto: sarà sempre riflesso parallelamente al raggio incidente.
 
-!(Figure/Fig_GuidaIT_12_11.png)
+![](Figure/Fig_GuidaIT_12_11.png)
 
 3. Un uomo è in piedi in M, quasi di fronte al bordo di uno specchio piano AB.
 
@@ -251,7 +255,7 @@ Può vedersi nello specchio? Può vedervi gli oggetti (1), (2) e (3)?
 
 Soluzione: L'uomo non può vedersi, né può vedere l'oggetto (3), dato che non è possibile tracciare da (3) ad M nessun raggio che obbedisca alle leggi della riflessione. Può invece vedere (1) e (2) secondo i raggi disegnati.
 
-!(Figure/Fig_GuidaIT_12_12.png)
+![](Figure/Fig_GuidaIT_12_12.png)
 
 4.
 
@@ -269,19 +273,19 @@ b) Sì, dal momento che la luce può andare da O a P ed a M. Un altro modo di ve
 
 c) Questa è una domanda trabocchetto: solo O e lo specchio determinano la posizione di O'. O' non si sposta.
 
-!(Figure/Fig_GuidaIT_12_13.png)
+![](Figure/Fig_GuidaIT_12_13.png)
 
 5. Potrebbe A'B' essere l'immagine di AB data da uno specchio piano?
 
 Lo si dimostri.
 
-!(Figure/Fig_GuidaIT_12_14.png)
+![](Figure/Fig_GuidaIT_12_14.png)
 
 Soluzione: Se A' è l'immagine di A, lo specchio deve essere a metà strada fra A e A'; lo stesso può dirsi per B e B'. Lo specchio dovrebbe quindi essere disposto lungo PQ, ma in tal caso AA' non è perpendicolare a PQ e quindi A' non può essere l'immagine di A.
 
 Quindi A'B' non può essere l'immagine di AB.
 
-!(Figure/Fig_GuidaIT_12_15.png)
+![](Figure/Fig_GuidaIT_12_15.png)
 
 # Paragrafo 6
 
@@ -301,11 +305,11 @@ d) Il punto in cui uno specchio parabolico concentra i suoi raggi di luce parall
 
 ESPERIENZA DIMOSTRATIVA E SVOLGIMENTO - Avendo a disposizione dei pezzi di specchio piano, di misura conveniente, potrete accompagnare la discussione del testo mostrando la costruzione «ad occhio» di uno specchio approssimativamente parabolico. Disponete i pezzi di specchio in modo che formino una grossolana parabola rispetto ad un fuoco determinato approssimativamente: questa disposizione può essere agevolata fissando gli specchi con nastro adesivo ad una sottile striscia di alluminio. Si ponga nel fuoco una piccola sorgente luminosa, come una lampadina da pila. Uno studente si tenga vicino agli specchi per effettuare l'orientamento, ed un altro si ponga, ad esempio, a 7 metri dagli specchi per dare istruzioni sulla loro disposizione, osservandoli uno per uno e facendoli spostare fino a che vedrà la sorgente luminosa nel centro di ognuno di essi. Si delineerà in questo modo una parabola sorprendentemente esatta.
 
-!(Figure/Fig_GuidaIT_12_16.png)
+![](Figure/Fig_GuidaIT_12_16.png)
 
 SVOLGIMENTO - Questo paragrafo, per quanto semplice, è essenziale per la comprensione del comportamento di uno specchio curvo. Studiando il «cilindro parabolico bidimensionale» (come in Fig. 12-15) prima di trattare i casi tridimensionali (come in Fig. 12-14), gli studenti comprenderanno la geometria della riflessione dovuta a superfici paraboliche.
 
-!(Figure/Fig_GuidaIT_12_17.png)
+![](Figure/Fig_GuidaIT_12_17.png)
 
 Se gli studenti avessero dubbi sui fatti illustrati dalla figura nel testo, potreste tracciare sulla lavagna uno schizzo della Fig. 12-15, mostrando la situazione vista dall'alto.
 
@@ -327,7 +331,7 @@ Un'altra spiegazione per la Figura 12-15 potrebbe essere che la superficie su cu
 
 AVVERTENZA - Forse qualche studente desidererà conoscere l'equazione di una parabola, ma non è il caso di soddisfare la sua richiesta: i più si accontenteranno delle proprietà di focalizzazione della parabola come definizione di tale curva. Tra l'altro si tratta di una definizione adeguata e completa.
 
-!(Figure/Fig_GuidaIT_12_18.png)
+![](Figure/Fig_GuidaIT_12_18.png)
 
 Alcuni studenti sapranno che la parabola può definirsi come la curva luogo dei punti equidistanti da un punto dato (il fuoco) e da una retta (la direttrice).
 
@@ -399,7 +403,7 @@ DOMANDE AGLI STUDENTI
 
 1. Tracciate una parabola a partire dall'equazione $y = kx^2$, oppure, che fa lo stesso, disegnatela semplicemente; fate poi tracciare agli studenti alcuni raggi paralleli, disegnando quindi le tangenti alla curva ed applicando direttamente le leggi della riflessione. Eseguito accuratamente, questo è un esercizio molto utile.
 
-!(Figure/Fig_GuidaIT_12_19.png)
+![](Figure/Fig_GuidaIT_12_19.png)
 
 a) Assegnate la parabola ABC e le tre frecce (1), (2), e (3). Chiedete di determinare i cammini di questi raggi, come è mostrato in figura.
 
@@ -419,7 +423,7 @@ b) Da dove sembra provenire la luce riflessa?
 
 Soluzione:
 
-!(Figure/Fig_GuidaIT_12_20.png)
+![](Figure/Fig_GuidaIT_12_20.png)
 
 a) Si prolunghi il raggio da A al punto in cui colpisce la superficie B. Si innalzi la perpendicolare BP alla superficie. Si costruisca il raggio riflesso BC in modo che sia $\angle CBP = \angle ABP$. Si ripeta la costruzione per ogni raggio in questione.
 
@@ -453,11 +457,11 @@ c) Usando semplicemente le proprietà dei triangoli simili si trova:
 
 1 - Relazione fra le posizioni dell'immagine e dell'oggetto:
 
-$S_i S_o = f^2$
+$$S_i S_o = f^2$$
 
 2 - Relazione fra le dimensioni dell'immagine e quelle dell'oggetto:
 
-$\frac{H_i}{H_o} = \frac{f}{S_o} = \frac{S_i}{f}$
+$$\frac{H_i}{H_o} = \frac{f}{S_o} = \frac{S_i}{f}$$
 
 PUNTI DA METTERE IN EVIDENZA - Questi argomenti sono essenziali per la formazione delle immagini non solo da parte degli specchi, ma anche delle lenti. È importantissimo che gli studenti disegnino e interpretino correttamente la rappresentazione grafica dei raggi; solo così potranno comprendere la formazione delle immagini: l'uso mnemonico di formule e la riduzione dei problemi sulla formazione delle immagini a meri esercizi algebrici non garantiscono una buona comprensione dell'argomento.
 
@@ -471,7 +475,7 @@ A questo scopo, prima della discussione dettagliata del paragrafo, si dovrebbe e
 
 Dopo l'esperimento in laboratorio, un'esperienza suggestiva potrà fornirvi interessanti spunti per la discussione in classe. Ve ne descriviamo una semplice ma efficacissima. Occorre uno specchio concavo, sferico o parabolico; il montaggio deve essere eseguito come nella figura:
 
-!(Figure/Fig_GuidaIT_12_21.png)
+![](Figure/Fig_GuidaIT_12_21.png)
 
 Il mazzolino di fiori artificiali è sospeso capovolto, mentre i fiori sono schermati alla vista dell'osservatore ed illuminati da una lampadina. Sia i fiori che il vasetto sono a distanza $2f$ dallo specchio.
 
@@ -495,17 +499,13 @@ Dovrebbero facilmente essere in grado, in tal caso, di vedere gli effetti dell'a
 
 AVVERTENZA - La formula analitica $S_i S_o = f^2$ si ricava parzialmente come un esempio di come ci si possa servire delle proprietà geometriche per determinare la posizione di un'immagine. La formula equivalente
 
-$\frac{1}{p} + \frac{1}{q} = \frac{1}{f}$
+$$\frac{1}{p} + \frac{1}{q} = \frac{1}{f}$$
 
 può anch'essa ottenersi semplicemente, ma i reciproci confondono alcuni studenti ed è più complicato assegnare il giusto segno di $p$, $q$ ed $f$ che non assegnare i segni per la $S_i S_o = f^2$. $p$ viene usato in vari testi di fisica ad indicare la distanza oggetto-specchio, mentre $q$ rappresenta la distanza immagine-specchio.
 
 Ognuna di queste formule presenta vantaggi e svantaggi: si possono facilmente formulare problemi in cui l'una o l'altra appaia migliore. Ogni fisico ha una certa preferenza per la forma che conosce meglio; naturalmente è portato a pensare a situazioni e problemi per i quali la forma che conosce è più efficace.
 
-Se dal canto vostro vi è più familiare
-
-$\frac{1}{p} + \frac{1}{q} = \frac{1}{f}$,
-
-con un poco di pratica vi familiarizzerete anche con $S_i S_o = f^2$; gli inconvenienti saranno lievi e non dureranno a lungo. Naturalmente gli studenti non hanno alcuna esperienza precedente di formule e troveranno $S_i S_o = f^2$ un poco più facile da imparare e da applicare.
+Se dal canto vostro vi è più familiare $\frac{1}{p} + \frac{1}{q} = \frac{1}{f}$, con un poco di pratica vi familiarizzerete anche con $S_i S_o = f^2$; gli inconvenienti saranno lievi e non dureranno a lungo. Naturalmente gli studenti non hanno alcuna esperienza precedente di formule e troveranno $S_i S_o = f^2$ un poco più facile da imparare e da applicare.
 
 I fisici che si dedicano a problemi di ottica usano talvolta ambedue le formule indifferentemente.
 
@@ -525,7 +525,7 @@ b) si prolunghi il raggio A.
 
 Soluzione: il fuoco principale è in F; il prolungamento di A è quello indicato col tratteggio.
 
-!(Figure/Fig_GuidaIT_12_22.png)
+![](Figure/Fig_GuidaIT_12_22.png)
 
 2. Un oggetto alto 3 mm forma un'immagine reale alta 5 mm, a 25 cm da uno specchio concavo.
 
@@ -537,7 +537,7 @@ Soluzione:
 
 a) Il raggio incidente sul vertice si riflette formando un angolo uguale con l'asse ottico; le altezze dell'oggetto e dell'immagine sono proporzionali alla loro distanza dallo specchio: l'oggetto è quindi posto a 15 cm dallo specchio stesso.
 
-!(Figure/Fig_GuidaIT_12_23.png)
+![](Figure/Fig_GuidaIT_12_23.png)
 
 b) Disegnando il raggio OBI si vede dai triangoli simili tratteggiati che:
 
