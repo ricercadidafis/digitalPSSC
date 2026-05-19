@@ -1,3 +1,19 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+.image-caption {
+  margin: 1.5rem auto;
+  text-align: center;
+}
+
+.image-caption img {
+  display: block;
+  margin: 0 auto;
+}
+
+.image-caption-text {
+  margin-top: 0.4rem;
+  font-size: 0.9rem;
+  opacity: 0.75;
+  line-height: 1.4;
+}
