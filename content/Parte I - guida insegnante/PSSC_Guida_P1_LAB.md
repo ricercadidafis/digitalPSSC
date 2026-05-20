@@ -1,53 +1,6 @@
 ---
-title: Guida per gli esperimenti di laboratorio
+title: Guida dell'insegnante per gli esperimenti, Parte I
 ---
-# GUIDA DELL'INSEGNANTE PER GLI ESPERIMENTI DI LABORATORIO
-
-## 1. La funzione del laboratorio in questo corso
-
-La nostra conoscenza della fisica è il risultato di anni di sperimentazione. Nessuno studente può sperimentare tutte le scoperte che sono state fatte, ma ogni volta che ciò è possibile vorremmo che apprendesse la fisica in laboratorio. La sua capacità di comprendere le descrizioni di scoperte fatte da altri si basa sull'esperienza reale fatta da lui stesso; egli trae il vantaggio maggiore dalle sue scoperte personali.
-
-In questo corso, il laboratorio non solo sostituisce in gran parte le dimostrazioni dell'insegnante, ma riduce anche il tempo impiegato per le spiegazioni in classe. Il lavoro di laboratorio è strettamente correlato col testo ed è di uguale importanza.
-
-La Guida di Laboratorio per lo Studente fornisce un minimo di istruzioni e richiama l'attenzione dello studente sui punti più importanti di un esperimento ponendo delle domande. Qualche volta le risposte a queste domande possono richiedere solo ragionamento; altre volte è necessaria ulteriore sperimentazione. Lo studente deve decidere cosa fare. All'inizio del corso, alcuni studenti possono sentirsi un po' insicuri con questo tipo di lavoro di laboratorio. Può darsi che chiedano se il loro risultato è giusto. Dovete assicurarli che la natura non sbaglia; il nostro compito è di comprenderla mediante misure e interpretazioni. Se uno studente non ha misurato ciò che si proponeva di misurare, è opportuna una discussione, piuttosto che una risposta del tipo «sì» o «no».
-
-Nella maggior parte dei casi consigliamo che gli esperimenti vengano eseguiti prima che il loro argomento venga trattato nel testo. In questo modo non si dice agli studenti cosa possono aspettarsi. A mano a mano che progrediscono nel corso, imparano a divertirsi facendo degli esperimenti di cui non conoscono in anticipo i risultati. Agli studenti piace fare della ricerca anche se si rendono conto che qualcuno ha affrontato lo stesso problema prima di loro. In questo tipo di laboratorio essi affrontano i problemi e cercano da soli le risposte con più impegno di quanto non facciano quando leggono il testo o anche durante le discussioni in classe.
-
-## 2. Lo svolgimento di un esperimento
-
-Quando un fisico fa un esperimento, ha un obiettivo in mente. Vi suggeriamo di impiegare un po' di tempo durante la lezione in classe prima del laboratorio, per discutere coi vostri studenti lo scopo dell'esperimento. Gli obiettivi da raggiungere possono essere molto generali. Per esempio, nell'esperimento sullo spettro degli elementi (Esperimento 1-7), noi vogliamo vedere se ogni specie di atomo emette una luce caratteristica, un tipo di luce mediante il quale possiamo identificare la specie dell'atomo. Lo scopo principale del primo esperimento con la vaschetta delle onde superficiali (Esperimento 11-8) è di osservare le onde e vedere da sé come queste si comportano, prima di considerare qualsiasi teoria basata su supposizioni o qualsiasi descrizione fatta da altri. Nella parte III, l'esperimento sugli urti lenti (Esperimento III-11) si prefigge lo scopo di fornire solo uno studio qualitativo di quello che succede durante un urto.
-
-Altri esperimenti sono di natura quantitativa. Per esempio, nell'esperimento 1-5 un dato moto è esaminato dettagliatamente. Nell'esperimento II-3 lo scopo è di trovare la relazione tra gli angoli di incidenza e di rifrazione. Nell'esperimento III-2 noi vogliamo scoprire come una forza costante fa variare la velocità di un carrello. (Si noti che l'obiettivo dei due ultimi esperimenti non è di verificare che il rapporto dei seni dei due angoli sia costante, o che una forza costante produca un'accelerazione costante). Nell'esperimento III-2 qualche studente forse vi dirà che l'apparecchio funziona male; il carrello non si muove a velocità costante. Gli studenti hanno solo bisogno di essere un po' incoraggiati per trovare da sé le risposte; le loro domande e l'apparecchiatura li aiuteranno a scoprire la legge di Newton. Così, la legge diviene per loro più significativa di quanto non lo diverrebbe imparando a memoria una frase da un libro.  
-Nella vostra discussione di un esperimento prima del periodo di laboratorio, è importante non far sapere i risultati che si aspettano (sebbene non occorra fingere che essi non siano noti a voi, e forse anche a qualcuno degli studenti).
-
-## 3. Precisione sperimentale
-
-Ogni volta che è necessario, consigliamo di far ripetere agli studenti una misura parecchie volte, fare la media e giudicare la precisione dei risultati dalle fluttuazioni. Quando ciò non è possibile, fate in modo che gli studenti tentino di stimare l'errore che ci si può aspettare e lo esprimano come frazione o come percentuale. Per esempio, la misura del tempo corrispondente a 30 giri dello stroboscopio nell'esperimento I-1 dovrebbe essere ripetuta tre o quattro volte per avere un'idea della sua precisione. Per molti esperimenti, questa Guida dell'insegnante indicherà la precisione che è ragionevole attendere.
-
-C'è una diffusa convinzione che tutte le misure debbano essere accurate fino alla terza cifra significativa e che un risultato con un errore del 5% sia privo di valore. Questo non è vero; la precisione che voi, come sperimentatori, richiedete, è determinata dalla conoscenza che avete prima dell'esperimento e dallo scopo dell'esperimento. Per esempio, supponete che uno studente non abbia alcuna idea se le dimensioni di una molecola di acido oleico siano 10⁻⁷ o 10⁻⁴ m; dall'esperimento I-8 egli può concludere che non superano, e sono molto prossime, a 10⁻⁶ m. Questo arricchisce le conoscenze dello studente e, ciò che più importa, è probabile che egli ne riceva una vera emozione. Le piccole dimensioni delle molecole non sono più per lui delle semplici parole; esse diventano parte del suo mondo. Non ha alcuna importanza a questo punto tentare di spingere più oltre la precisione. Allo stesso modo, gli studenti non hanno alcuna conoscenza a priori dell'ordine di grandezza della massa dell'elettrone. Il vero risultato positivo dell'esperimento IV-10 è quello di vedere che la massa è dell'ordine di 10⁻³¹ kg, e non 10⁻²⁵ o 10⁻³² kg. In generale, meno sappiamo su quello che vogliamo misurare, minore è la precisione di cui abbiamo bisogno per ottenere nuove informazioni. D'altra parte, se lo studente vuol distinguere se il rapporto degli angoli di incidenza e di rifrazione o il rapporto dei loro seni sia costante, deve misurare gli angoli con sufficiente precisione per poter apprezzare la differenza.
-
-## 4. Analisi dei risultati
-
-Disporre opportunamente le apparecchiature, raccogliere i dati e analizzarli, e finalmente trarre delle conclusioni costituisce un esperimento; la sola raccolta dei dati non basta. Molto spesso, i risultati sperimentali si riassumono con dei grafici. Una rappresentazione grafica è particolarmente utile quando sono necessarie interpolazioni ed estrapolazioni. Accertatevi che i vostri studenti apprendano a tracciare e a leggere i grafici. L'esperimento I-4 è progettato appositamente per aiutarli in questo.
-
-L'analisi dei dati in molti esperimenti, particolarmente nelle ultime parti del testo, richiede parecchio tempo e dovrebbe essere completata a casa. Il regolo calcolatore è uno strumento molto utile che consente di risparmiare molto tempo. Ne consigliamo l'uso.
-
-Per quanto riguarda le relazioni scritte di laboratorio, nella maggior parte dei casi queste sono una fatica per lo studente che le deve scrivere e per l'insegnante che le deve leggere. Riteniamo che ogni studente prenda nota ordinatamente di ciò che fa al momento in cui lo fa. Solo raramente un esperimento dovrebbe esser descritto in una relazione formale.
-
-## 5. Pianificazione
-
-Il valore di ogni esperimento aumenta molto se lo si fa al momento adatto. La prima parte della discussione di ciascun esperimento in questa Guida vi aiuterà a preparare il vostro programma di lavoro. Inoltre, all'inizio della discussione di ciascuna parte del corso, subito dopo la prefazione, c'è una tabella che indica la relazione tra gli esperimenti ed il libro di testo. Gli esperimenti sono flessibili per adattarsi a periodi di laboratorio di diversa lunghezza e all'abilità di studenti diversi. C'è di solito abbastanza tempo in un periodo normale di laboratorio perché gli studenti eseguano le misure essenziali e svolgano una parte del lavoro a tavolino. Il resto dovrebbe esser fatto a casa. Non tutti gli studenti devono fare tutto quello che è suggerito nella Guida di Laboratorio. Spesso le ultime due o tre domande sono per gli studenti più ambiziosi, e possono richiedere un lavoro sperimentale extra, sotto forma di esperienza speciale. Queste parti a sviluppo libero sono spesso indicate in questa Guida.
-
-## 6. Apparecchiatura
-
-L'apparecchiatura il cui uso è previsto negli esperimenti è disponibile presso un fornitore commerciale sotto forma di scatola di montaggio, e può essere montata facilmente. Gli studenti che desiderano modificare l'apparecchiatura, o costruirla da sé con materiali disponibili in laboratorio o a casa, dovrebbero essere incoraggiati.
-
-## 7. Ringraziamenti
-
-La parte di laboratorio della Guida dell'Insegnante è stata preparata da Judson B. Cross, James M. Henry, Ervin H. Hoffart, Guenter Schwarz, James S. Strickland, John H. Walters, e me. Percy Lund ha fatto i disegni. La signorina J. Carolyn Safford ha aiutato nella preparazione e produzione dell'edizione preliminare della Guida. Molti commenti utili sono stati fatti da persone che lavoravano principalmente in altre parti del progetto PSSC e da insegnanti che erano in corrispondenza con noi.
-
-**URI HABER-SCHAIM**
-
 # Guida dell'insegnante per gli esperimenti, Parte I
 
 Gli esperimenti in questa parte, come il testo stesso, pongono le basi per tutto il corso. Il loro scopo principale è di far capire allo studente che per conoscere le dimensioni degli oggetti, il tempo che impiegano a muoversi, o la loro massa, deve fare delle misure. Senza aiuti, la sua capacità di misurare si estende solo a un campo molto limitato. Gli strumenti che userà allargheranno questo campo di molti ordini di grandezza. I dispositivi e le tecniche particolari sono di importanza secondaria.
@@ -636,3 +589,51 @@ Questa domanda può servire come introduzione al [[PSSC_P1_C10#Capitolo 10 - MIS
 - 1 apparecchio per produrre ossigeno (clorato di potassio e biossido di manganese)  
 - tubo con cloruro di calcio per seccare il gas  
 - elio, propano o metano (con precauzioni appropriate)
+
+
+# GUIDA DELL'INSEGNANTE PER GLI ESPERIMENTI DI LABORATORIO
+
+## 1. La funzione del laboratorio in questo corso
+
+La nostra conoscenza della fisica è il risultato di anni di sperimentazione. Nessuno studente può sperimentare tutte le scoperte che sono state fatte, ma ogni volta che ciò è possibile vorremmo che apprendesse la fisica in laboratorio. La sua capacità di comprendere le descrizioni di scoperte fatte da altri si basa sull'esperienza reale fatta da lui stesso; egli trae il vantaggio maggiore dalle sue scoperte personali.
+
+In questo corso, il laboratorio non solo sostituisce in gran parte le dimostrazioni dell'insegnante, ma riduce anche il tempo impiegato per le spiegazioni in classe. Il lavoro di laboratorio è strettamente correlato col testo ed è di uguale importanza.
+
+La Guida di Laboratorio per lo Studente fornisce un minimo di istruzioni e richiama l'attenzione dello studente sui punti più importanti di un esperimento ponendo delle domande. Qualche volta le risposte a queste domande possono richiedere solo ragionamento; altre volte è necessaria ulteriore sperimentazione. Lo studente deve decidere cosa fare. All'inizio del corso, alcuni studenti possono sentirsi un po' insicuri con questo tipo di lavoro di laboratorio. Può darsi che chiedano se il loro risultato è giusto. Dovete assicurarli che la natura non sbaglia; il nostro compito è di comprenderla mediante misure e interpretazioni. Se uno studente non ha misurato ciò che si proponeva di misurare, è opportuna una discussione, piuttosto che una risposta del tipo «sì» o «no».
+
+Nella maggior parte dei casi consigliamo che gli esperimenti vengano eseguiti prima che il loro argomento venga trattato nel testo. In questo modo non si dice agli studenti cosa possono aspettarsi. A mano a mano che progrediscono nel corso, imparano a divertirsi facendo degli esperimenti di cui non conoscono in anticipo i risultati. Agli studenti piace fare della ricerca anche se si rendono conto che qualcuno ha affrontato lo stesso problema prima di loro. In questo tipo di laboratorio essi affrontano i problemi e cercano da soli le risposte con più impegno di quanto non facciano quando leggono il testo o anche durante le discussioni in classe.
+
+## 2. Lo svolgimento di un esperimento
+
+Quando un fisico fa un esperimento, ha un obiettivo in mente. Vi suggeriamo di impiegare un po' di tempo durante la lezione in classe prima del laboratorio, per discutere coi vostri studenti lo scopo dell'esperimento. Gli obiettivi da raggiungere possono essere molto generali. Per esempio, nell'esperimento sullo spettro degli elementi (Esperimento 1-7), noi vogliamo vedere se ogni specie di atomo emette una luce caratteristica, un tipo di luce mediante il quale possiamo identificare la specie dell'atomo. Lo scopo principale del primo esperimento con la vaschetta delle onde superficiali (Esperimento 11-8) è di osservare le onde e vedere da sé come queste si comportano, prima di considerare qualsiasi teoria basata su supposizioni o qualsiasi descrizione fatta da altri. Nella parte III, l'esperimento sugli urti lenti (Esperimento III-11) si prefigge lo scopo di fornire solo uno studio qualitativo di quello che succede durante un urto.
+
+Altri esperimenti sono di natura quantitativa. Per esempio, nell'esperimento 1-5 un dato moto è esaminato dettagliatamente. Nell'esperimento II-3 lo scopo è di trovare la relazione tra gli angoli di incidenza e di rifrazione. Nell'esperimento III-2 noi vogliamo scoprire come una forza costante fa variare la velocità di un carrello. (Si noti che l'obiettivo dei due ultimi esperimenti non è di verificare che il rapporto dei seni dei due angoli sia costante, o che una forza costante produca un'accelerazione costante). Nell'esperimento III-2 qualche studente forse vi dirà che l'apparecchio funziona male; il carrello non si muove a velocità costante. Gli studenti hanno solo bisogno di essere un po' incoraggiati per trovare da sé le risposte; le loro domande e l'apparecchiatura li aiuteranno a scoprire la legge di Newton. Così, la legge diviene per loro più significativa di quanto non lo diverrebbe imparando a memoria una frase da un libro.  
+Nella vostra discussione di un esperimento prima del periodo di laboratorio, è importante non far sapere i risultati che si aspettano (sebbene non occorra fingere che essi non siano noti a voi, e forse anche a qualcuno degli studenti).
+
+## 3. Precisione sperimentale
+
+Ogni volta che è necessario, consigliamo di far ripetere agli studenti una misura parecchie volte, fare la media e giudicare la precisione dei risultati dalle fluttuazioni. Quando ciò non è possibile, fate in modo che gli studenti tentino di stimare l'errore che ci si può aspettare e lo esprimano come frazione o come percentuale. Per esempio, la misura del tempo corrispondente a 30 giri dello stroboscopio nell'esperimento I-1 dovrebbe essere ripetuta tre o quattro volte per avere un'idea della sua precisione. Per molti esperimenti, questa Guida dell'insegnante indicherà la precisione che è ragionevole attendere.
+
+C'è una diffusa convinzione che tutte le misure debbano essere accurate fino alla terza cifra significativa e che un risultato con un errore del 5% sia privo di valore. Questo non è vero; la precisione che voi, come sperimentatori, richiedete, è determinata dalla conoscenza che avete prima dell'esperimento e dallo scopo dell'esperimento. Per esempio, supponete che uno studente non abbia alcuna idea se le dimensioni di una molecola di acido oleico siano 10⁻⁷ o 10⁻⁴ m; dall'esperimento I-8 egli può concludere che non superano, e sono molto prossime, a 10⁻⁶ m. Questo arricchisce le conoscenze dello studente e, ciò che più importa, è probabile che egli ne riceva una vera emozione. Le piccole dimensioni delle molecole non sono più per lui delle semplici parole; esse diventano parte del suo mondo. Non ha alcuna importanza a questo punto tentare di spingere più oltre la precisione. Allo stesso modo, gli studenti non hanno alcuna conoscenza a priori dell'ordine di grandezza della massa dell'elettrone. Il vero risultato positivo dell'esperimento IV-10 è quello di vedere che la massa è dell'ordine di 10⁻³¹ kg, e non 10⁻²⁵ o 10⁻³² kg. In generale, meno sappiamo su quello che vogliamo misurare, minore è la precisione di cui abbiamo bisogno per ottenere nuove informazioni. D'altra parte, se lo studente vuol distinguere se il rapporto degli angoli di incidenza e di rifrazione o il rapporto dei loro seni sia costante, deve misurare gli angoli con sufficiente precisione per poter apprezzare la differenza.
+
+## 4. Analisi dei risultati
+
+Disporre opportunamente le apparecchiature, raccogliere i dati e analizzarli, e finalmente trarre delle conclusioni costituisce un esperimento; la sola raccolta dei dati non basta. Molto spesso, i risultati sperimentali si riassumono con dei grafici. Una rappresentazione grafica è particolarmente utile quando sono necessarie interpolazioni ed estrapolazioni. Accertatevi che i vostri studenti apprendano a tracciare e a leggere i grafici. L'esperimento I-4 è progettato appositamente per aiutarli in questo.
+
+L'analisi dei dati in molti esperimenti, particolarmente nelle ultime parti del testo, richiede parecchio tempo e dovrebbe essere completata a casa. Il regolo calcolatore è uno strumento molto utile che consente di risparmiare molto tempo. Ne consigliamo l'uso.
+
+Per quanto riguarda le relazioni scritte di laboratorio, nella maggior parte dei casi queste sono una fatica per lo studente che le deve scrivere e per l'insegnante che le deve leggere. Riteniamo che ogni studente prenda nota ordinatamente di ciò che fa al momento in cui lo fa. Solo raramente un esperimento dovrebbe esser descritto in una relazione formale.
+
+## 5. Pianificazione
+
+Il valore di ogni esperimento aumenta molto se lo si fa al momento adatto. La prima parte della discussione di ciascun esperimento in questa Guida vi aiuterà a preparare il vostro programma di lavoro. Inoltre, all'inizio della discussione di ciascuna parte del corso, subito dopo la prefazione, c'è una tabella che indica la relazione tra gli esperimenti ed il libro di testo. Gli esperimenti sono flessibili per adattarsi a periodi di laboratorio di diversa lunghezza e all'abilità di studenti diversi. C'è di solito abbastanza tempo in un periodo normale di laboratorio perché gli studenti eseguano le misure essenziali e svolgano una parte del lavoro a tavolino. Il resto dovrebbe esser fatto a casa. Non tutti gli studenti devono fare tutto quello che è suggerito nella Guida di Laboratorio. Spesso le ultime due o tre domande sono per gli studenti più ambiziosi, e possono richiedere un lavoro sperimentale extra, sotto forma di esperienza speciale. Queste parti a sviluppo libero sono spesso indicate in questa Guida.
+
+## 6. Apparecchiatura
+
+L'apparecchiatura il cui uso è previsto negli esperimenti è disponibile presso un fornitore commerciale sotto forma di scatola di montaggio, e può essere montata facilmente. Gli studenti che desiderano modificare l'apparecchiatura, o costruirla da sé con materiali disponibili in laboratorio o a casa, dovrebbero essere incoraggiati.
+
+## 7. Ringraziamenti
+
+La parte di laboratorio della Guida dell'Insegnante è stata preparata da Judson B. Cross, James M. Henry, Ervin H. Hoffart, Guenter Schwarz, James S. Strickland, John H. Walters, e me. Percy Lund ha fatto i disegni. La signorina J. Carolyn Safford ha aiutato nella preparazione e produzione dell'edizione preliminare della Guida. Molti commenti utili sono stati fatti da persone che lavoravano principalmente in altre parti del progetto PSSC e da insegnanti che erano in corrispondenza con noi.
+
+**URI HABER-SCHAIM**
