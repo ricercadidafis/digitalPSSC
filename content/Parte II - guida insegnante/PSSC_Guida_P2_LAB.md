@@ -675,7 +675,7 @@ Si usa come oggetto una lampadina da torcia portatile perchè è brillante e ris
 
   
 
-Per qualche studente può essere difficile trovare l'immagine per parallasse. Potete rapidamente controllare se ha proceduto correttamente confrontando il prodotto $$; con f2. Se i due valori diffe riscono più del 5g, può essere necessario qualche aiuto individuale nella localizzazione dell'immagine.
+Per qualche studente può essere difficile trovare l'immagine per parallasse. Potete rapidamente controllare se ha proceduto correttamente confrontando il prodotto; con f2. Se i due valori diffe riscono più del 5g, può essere necessario qualche aiuto individuale nella localizzazione dell'immagine.
 
 Siccome uno degli scopi dell'esperimento è di far sì che lo studente scopra la relazione fra $ 0% 5;
 
