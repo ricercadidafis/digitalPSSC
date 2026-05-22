@@ -71,6 +71,8 @@ SVOLGIMENTO - Il concetto di nodo lungo una molla dovrebbe essere introdotto med
 
 Se con un generatore di impulsi si dà un colpo verso l'alto ad un'estremità della corda mentre il secondo impulso viene applicato con un colpo verso il basso all'altra estremità, in che modo si sposterà il punto centrale quando gli impulsi si incontreranno? Se i due generatori di impulsi applicano impulsi di polarità opposta, come debbono essere collegate tra loro le forme dei due impulsi perché il centro della corda sia un nodo? (Disegnate alcune coppie di impulsi in cui i due impulsi siano o di forma o di ampiezza diverse, per assicurarvi che gli studenti comprendano che tanto la forma quanto l'ampiezza debbono essere quelle giuste perché si produca un nodo). Per essere sicuri che gli studenti capiscano, disegnate uno degli impulsi (come è mostrato nella colonna a sinistra dei disegni) e chiedete a uno di loro di disegnare l'impulso che dovrebbe essere applicato all'altra estremità. 
 
+![](Figure/Fig_GuidaIT_18_01.png)
+
 Gli studenti avranno un'idea più chiara dell'annullamento se userete qualche impulso non simmetrico; altrimenti qualcuno di loro potrebbe pensare che si ottenga un nodo soltanto se ciascun impulso è simmetrico rispetto al suo centro. 
 
 Dopo questa dimostrazione, il Problema 2 riuscirà probabilmente più facile per gli studenti. 
@@ -138,19 +140,11 @@ Qualche commento su questo punto aiuterà gli studenti a capire perché debbano 
 
 SVOLGIMENTO - Gli studenti vedranno bene le difficoltà che si incontrano nel misurare la differenza di cammino mediante una sottrazione diretta. Le Istruzioni 9 e la figura 18-11 presentano un metodo facile per costruire le linee nodali in regioni abbastanza vicine alle sorgenti; ma quando le distanze sono dell'ordine di 5d o 10d (usando la notazione del Problema 5) diventerà sempre più difficile tracciare cerchi di raggi sufficientemente precisi perché le loro intersezioni formino una linea appena curva, quasi retta. Gli studenti saranno d'accordo che per le regioni lontane è necessario un altro metodo; vedranno comunque che per le fotografie relative alla vaschetta per onde riportate dal testo la sottrazione diretta è ancora un procedimento utile. Gli studenti accetteranno più facilmente gli argomenti geometrici illustrati della Figura 18-12 (che utilizza il risultato che per punti lontani come P i due angoli 1 e 2 debbono essere pressapoco angoli retti), se li verificheranno con misure grafiche. Dovrebbero considerare una serie di casi, iniziando con un punto P vicino a $j$ e $S_0$, e passando progressivamente a punti lontani: se hanno seguito il procedimento grafico dei paragrafi precedenti, possono usare i medesimi disegni. Il disegno qui riportato si spiega da sè.
 
-(a) Archi disegnati prima, con $V_j V_o = 1/2 A$.
+![](Figure/Fig_GuidaIT_18_02.png)
 
-Vale la pena dedicare un po' di tempo a questo punto, poiché a volte gli studenti che hanno lavorato con la rigorosa geometria piana trovano che le approssimazioni di questo tipo sono strane e «mon proprio giuste».
+Vale la pena dedicare un po' di tempo a questo punto, poiché a volte gli studenti che hanno lavorato con la rigorosa geometria piana trovano che le approssimazioni di questo tipo sono strane e «non proprio giuste». Una volta accettato questo punto di vista, gli argomenti del testo riusciranno relativamente facili. La pratica acquisita con gli esercizi grafici sarà utile in ogni caso. Oltre il Problema 9, sono utili e pertinenti i Problemi 5, 10 e 12
 
-Una volta accettato questo punto di vista, gli argomenti del testo riusciranno relativamente facili. La pratica acquisita con gli esercizi grafici sarà
-
-(b) Arco disegnato ora, di raggio Vo, centrato sul l'intersezione P.
-
-(c) La retta unisce i punti di
-
-
-
-COMMENTO - Il simbolo Gy metterà forse in difficoltà qualche studente, che potrebbe pensare che 6 sia una variabile e ignorare la notazione secondo cui un pedice indica un valore particolare. Può quindi essere necessario dire esplicitamente che 64 rappresenta una serie di valori particolari, ciascuno dei quali è determinato dal valore di n.
+COMMENTO - Il simbolo $\theta_n$ metterà forse in difficoltà qualche studente, che potrebbe pensare che $\theta$ sia una variabile e ignorare la notazione secondo cui un pedice indica un valore particolare. Può quindi essere necessario dire esplicitamente che $\theta_n$ rappresenta una serie di valori particolari, ciascuno dei quali è determinato dal valore di $n$.
 
 ## Paragrafo 5 - Fase
 

@@ -46,25 +46,12 @@ AVVERTENZA - È meglio a questo punto non citare né onde nè fronti d'onda. Pi�
 una zona in cui la loro velocità cambia. L'introduzione dei fronti d'onda a questo punto non è necessaria, e rappresenterebbe un grosso salto rispetto allo svolgimento seguito dal testo. A questo punto non tentiamo di spiegare la luce, ma solo di osservare e descrivere il suo comportamento.
 SVOLGIMENTO - Alcuni studenti potrebbero non capire chiaramente come le combinazioni di prismi producano convergenza. Potrete render chiara quest'idea ed iniziare una vivace discussione in classe, con una serie di domande come le seguenti:
 
-1.
-
-Come influenzerebbe il modo di deviare della luce una variazione dell'angolo al vertice di un prisma? Sarà un prisma «spesso» o un prisma «sottile» a presentare la deviazione maggiore?
-
-(Dovrete stare attenti a non fare il prisma troppo «spesso». Per la luce che si propaga parallelamente alla base del prisma, quando l'angolo al vertice supera 01/ sen @}, si verifica la riflessione totale interna.) 
+1. Come influenzerebbe il modo di deviare della luce una variazione dell'angolo al vertice di un prisma? Sarà un prisma «spesso» o un prisma «sottile» a presentare la deviazione maggiore? (Dovrete stare attenti a non fare il prisma troppo «spesso». Per la luce che si propaga parallelamente alla base del prisma, quando l'angolo al vertice supera $\theta_1/\sin{\theta_1}$, si verifica la riflessione totale interna.) 
 
 ![](Figure/Fig_GuidaIT_14_01.png) 
 
 ![](Figure/Fig_GuidaIT_14_02.png)  
 
-4. Che cosa accadrebbe se AN fosse sostituito da i N ? 
-
-5. Come è possibile fare in modo che abbia una superficie esterna più regolare? 
-
-Gli studenti dovrebbero vedere che 
-
-diventa i / e diventa  
-
-(Nota: questo processo di costruzione di una lente con superficie abbastanza regolare è in sostanza l'opposto del procedimento per la lente di Fresnel. Si veda il Problema 3 a pag. 320). 
 
 COMMENTI - Se uno studente sollevasse la questione dei colori diversi (dispersione), potreste rispondergli che questo effetto è irrilevante (riferendovi al Capitolo 11, Paragrafo 6), oppure che è necessario per ora presupporre che la luce sia monocromatica. Nel paragrafo 7 verrà menzionato l'effetto di aberrazione cromatica. L'ipotesi che una lente sia un dispositivo in grado di modificare la direzione di un raggio di luce per rifrazione non va intesa come una definizione tecnica, ma come un'approssimazione iniziale. À questo punto una definizione più precisa non servirebbe.
 
@@ -267,7 +254,7 @@ Ecco un problema per gli studenti migliori:
 
 Che lunghezza focale deve avere una lente per essere usata in un proiettore se una diapositiva colorata di 24 mm X 36 mm dev'essere ingrandita fino a 2 m X 3 m in una sala lunga 12,5 m?
 
-Se si è compresa la funzione del raggio principale centrale, la soluzione è semplice. Il disegno mostra che, per le proprietà dei triangoli simili, $ \frac{H}{H'} = \frac{D}{d} $.
+Se si è compresa la funzione del raggio principale centrale, la soluzione è semplice. Il disegno mostra che, per le proprietà dei triangoli simili, $\frac{H}{H'} = \frac{D}{d}$.
 
 ![](Figure/Fig_GuidaIT_14_14.png)
 

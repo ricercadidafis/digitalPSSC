@@ -173,6 +173,8 @@ si vedrebbe una striscia luminosa. E' quanto avviene in un reticolo di diffrazio
 
 (Si veda il commento nell'ultimo capoverso del Paragrafo 4 del testo).
 
+![](Figure/Fig_GuidaIT_19_01.png)
+
 Si noti: che il procedimento geometrico impiegato in questo paragrafo per trovare le differenze di cammino è esattamente uguale a quello impiegato per trovare le differenze di cammino con due sorgenti (Paragrafo 18-4).
 
 Se vedete che la classe segue le argomentazioni del paragrafo, potrete applicarle ad un altro paio di esempi. Un esempio importante è il reticolo di diffrazione: qui abbiamo effettivamente una serie di sorgenti in fase ad uguale distanza; ogni sorgente è una fenditura, e tutte le fenditure sono illuminate da una sola sorgente filiforme. Comunque, nel reticolo di diffrazione, la distanza $\Delta$ tra sorgenti vicine (fenditure) è più grande della lunghezza d'onda $\lambda$, e di conseguenza vi è un rafforzamento totale in direzioni diverse da quelle direttamente frontali. Ciò si ha per angoli tali che la differenza di cammino tra fenditure vicine è un numero intero di lunghezze d'onda, cioè per angoli tali che $\sin \theta = m\lambda$, dove $m = 0,1,2,3,\ldots$.
@@ -245,13 +247,9 @@ E noi lo conosciamo come un fatto sperimentale ricavato dal caso in questione, p
 
 Gli studenti possono chiedere come facciano ad interferire i due raggi paralleli 1 e 2 della Figura 19-22, visto che non si sovrappongono. La risposta più semplice è che in realtà ci occupiamo soltanto della incidenza normale, nel qual caso 1 e 2 coincidono nello spazio; ma naturalmente questa risposta non è molto esatta, poichè l'interferenza si verifica anche ad angoli diversi da 90°. Per rispondere esaurientemente, bisognerebbe disegnare una figura che mostri la sorgente luminosa ed il punto in cui si osservano gli effetti di interferenza (p.e. uno schermo). La figura dovrebbe essere simile a quanto mostrato qui a destra.
 
-Le cose sono alquanto più complicate se non si verifichi l'incidenza normale (si ha allora una piccola differenza di cammino sia all'esterno che all'interno della pellicola). Per questo è forse meglio mettere in rilievo
+Le cose sono alquanto più complicate se non si verifichi l'incidenza normale (si ha allora una piccola differenza di cammino sia all'esterno che all'interno della pellicola). Per questo è forse meglio mettere in rilievo soltanto il caso dell'incidenza normale. Nel testo le figure sono state disegnate in maniera che sia facile distinguere i vari raggi.
 
-soltanto il caso dell'incidenza normale. Nel testo le figure
-
-sono state disegnate in maniera che sia facile distinguere i
-
-vari raggi. vv
+![](Figure/Fig_GuidaIT_19_02.png)
 
 Qualcuno può chiedere in che modo i due fasci luminosi riflessi possano annullarsi, visto che il secondo fascio riflesso è ovviamente di ampiezza minore. La risposta è che il primo ed il secondo fascio luminoso riflesso hanno ampiezza pressochè uguale, e quindi l'annullamento è quasi perfetto.
 

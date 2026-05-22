@@ -107,27 +107,46 @@ PUNTI DA METTERE IN EVIDENZA - Sebbene i fatti presentati in questi paragrafi si
 
 SVOLGIMENTO - Il lavoro eseguito in laboratorio dovrebbe costituire l'ossatura per lo svolgimento degli argomenti dei Paragrafi 1-3. Il primo giorno dovrebbe essere dedicato all'Esperimento II-8; e quel giorno sarebbe bene assegnare lo studio dei Paragrafi 1-4 più uno o due problemi CSL relativi ai Paragrafi 1-3. 
 
-AI lavoro di laboratorio si dovrebbe far precedere una breve spiegazione del fenomeno di focalizzazione della luce, mediante il quale si possono vedere le onde nella vaschetta. Potreste disegnare queste figure: sorgente luminosa sopra la vaschetta e schermo sotto : aria acqua
+AI lavoro di laboratorio si dovrebbe far precedere una breve spiegazione del fenomeno di focalizzazione della luce, mediante il quale si possono vedere le onde nella vaschetta. Potreste disegnare queste figure: 
+
+![](Figure/Fig_GuidaIT_17_01.png)
+
+![](Figure/Fig_GuidaIT_17_02.png)
 
 Chiedete agli studenti come cambierebbe la «lunghezza focale» se la distanza tra le creste aumentasse, o se vi fosse una variazione della distanza tra la quota di una cresta e quella di una gola (che potete chiamare il doppio dell'ampiezza, se volete introdurre questo utile termine). Chiedete loro se prevedono una variazione nella «nitidezza» dell'immagine delle increspature al variare della distanza orizzontale tra creste e gole. Accertatevi se capiscono che una variazione d'ampiezza potrebbe compensare questo fatto (vi è un margine abbastanza grande di tolleranza entro il quale le relazioni tra ampiezza, frequenza, distanza della lampada, e distanza dello schermo possono essere regolate per ottenere una immagine abbastanza netta delle onde).
 
 Le domande che seguono possono aiutare a chiarire i fatti che dovrebbero essere stabiliti dall'osservazione in laboratorio.
 
-Stiamo guardando l'ondoscopio in un punto sulla cresta di un'onda (come nel disegno a destra). Dove andrà questo punto sulla cresta dell'onda? Risposta: è necessario vedere una maggiore porzione dell'onda. Qui abbiamo una piccola parte del fronte dell'onda: dove andrà?
+Stiamo guardando l'ondoscopio in un punto sulla cresta di un'onda (come nel disegno a destra). Dove andrà questo punto sulla cresta dell'onda? Risposta: è necessario vedere una maggiore porzione dell'onda.
+
+![](Figure/Fig_GuidaIT_17_03.png)
+
+Qui abbiamo una piccola parte del fronte dell'onda: dove andrà?
+
+![](Figure/Fig_GuidaIT_17_04.png)
 
 Può muoversi in qualsiasi direzione perpendicolare.
 
-Supponete di avere un'onda a fronte circolare.
+![](Figure/Fig_GuidaIT_17_05.png)
 
-Potete dire in che modo si stia muovendo? 
+Supponete di avere un'onda a fronte circolare. Potete dire in che modo si stia muovendo? 
+
+![](Figure/Fig_GuidaIT_17_06.png)
 
 Risposta : non si può dire se sta andando verso «l'interno» o verso «l'esterno», (qualche studente potrebbe correttamente asserire che un'onda di questo tipo, vista in laboratorio, molto probabilmente starà muovendosi verso «l'esterno», poichè sono veramente rari i generatori di onde a fronte circolare che si muovono verso «l'interno». Ma se date dei colpetti sul bordo di una tazza di caffè, vedrete onde circolari convergenti).
 
-Se il fronte d'onda sta aumentando il suo raggio, dove si troverà ognuna delle sue tre parti indicate dopo che l'onda ha percorso, diciamo, l.centimetro? (Cambiate scala, adattandola al vostro disegno).
+
+Se il fronte d'onda sta aumentando il suo raggio, dove si troverà ognuna delle sue tre parti indicate dopo che l'onda ha percorso, diciamo, 1 centimetro? (Cambiate scala, adattandola al vostro disegno).
+
+![](Figure/Fig_GuidaIT_17_07.png)
 
 Risposta:
 
+![](Figure/Fig_GuidaIT_17_08.png)
+
 Supponete di aver immerso in un lago un generatore di forma ovale di dimensioni 7,5 cm per 15 cm. Come apparirà il fronte d'onda dopo aver percorso 1,6 km? Risposta: apparirà pressapoco come una circonferenza (sarà 1,6 km e 7,5 cm per 1,6 km e 15 cm).
+
+![](Figure/Fig_GuidaIT_17_09.png)
 
 Alla maggior parte degli studenti riuscirà molto utile rivedere il fenomeno della riflessione dal punto di vista ondulatorio. Date loro molti esercizi da svolgere o graficamente o intuitivamente mediante considerazioni sui fronti d'onda. Per qualche studente lo svolgimento con le onde riesce più facile di quello con la rappresentazione grafica dei raggi, soprattutto dopo aver osservato la riflessione delle onde nell'ondoscopio. In laboratorio potete invitare gli studenti a verificare ciò che essi ricordano sul comportamento della luce con gli specchi sferici. Gli studenti (immergendo un dito o una asticciola) possono localizzare facilmente il fuoco di uno specchio. In base alla loro conoscenza del punto focale, essi debbono prevedere qual è il centro di curvatura, e quindi controllarlo sperimentalmente.
 
@@ -137,11 +156,19 @@ COMMENTO - Se qualche studente desidera conoscere un procedimento più preciso p
 
 Considerate un fronte d'onda, che si muove in generale verso «l'interno». Come si può determinare la posizione un istante più tardi ?
 
+![](Figure/Fig_GuidaIT_17_10.png)
+
 Poiché ciascun punto si muove lungo una normale, costruite le tangenti e le perpendicolari in molti punti.
+
+![](Figure/Fig_GuidaIT_17_11.png)
 
 Per trovare la posizione dell'onda un istante, $t$, più tardi, segnate la distanza $vt$ lungo ogni normale (v è la velocità dell'onda): potete farlo facilmente con un compasso (o un pezzo di gesso attaccato ad una cordicella fissata in un punto sulla lavagna). Dopo aver fatto questi segni, collegateli per ottenere il nuovo fronte d'onda: 
 
+![](Figure/Fig_GuidaIT_17_12.png)
+
 Quando gli studenti avranno capito questa costruzione, potrete indicare loro la costruzione più semplice, che non richiede l'uso di tangenti e normali. Disegnate soltanto molti semicerchi da diversi punti sul fronte d'onda.
+
+![](Figure/Fig_GuidaIT_17_13.png)
 
 Se tracciate un numero sufficiente di semicerchi, la classe vedrà come disegnare il nuovo fronte d'onda, senza far la fatica di costruire le tangenti e le normali.
 
@@ -149,7 +176,7 @@ NOTA: Vi sono due possibili vantaggi nell'introdurre a questo punto l'costruzion
 
 1. Essa dà allo studente un metodo preciso e sicuro per controllare la sua intuizione sul comportamen.to futuro della forma di un'onda. Così, in maniera molto diretta; si possono trattare fronti d'onda complicati o complicate riflessioni e rifrazioni.
 
-2. Pone le basi per analizzare i fenomeni di diffrazione, poiché suggerisce l'idea che un'ondasi comporti all'incirca come una serie di generatori puntiformi. Si veda il Capitolo 19, Figura 19-12, pagina 399.
+2. Pone le basi per analizzare i fenomeni di diffrazione, poiché suggerisce l'idea che un'onda si comporti all'incirca come una serie di generatori puntiformi. Si veda il Capitolo 19, Figura 19-12, pagina 399.
 
 ## Paragrafo 4 - Velocità di propagazione e onde periodiche
 
@@ -220,10 +247,11 @@ SVOLGIMENTO - Varrà forse la pena di rivedere in classe la dimostrazione della 
 
 COMMENTO - A questo punto può essere interessante discutere il fenomeno della riflessione interna totale delle onde d'acqua. Si tratta solo di un caso particolare di rifrazione, in cui un'onda, venendo da un mezzo avente bassa velocità di propagazione in un altro avente alta velocità caratteristica; è soggetta ad un tale aumento di velocità e ad una tale variazione di direzione da essere riflessa interamente e rientrare nel primo mezzo (lento).
 
-Così nel caso della riflessione interna totale, la perturbazione, in effetti, penetra nel mezzo che sta dall'altra parte della superficie su cui avviene la riflessione. Nel caso della luce, è interessante notare come una lama di rasoio posta in maniera che il filo 49 N VA prema sulla superficie (aria-vetro) lungo la 4/9 ZZZ retta perpendicolare al foglio in A (nel disegno a destra) faccia sparire completamente il VW, a fascio riflesso.
+Così nel caso della riflessione interna totale, la perturbazione, in effetti, penetra nel mezzo che sta dall'altra parte della superficie su cui avviene la riflessione. Nel caso della luce, è interessante notare come una lama di rasoio posta in maniera che il filo prema sulla superficie (aria-vetro) lungo la retta perpendicolare al foglio in A (nel disegno a destra) faccia sparire completamente il fascio riflesso.
 
+![](Figure/Fig_GuidaIT_17_14.png)
 
-x non vi è Forse vi farà piacere che qualche studente interessato al problema cerchi di produrre in laboratorio la riflessione totale delle onde d'acqua : non è facile.
+Forse vi farà piacere che qualche studente interessato al problema cerchi di produrre in laboratorio la riflessione totale delle onde d'acqua : non è facile.
 
 Prima, dovreste assicurarvi che la vostra attrezzatura sia adeguata. Sarà necessario creare una regione «lenta» molto bassa, e far funzionare il generatore ad una frequenza molto bassa (è essenziale lavorare a 8 cicli per secondo e sarebbe ancora meglio a 5 cicli per secondo).
 

@@ -128,17 +128,19 @@ Per i particolari riguardanti una molla speciale appesa ad alcuni fili, si veda 
 
 Se questa figura
 
+![](Figure/Fig_GuidaIT_16_01.png)
+
 è la fotografia di un'onda (di un impulso) lungo una fune, è giusto che non sia stato tracciato un asse orizzontale, poiché la fune non può essere simultaneamente in due posizioni. Disegnando un grafico -di questa onda, potremo scegliere la scala orizzontale e verticale più rispondenti ai nostri scopi : potremo quindi tracciare un grafico come questo.
 
-spostamento
+![](Figure/Fig_GuidaIT_16_02.png)
 
-distanza orizzontale lungo la corda
+In un altro caso si potrebbe considerare un singolo punto della fune, e fare un grafico dello spostamento rispetto al tempo. Ambedue i grafici, spostamento-distanza e spostamento-tempo, possono creare qualche confusione perché la loro forma è simile a quella della stessa onda. Se la distinzione non risulta ancora chiara agli studenti, potete notare che, qualora l'onda fosse come questa,
 
-In un altro caso si potrebbe considerare un singolo punto della fune, e fare un grafico dello spostamento rispetto al tempo. Ambedue i grafici, spostamento-distanza e spostamento-tempo, possono creare qualche confusione perché la loro forma è simile a quella della stessa onda.
+![](Figure/Fig_GuidaIT_16_03.png)
 
-Se la distinzione non risulta ancora chiara agli studenti, potete notare che, qualora l'onda fosse come questa, un grafico del valore assoluto dello spostamento rispetto alla distanza misurata lungo la fune sarebbe simile a questo.
+un grafico del valore assoluto dello spostamento rispetto alla distanza misurata lungo la fune sarebbe simile a questo.
 
-ZA I:
+![](Figure/Fig_GuidaIT_16_04.png)
 
 Ciò posto, le possibili differenze fra i vari casi dovrebbero essere chiare.
 
@@ -156,6 +158,8 @@ Il tratto di asse sotto la curva è talvolta origine di confusione : alcuni stud
 
 4) Nelle Figg.16-3 e 16-4 che cosa sta ad indicare la velocità media di ogni punto? Le frecce. La loro direzione dì la direzione del tratto di fune; la loro lunghezza indica la velocità. Un lavoro facoltativo (che potrete rimandare fino a quando gli studenti più abili non abbiano avuto occasione di cimentarsi da soli col Problema 9) è quello di tracciare un grafico della velocità dei vari punti della fune di Fig.16-3 rispetto alla distanza. Tale grafico dovrebbe essere simile a questo.
 
+![](Figure/Fig_GuidaIT_16_05.png)
+
 La pratica acquistata tracciando tali grafici sarà utile per la risoluzione del Problema 9 (a)
 
 5) Qualè la velocità dell'onda? Accertatevi che gli studenti si rendano conto che :
@@ -170,10 +174,11 @@ La pratica acquistata tracciando tali grafici sarà utile per la risoluzione del
 
 7) Cercate di far eseguire, o nella discussione precedente, oppure a questo punto, qualche esercizio quantitativo. Un'buon esempio potrebbe essere il seguente :
 
+![](Figure/Fig_GuidaIT_16_06.png)
 
-NOTA :
+NOTA : Se gli studenti muovono obiezioni di fronte ad un impulso così complesso, ricordate loro che si tratta di una idealizzazione. Probabilmente l'impulso reale sarebbe come questo.
 
-Se gli studenti muovono obiezioni di fronte ad un impulso così complesso, ricordate loro che si tratta di una idealizzazione. Probabilmente l'impulso reale sarebbe come questo.
+![](Figure/Fig_GuidaIT_16_07.png)
 
 Notate altresì che non si tratta di un'immagine, ma di un grafico; la scala orizzontale e quella verticale sono differenti.
 
@@ -191,13 +196,17 @@ DD' = 0,3 × 0,2 m = 0,06 m. Dal momento che tale spostamento si è avuto in 0,0
 
 Possiamo seguire lo stesso procedimento per i punti B ed E, ottenendo rispettivamente 20 e 10 m/sec.
 
+![](Figure/Fig_GuidaIT_16_08.png)
+
 E' giunto il momento di osservare esplicitamente, se già qualche studente non l'ha fatto, che l'intero tratto di fune da 1 a 2 metri si sposta con la velocità del punto B. L'intero tratto di corda fra 2 e 3 metri è rimasto fermo, ecc.
 
 Ora si può tracciare un grafico della velocità rispetto alla posizione lungo la fune:
 
+![](Figure/Fig_GuidaIT_16_09.png)
 
 Il grafico è discontinuo: ciò accade perché la nostra onda aveva angoli netti. Le onde reali non hanno angoli del genere, e quindi questo grafico, in un caso reale, avrebbe l'aspetto seguente:
 
+![](Figure/Fig_GuidaIT_16_10.png)
 
 Uno dei motivi per cui s'è introdotta questa discussione sui grafici è che, quando due onde viaggiano assieme lungo una fune, le loro velocità si sommano vettorialmente come i loro spostamenti.
 
@@ -207,14 +216,14 @@ La molla di lunghezza tripla «Slinky» (che viene fornita come parte dell'attre
 
 Nella maggioranza dei casi occorrerà un montaggio riducibile che potrà venir realizzato appendendo ogni filo di sospensione ad un anello da tenda in modo che possa scorrere lungo un'asta o un cavo teso lungo il soffitto.   
 
+![](Figure/Fig_GuidaIT_16_11.png)
+
 Perché tutti vedano bene, la molla dovrà essere circa all'altezza della vita di una persona; un po' più alta, se l'aula è occupata da banchi o tavoli.
-  
-
-Attenzione: se per sospendere gli anelli usate un cavo, questo dovrà essere robusto e ben teso:
-
-un filo da stendere, rigido, sarà il caso limite; e questo per evitare che le onde sulla molla generino altre onde sul filo, le quali a loro volta influenzerebbero le onde sulla molla stessa. Se appendete il cavo in più punti, anche il filo da stendere andrà bene: ma in tal caso non sarà possibile riunire le spire della molla, perché i sostegni del cavo impediranno agli anelli di scorrere. Un'altra avvertenza: una volta che avete teso la molla per circa 6 metri, non lasciatela andare di colpo: potrebbe attorcigliarsi così inestricabilmente da costringervi a distruggere tutta la vostra opera.
+Attenzione: se per sospendere gli anelli usate un cavo, questo dovrà essere robusto e ben teso: un filo da stendere, rigido, sarà il caso limite; e questo per evitare che le onde sulla molla generino altre onde sul filo, le quali a loro volta influenzerebbero le onde sulla molla stessa. Se appendete il cavo in più punti, anche il filo da stendere andrà bene: ma in tal caso non sarà possibile riunire le spire della molla, perché i sostegni del cavo impediranno agli anelli di scorrere. Un'altra avvertenza: una volta che avete teso la molla per circa 6 metri, non lasciatela andare di colpo: potrebbe attorcigliarsi così inestricabilmente da costringervi a distruggere tutta la vostra opera.
 
 Per mantenere tesa la molla per circa 8 metri, occorrerà applicare una forza orizzontale; nella figura sopra si vedono i fili terminali tesi un pò diagonalmente sulla molla. Supporti del genere non potranno però tener tesa la molla: le estremità debbono essere fissate. Fissare un'estremità è semplice: si usi una pila di mattoni per attanagliarla saldamente. I mattoni di cemento (posti sul piano o su una tavola) saranno particolarmente adatti, poiché fisseranno la molla senza danneggiarla.
+
+![](Figure/Fig_GuidaIT_16_12.png)
 
 La persona che genera gli impulsi può porsi all'altra estremità e scuoterà leggermente la molla, generando un impulso che si propagherà verso l'estremità fissa e si rifletterà (tornando indietro sul lato opposto).
 
@@ -224,7 +233,7 @@ Nota: Per osservare queste onde, gli studenti debbono radunarsi alle estremità 
 
 Realizzare un'estremità libera è più difficile che realizzare una estremità fissa, a meno che non disponiate di un locale lunghissimo. Potrete realizzare una estremità libera, sostenendo tale estremità con un filo che sia lungo almeno la metà della molla tesa.
 
-filo, di 3 metri o preferibilmente più lungo
+![](Figure/Fig_GuidaIT_16_13.png)
 
 Se non disponete di una stanza abbastanza lunga per montare una molla tesa ed un'«estremità libera», potrete realizzare dei compromessi, accorciando un poco la molla per aumentare la lunghezza del filo all'estremità libera.
 
@@ -269,36 +278,45 @@ Una idea qualitativa del principio di sovrapposizione applicato alle velocità f
 
 SVOLGIMENTO - Date modo agli studenti di impratichirsi sul moto e sulla sovrapposizione delle onde, facendo loro disegnare due semplici forme d'onda (rettangolari, triangolari o miste) e formulando domande come:
 
+![](Figure/Fig_GuidaIT_16_14.png)
 
-Se avessimo solo l'impulso A, quale sarebbe la forma della fune dopo 1 secondo? Dopo 2 secondi?
-
-E dopo 10 secondi ? Se avessimo soltanto l'impulso B, quale sarebbe la forma della fune dopo 1; 2; 5;
-
-10 secondi? Se vi fosse soltanto l'impulso A, dove si troverebbe dopo 2 secondi il punto che ha posizione orizzontale 12 ? E se vi fosse solo B? E se vi fossero ambedue? Ecc.
+Se avessimo solo l'impulso A, quale sarebbe la forma della fune dopo 1 secondo? Dopo 2 secondi? E dopo 10 secondi ? Se avessimo soltanto l'impulso B, quale sarebbe la forma della fune dopo 1; 2; 5; 10 secondi? Se vi fosse soltanto l'impulso A, dove si troverebbe dopo 2 secondi il punto che ha posizione orizzontale 12 ? E se vi fosse solo B? E se vi fossero ambedue? Ecc.
 
 Benché molti studenti possano seguire con facilità la Fig.16-9 e la spiegazione fornitane dal testo, essi potrebbero avere soltanto un'idea vaga della relazione esistente tra due impulsi, quando il punto in cui si incontrano rimane imperturbato. Poiché questa stessa domanda si ripresenta nel paragrafo seguente ed in vari punti del Capitolo 18, è inutile per ora discuterne in classe. Potrete disegnare alla lavagna vari esempi per accertarvi che gli studenti comprendano quali impulsi non lasceranno indisturbato il loro punto centrale sulla fune. Ciò accadrà, ad es., per gli impulsi a destra, e non per quelli a sinistra:
 
+![](Figure/Fig_GuidaIT_16_15.png)
 
 Se ne avete il tempo, potrete trattare assieme agli studenti qualcuno dei seguenti casi di sovrapposizione delle velocità.
 
 Due impulsi triangolari diretti l'uno incontro all'altro forniscono esempi adatti allo studio della sovrapposizione delle velocità, purché trascuriate gli angoli netti. (Gli angoli netti implicano accelerazioni estremamente alte; se gli angoli fossero un pò arrotondati, la variazione di velocità sarebbe fisicamente realizzabile). Si considerino i due impulsi disegnati qui sotto, che si muovono l'uno verso l'altro:
 
+![](Figure/Fig_GuidaIT_16_16.png)
+
 Un grafico delle velocità dei punti della fune a quest'istante è :
+
+![](Figure/Fig_GuidaIT_16_17.png)
 
 La seguente serie di grafici mostra lo spostamento dei punti e delle velocità quando i due impulsi si incrociano
 
+![](Figure/Fig_GuidaIT_16_18.png)
+
+![](Figure/Fig_GuidaIT_16_19.png)
+
 Si noti che a t = 1 secondo, i due impulsi si sommano raddoppiando l'ampiezza, mentre in tale istante la velocità è nulla lungo tutta la fune! Si paragoni quest'esempio col Problema 9 e con la Fig. 16-16.
 
-Se i due impulsi hanno polarità opposta, pe Pe" DN II VO 14 IO LIE VE i Io ] Il grafico della velocità è questo :
+Se i due impulsi hanno polarità opposta, Il grafico della velocità è questo :
 
-All'incrociarsi dei due impulsi vi sarà un istante in cui gli spostamenti si sommano dando zero, ed il «grafico relativo dello spostamento sarà
+![](Figure/Fig_GuidaIT_16_20.png)
 
-ma per le velocità si avrà :
+All'incrociarsi dei due impulsi vi sarà un istante in cui gli spostamenti si sommano dando zero, ed il «grafico relativo dello spostamento sarà ma per le velocità si avrà :
+
+![](Figure/Fig_GuidaIT_16_21.png)
 
 Questo è il caso di Fig.16-7.
 
 Per quanto non sia del tutto essenziale, in una trattazione approfondita del paragrafo per gli studenti bravi, potreste servirvi degli impulsi triangolari per mostrare che la velocità delle particelle è proporzionale alla pendenza istantanea. Stabilito ciò, potrete dare agli studenti più brillanti che pongono domande sulla Fig.16-7, la seguente spiegazione semiquantitativa.
 
+![](Figure/Fig_GuidaIT_16_22.png)
 ## Paragrafo 4 - Riflessione e trasmissione
 
 **OBIETTIVO** - Descrivere (e non spiegare) ciò che succede quando un impulso raggiunge una discontinuità.

@@ -9,17 +9,41 @@ Poichè quasi ogni paragrafo offre la possibilità di alternare il laboratorio a
 
 La pianificazione appropriata del programma degli esperimenti in accordo con i paragrafi specifici del testo è molto importante.
 
-tabella: #inserire
 
-## II-l. RIFLESSIONE SU UNO SPECCHIO PIANO
+| Numero | Esperimento                                             | Momento più opportuno                                                   | Priorità |
+| ------ | ------------------------------------------------------- | ----------------------------------------------------------------------- | -------- |
+| II-1   | Riflessione su uno specchio piano                       | Prima del paragrafp 12-4                                                | \*\*\*   |
+| II-2   | Immagini formate da uno specchio concavo                | Prima del paragrafo 12-9                                                | \*\*     |
+| II-3   | Rifrazione                                              | Prima del paragrafo 13-3                                                | \*\*\*   |
+| II-4   | Immagini formate da una lente convergente               | Prima del paragrafo 14-3                                                | \*\*     |
+| II-5   | La rifrazione delle particelle                          | Prima del paragrafo 15-2                                                | \*\*\*   |
+| II-6   | L'intensità di illuminazione in funzione della distanza | Prima del paragrafo 15-3                                                | \*       |
+| II-7   | Onde in una molla elicoidale                            | 2 mezzi periodi durante il Capitolo 16 o un periodo a metà del Capitolo | \*\*\*   |
+| II-8   | Gruppi d'onde in una vaschetta per onde superficiali    | Introduzione al Capitolo 17 (paragrafo da 17-1 a 17-3)                  | \*\*\*   |
+| II-9   | Onde periodiche                                         | Dopo il paragrafo 17-4                                                  | \*\*\*   |
+| II-10  | Rifrazione delle onde                                   | Prima del paragrafo 17-5                                                | \*\*\*   |
+| II-11  | Onde e ostacoli                                         | Prima del paragrafo 17-7                                                | \*\*     |
+| II-12  | Onde generate da due sorgenti puntiformi                | Parte I: Inizio del Capitolo 18<br>Parte II: Dopo il paragrafo 18-4     | \*\*\*   |
+| II-13  | Interferenza e fase                                     | Prima del paragrafo 18-5                                                | \*\*\*   |
+| II-14  | L'esperimento di Young                                  | Prima del paragrafo 19-4                                                | \*\*\*   |
+| II-15  | Diffrazione della luce attraverso una singola fenditura | Immediatamente dopo la Parte II dell'esperimento II-14                  | \*\*     |
+| II-16  | Potere risolutivo                                       | Durante il paragrafo 19-8                                               | \*       |
+| II-17  | Misura di piccoli spessori mediante l'interferenza      | Dopo il paragrafo 19-9                                                  | \*       |
+
+\*\*\* essenziale  
+\*\* consigliato  
+\* facoltativo
+
+
+## II-l. Riflessione su uno specchio piano
 
 Quest'esperimento si può fare prima che gli studenti leggano o discutano il paragrafo arri | Essi scopriranno così che i raggi incidente e riflesso formano angoli uguali con la superficie riflettente, che l'immagine formata da uno specchio piano si trova dietro lo specchio e ne dista quanto l'oggetto che si trova davanti, e che l'oggetto e l'immagine hanno le stesse dimensioni. L'esperienza acquisita nella localizzazione delle immagini per mezzo della parallasse e del tracciamento dei raggi sarà utile in esperimenti successivi.
 
 Si usano come oggetti in quest'esperimento solo chiodi e spilli; al contrario dei triangoli e delle lettere, essi sono simmetrici, e trovando la loro immagine in uno specchio piano, non si solleverà la questione del ribaltamento.
 
-Quando si trova l'immagine con il sistema della parallasse si dovrebbero usare chiodi abbastanza lunghi da sporgere al disopra dello specchio; la ricerca dell'immagine si riduce allora semplicemente a « rimettere la testa » al chiodo immagine. (Vedere la Fig. 12 - 11 del testo). Un modo per tenerlo fermo lo specchio è quello d'infilarlo in un taglio fatto con la sega in un blocchetto di legno.[Fig.(a)].
+Quando si trova l'immagine con il sistema della parallasse si dovrebbero usare chiodi abbastanza lunghi da sporgere al disopra dello specchio; la ricerca dell'immagine si riduce allora semplicemente a « rimettere la testa » al chiodo immagine. (Vedere la Fig. 12 - 11 del testo). Un modo per tenerlo fermo lo specchio è quello d'infilarlo in un taglio fatto con la sega in un blocchetto di legno. \[Fig.(a)].
 
-
+![Figura (a)](Figure/Fig_Lab_Guida2_01.png)
 
 Poichè gli angoli tra i raggi e la superficie riflettente si vedono direttamente sulla carta, sono questi gli angoli che noi confrontiamo. Potete rimandare l'introduzione degli angoli tra i raggi e la normale fino a quando tratterrete l'argomento in classe, o, se preferite, richiamare la attenzione su di essi in quest'esperimento.
 
@@ -30,6 +54,9 @@ I raggi visuali tracciati per localizzare un'immagine dovrebbero formare tra di 
 Nella Guida del Laboratorio non c'è un diagramma da usare come esempio; lo studente è così messo in grado di scoprire da sé il cammino dei raggi riflessi.
 
 Con quest'apparecchiatura, è difficile per lo studente vedere che il raggio incidente, la normale ed il raggio riflesso giacciono nello stesso piano; la dimostrazione è pertanto rimandata al paragrafo 12-4 e alla Fig. 12-8 del testo.
+
+![Figura (b)](Figure/Fig_Lab_Guida2_02.png)
+![Figura (c)](Figure/Fig_Lab_Guida2_03.png)
 
 Risposte alle domande
 
@@ -54,16 +81,16 @@ MATERIALE
 - 2 chiodi a testa piatta (lunghezza 4-6 cm)
 - 3 spilli (lunghezza circa 2,5 cm)
 - 3 fogli di carta (circa 21 cm x 28 cm)
-- 1 foglio di cartone tenero o altro materiale simile. (circa 21cm x 28 cm)
+- 1 foglio di cartone tenero o altro materiale simile (circa 21cm x 28 cm)
 - 1 matita a punta dura ed aguzza
 - 1 goniometro
-- 1 blocco di legno
+- 1 blocco di legno (2,5 cm x 2,5 cm x 5 cm)
 - 1 elastico
 - 1 riga millimetrata
 
-## II-2. RIFLESSIONE SU UNO SPECCHIO CONCAVO
+## II-2. Immagini formate da uno specchio concavo
 
-In questo esperimento lo studente acquista familiarità con le immagini formate da uno specchio concavo e trova la relazione tra SA ed Si: | L'esperimento è simile all'Esperimento Il-4, e vi suggeriamo di assegnare solo uno dei due. Se non sono disponibili specchi ragionevolmente buoni, assegnate solo l'Esperimento II-4; se avete dei buoni specchi, quest'esperimento dovrebbe essere fatto prima della discussione del paragrafo 129.
+In questo esperimento lo studente acquista familiarità con le immagini formate da uno specchio concavo e trova la relazione tra $S_o$ ed $S_i$. L'esperimento è simile all'Esperimento Il-4, e vi suggeriamo di assegnare solo uno dei due. Se non sono disponibili specchi ragionevolmente buoni, assegnate solo l'Esperimento II-4; se avete dei buoni specchi, quest'esperimento dovrebbe essere fatto prima della discussione del paragrafo 12-9.
 
 Dato che si chiede agli studenti di misurare le distanze dell'oggetto e dell'immagine dal fuoco principale, un piccolo errore nella misura della lunghezza focale f introdurrà un grande errore nei risultati riportati sul grafico. Più grande è la lunghezza focale dello specchio usato, più precisi saranno i risultati. Comunque, se la lunghezza focale è maggiore di 15 cm, occorrerà uno spazio di lavoro maggiore per determinarla accuratamente. Si può fare una determinazione precisa della lunghezza focale per parallasse, localizzando l'immagine di un oggetto distante 5 m o più dallo specchio.
 
@@ -73,7 +100,7 @@ Un portalampada di porcellana è il più adatto per sostenere la lampadina, sebb
 
 Si può anche montare la lampadina saldando due fili alla sua base ed attaccando un pezzo di plastilina alla base stessa per tenere dritta la lampadina. Il filamento della lampadina e il centro dello specchio devono essere alla stessa altezza dal piano del tavolo.
 
-A qualche studente può riuscir difficile trovare l'immagine per parallasse. Potete rapidamente controllare se ha proceduto correttamente confrontando il prodotto $S \cdot f$, con $f$. Se i due valori differiscono di più del 5\%, può essere necessario qualche aiuto individuale nella localizzazione dell'immagine.
+A qualche studente può riuscir difficile trovare l'immagine per parallasse. Potete rapidamente controllare se ha proceduto correttamente confrontando il prodotto $S_o \cdot S_i$, con $f^2$. Se i due valori differiscono di più del 5\%, può essere necessario qualche aiuto individuale nella localizzazione dell'immagine.
 
 Siccome uno degli scopi dell'esperimento è far sì che lo studente scopra la relazione tra $S$ e $f$, non gli suggerite di controllare i valori in questo modo ogni coppia di valori a mano a mano che li misura.
 
@@ -89,6 +116,8 @@ La lampadina da torcia portatile dà un'immagine brillante che risalta sullo sfo
 
 gli studenti si rendano veramente conto che l'i immagine reale è davanti allo specchio. La discussione
 della distinzione tra immagini reali e immagini virtuali dovrebbe esser rimandata a dopo che esse sono state studiate nel testo.
+
+![Figura (a)](Figure/Fig_Lab_Guida2_04.png)
 
 Risposte alle domande
 
@@ -116,10 +145,9 @@ MATERIALE
 - 1 tappo di sughero
 - 1 foglio di carta millimetrata a scale lineari
 
-## II-3. RIFRAZIONE
+## II-3. Rifrazione
 
-Lo scopo di quest'esperimento è di scoprire la legge di Snell. Perciò, è molto opportuno fare lo
-esperimento prima della discussione del Paragrafo 13-3.
+Lo scopo di quest'esperimento è di scoprire la legge di Snell. Perciò, è molto opportuno fare l'esperimento prima della discussione del Paragrafo 13-3.
 
 La linea verticale sul lato piano della scatola di plastica si vede più facilmente attraverso il liquido se la si colora con una matita rossa.
 
@@ -135,6 +163,8 @@ Se l'esperimento è eseguito con cura, sen i/sen r è più costante che i/r [Fig
 
 In casi estremi, suggerite allo studente di ripetere qualcuna delle sue misure a grandi angoli.
 
+![Figura (a)](Figure/Fig_Lab_Guida2_05.png)
+
 MATERIALE
 - 1 scatola semicircolare di plastica trasparente (6 cm di raggio, 3 cm di profondità)
 - 4 fogli di carta millimetrata coordinate cartesiane oppure 2 fogli a coordinate cartesiane e 2 a coordinate polari
@@ -145,7 +175,7 @@ MATERIALE
 - 1 blocco rettangolare di vetro o di plastica con due facce tirate a lucido (facoltativo)
 - 1 doppio decimetro
 
-## II-4. IMMAGINI FORMATE DA UNA LENTE CONVERGENTE
+## II-4. Immagini formate da una lente convergente
 
 In questo esperimento, lo studente acquista familiarità con le immagini formate da una lente convergente e trova la relazione matematica tra S ed S'. Quest'esperimento è simile all'Esperimento H-2 e lo si può tralasciare se si è fatto quest'ultimo. Il momento più adatto per farlo è prima della discussione del paragrafo 14-3.
 
@@ -195,7 +225,7 @@ MATERIALE
 - 1 tappo di sughero
 - 1 foglio di carta millimetrata
 
-## II-5. LA «RIFRAZIONE» DELLE PARTICELLE
+## II-5. La «rifrazione» delle particelle
 
 Lo scopo della maggior parte dei nostri esperimenti è di far scoprire allo studente nuove relazioni fisiche; per esempio, nell'Esperimento II-3 egli ha scoperto la legge di Snell. Qui, non ci occupiamo del cambiamento di direzione di palline d'acciaio che rotolano giù per un piano inclinato come fatto a sè; piuttosto vogliamo trovare specificamente se il cambiamento di direzione può essere descritto dalla legge di Snell. In altre parole, si richiede agli studenti di controllare un'ipotesi sulla luce.
 
@@ -209,11 +239,15 @@ Un rapido controllo visivo per sapere se i piani sono sufficientemente orizzonta
 
 Una guida, per dare alla sfera la velocità iniziale, si può realizzare con un doppio decimetro di plastica con una scanalatura lungo l'asse. Un pezzo lungo 7,5 cm ed uno lungo 2,5 cm del doppio decimetro possono essere incollati insieme come mostrato in Fig. (a). È necessario tenere ferma la guida mentre la pallina sta accelerando in modo che questa acquisti approssimativamente la stessa velocità iniziale in ogni prova.
 
-1 foglio fissato sul piano superiore ed inferiore devono essere sistemati accuratamente in modo che i loro bordi siano paralleli l'uno all'altro e rimangano così durante tutte le prove successive.
+![Figura (a)](Figure/Fig_Lab_Guida2_06.png)
+
+I fogli fissati sul piano superiore ed inferiore devono essere sistemati accuratamente in modo che i loro bordi siano paralleli l'uno all'altro e rimangano così durante tutte le prove successive.
 
 Con una guida di lancio corta è possibile ottenere forti angoli d'incidenza; tuttavia può essere necessario spostare il foglio sul piano inferiore a destra o a sinistra per raccogliere la traccia.
 
 L'indice di rifrazione trovato sarà diverso da studente a studente perché la velocità iniziale della pallina o l'altezza del piano superiore è diversa. I risultati di una serie tipica di prove sono mostrati in Fig{b).
+
+![Figura (b)](Figure/Fig_Lab_Guida2_07.png)
 
 Risposte alle domande
 
@@ -236,14 +270,15 @@ MATERIALE
 - goniometro
 - nastro adesivo robusto
 
-## II-6. L'INTENSITA' D'ILLUMINAZIONE IN FUNZIONE DELLA DISTANZA
+## II-6. L'intensità d'illuminazione in funzione della distanza
 
-Quest'esperimento serve a controllare una previsione del modello corpuscolare della luce, che cioè l'intensità di illuminazione è inversamente proporzionale al quadrato della distanza; con un'introduzione appropriata può essere svolto prima della discussione del paragrafo 15-3. L'esperimento [4 è connesso con l'analisi di quest'esperimento.
+Quest'esperimento serve a controllare una previsione del modello corpuscolare della luce, che cioè l'intensità di illuminazione è inversamente proporzionale al quadrato della distanza; con un'introduzione appropriata può essere svolto prima della discussione del paragrafo 15-3. L'esperimento II-4 è connesso con l'analisi di quest'esperimento.
 
 Un'altra possibile realizzazione dello schermo mostrato in Figg. le2 è costituita da una scheda bibliografica fissata a due mollette da bucato. La matita viene tenuta a posto infilandone la punta in un tappo di gomma forato. Se i portalampade sono montati permanentemente su una base di legno anzichè con morsetti da provette fissati ad un sostegno verticale come mostrato nella Guida di Laboratorio, il legno dovrebbe essere verniciato di nero opaco per ridurre al minimo le riflessioni.
 
 Conviene sistemare una riga millimetrata sul tavolo con lo schermo ad un estremo e le quattro lampade all'altro. Si può allora muovere la lampada singola B, lungo la riga millimetrata e leggere direttamente le posizioni.
 
+![Figura (a)](Figure/Fig_Lab_Guida2_08.png)
 
 Risposte alle domande
 
@@ -270,7 +305,7 @@ MATERIALE
 - schermo di cartone quadrate di circa 12 cm di lato
 - sostegno per lo schermo (2 turaccioli tagliati, circa 2,5 cm di diametro)
 
-## II-7. ONDE IN UNA MOLLA ELICOIDALE
+## II-7. Onde in una molla elicoidale
 
 Il Capitolo 16 presenta molte idee e concetti nuovi, che saranno meglio compresi se gli studenti hanno occasione di studiarli in laboratorio. Quest'esperimento riguarda essenzialmente tutto il capitolo e, perciò, non dovrebbe essere fatto in un solo periodo di laboratorio, nonostante il fatto che esso sia sopratutto qualitativo. Se il vostro orario non vi consente mezzi periodi, è meglio fare l'esperimento verso la metà del capitolo.
 
@@ -321,7 +356,7 @@ MATERIALE
 - 1 molla elicoidale di filo piatto, lunga 10 cm, diametro 7,5 cm.
 - 1 molla elicoidale di filo rotondo, lunga 1,75 m, diametro 2 cm.
 
-## II-8. GRUPPI D'ONDE IN UNA VASCHETTA PER ONDE SUPERFICIALI
+## II-8. Gruppi d'onde in una vaschetta per onde superficiali
 
 Quest'esperimento presenta allo «studente la vaschetta per onde superficiali, ed è meglio svolgerlo come introduzione ai primi tre paragrafi del Capitolo 17. L'uso di onde periodiche e del generatore di onde sono stati ritardati di proposito fino al prossimo esperimento per permettere un passaggio graduale dagli impulsi propaganti lungo una linea ad onde periodiche in un piano.
 
@@ -365,12 +400,13 @@ MATERIALE
 - schermo grande di carta bianca, quadrato, lato circa 60 cm
 - 4 cunei di legno (1 cm × 8 cm)
 
-## II-9. ONDE PERIODICHE
+## II-9. Onde periodiche
 
 Questo importante esperimento si può fare molto opportunamente dopo aver studiato il paragrafo 17-4; suo scopo principale è di giungere all'uso della relazione v=f·a. L'esperimento dimostra anche che la velocità di propagazione delle onde in una vaschetta varia con la profondità dell'acqua, preparando così il terreno per l'Esperimento II-10 sulla rifrazione.
 
 Per ottenere onde ben definite collegate la batteria in modo che il motore ruoti verso l'esterno della vaschetta; si può ottenere una frequenza bassa e costante regolando il reostato leggermente al di sopra del punto di arresto del motore; sì avrà così una frequenza da 5 a 7 cicli al secondo. Per onde di bassa frequenza, regolate il dado sull'albero di rotazione per ottenere un'ampiezza maggiore. Prima di eseguire delle misure qualitative può esser necessario impratichirsi un pò, per accertarsi che il generatore sia in grado di funzionare a bassa frequenza abbastanza a lungo da permettere diverse misure di frequenza e lunghezza d'onda. E' importante lavorare con una frequenza bassa. Per frequenze di 10 cicli al secondo o più, un cambiamento nella profondità dell’acqua dal valore fissato di 5 - 7 mm a 2 cm non produrrà un cambiamento apprezzabile nella velocità delle onde. La Fig. (a) mostra la dipendenza della velocità delle onde nell'acqua dalla frequenza e dalla profondità.
 
+![Figura (a)](Figure/Fig_Lab_Guida2_09.png)
 
 Nel processo di generazione delle onde in una molla elicoidale e in esperimenti successivi con la vaschetta in cui si faccia uso delle barriere, la maggior parte degli studenti osserverà la presenza delle onde stazionarie. Potete, se volete, trattarle brevemente come un caso speciale di sovrapposizione ed un altro metodo per misurare la lunghezza d'onda. Le onde stazionarie sono importanti per la parte IV e sono discusse in maggior dettaglio nel paragrafo 34-5.
 
@@ -422,7 +458,7 @@ cronometro od orologio con lancetta dei secondi
 
 doppio decimetro o riga millimetrata
 
-## II-10. RIFRAZIONI DELLE ONDE
+## II-10. Rifrazioni delle onde
 
 Quest'esperimento è sostanzialmente qualitativo e dovrebbe precedere lo studio del paragrafo 17-5.
 
@@ -466,7 +502,7 @@ N
 
 poi pet pr
 
-## II-11. ONDE E OSTACOLI
+## II-11. Onde e ostacoli
 
 Scopo di quest'esperimento è di mostrare che le onde s'incurvano quando passano accanto ad un ostacolo e che questa curvatura decresce con la lunghezza d'onda. Ciò non esclude un modello ondu latorio per la luce, ma suggerisce che la lunghezza d'onda della luce è molto piccola. Il momento migliore per svolgere l'esperimento è prima di studiare il paragrafo 17-7.
 
@@ -476,15 +512,11 @@ Le bolle d'aria si possono togliere passando un dito lungo il bordo del generato
 
 Le estremità dei blocchetti di paraffina usati come ostacoli dovrebbero essere tagliate e lisciate fino a formare un trapezoide a 45° come mostrato in Fig.(a). Il lato più lungo deve essere rivolto verso il generatore. Va bene come ostacolo un blocchetto di paraffina lungo circa 5 cm; in condizioni normali la sua lunghezza apparente sullo schermo sarà circa di 10 cm.
 
-blocchetti di paraffina gd a
-
-I bordi possono essere facilmente sagomati con un coltello tascabile. Tali bordi danno fenditure ben definite. Variando le dimensioni dei blocchetti si possono ottenere fenditure - di diversa apertura.
-
-Figura (a)
+![Figura (a)](Figure/Fig_Lab_Guida2_10.png)
 
 Risposte alle domande
 
-- Quando la lunghezza d'onda è circa metà delle dimensioni dell'ostacolo o maggiore (ambedue misurate sullo schermo) le onde si incurvano fortemente attorno all'ostacolo. Abbastanza lontano dietro l'ostacolo le onde si fondono insieme e la presenza dell'ostacolo non può più essere percepita; il blocchetto non dà un'ombra netta.
+Quando la lunghezza d'onda è circa metà delle dimensioni dell'ostacolo o maggiore (ambedue misurate sullo schermo) le onde si incurvano fortemente attorno all'ostacolo. Abbastanza lontano dietro l'ostacolo le onde si fondono insieme e la presenza dell'ostacolo non può più essere percepita; il blocchetto non dà un'ombra netta.
 
 Diminuendo la lunghezza d'onda, l'ombra diviene più netta.
 
@@ -492,7 +524,7 @@ La diffrazione da una fenditura mostra una analoga dipendenza dalla lunghezza d'
 
 Per una lunghezza d'onde costante, fenditure progressivamente più piccole dànno luogo a curvature sempre maggiori; si può compensare il cambiamento nella figura che risulta dalla diminuizione della larghezza della fenditura col ridurre la lunghezza d'onda. Uno studio quantitativo mostrerebbe che la figura è determinata dal rapporto tra la lunghezza d'onda e la larghezza della fenditura. Non è opportuno tentare di farlo nella vaschetta perché la bontà dell'immagine delle onde che appare sullo schermo varia con la frequenza. Dettagli visibili ad una frequenza possono non esserlo ad un'altra, anche se \./d è lo stesso.
 
-
+![Figura (b)](Figure/Fig_Lab_Guida2_11.png)
 
 MATERIALE
 
@@ -504,9 +536,9 @@ ostacoli (blocchetti di paraffina) stroboscopio a mano i ‘riga millimetrata o 
 
 hp pa 
 
-apparecchiatura completa per onde superficiali [Pagina: 303] 11-12 (1) 
+apparecchiatura completa per onde superficiali
 
-## II-12. ONDE GENERATE DA DUE SORGENTI PUNTIFORMI 
+## II-12. Onde generate da due sorgenti puntiformi
 
 Quest'esperimento è diviso in due parti: la prima parte è qualitativa e serve come introduzione al Capitolo 18; la seconda parte è quantitativa e dovrebbe venire dopo la discussione del paragrafo 18-44. : : 
 
@@ -538,18 +570,14 @@ Non occorre che gli studenti ripetano tutte le misure con le fenditure, basta so
 
 Per ottenere una diffrazione abbastanza evidente, la larghezza delle fenditure dev'essere meno di una lunghezza d'onda. Se, d'altra parte, le fenditure sono troppo strette, l'intensità delle onde che passano sarà insufficiente. Il blocchetto di 5 cm usato nell'Esperimento II-11 può servire come ostacolo tra le due fenditure. La Fig. (a) mostra la sistemazione delle fenditure. Ci si può aspettare di trovare una figura di interferenza solo dove le onde provenienti dalle due fenditure si sovrappongono, ciò che si vede molto chiaramente nella zona centrale.
 
-
-
-blocchetti mobili per variare ‘. l'apertura delle fenditure
-
-‘ generatore di onde lineari Figura (a)
+![Figura (a)](Figure/Fig_Lab_Guida2_12.png)
 
 Potete suggerire agli studenti di coprire una fenditura e vedere cosa succede; ripeteranno ciò con la luce nell'Esperimento II-14.
 
 MATERIALE.
 1 apparecchiatura completa per onde superficiali © (vedere l'Esperimento II-9) stroboscopio a mano. — riga millimetrata o doppio decimetro ostacolo piccolo, blocchetto di paraffina ostacoli, blocchetti di paraffina
 
-## II-13. INTERFERENZA E FASE
+## II-13. Interferenza e fase
 
 Per discutere l'interferenza della luce è essenziale comprendere gli effetti della fase sulla figura d'interferenza.
 
@@ -575,41 +603,27 @@ La Fig.(a) mostra un altro sistema per generare delle onde con ritardo di fase r
 
 La larghezza delle fenditure deve essere minore d'una lunghezza d'onda in modo da approssimare delle sorgenti puntiformi. Ruotando il generatore si cambia la fase delle due sorgenti (fenditure). Se il supporto del generatore viene ruotato molto lentamente senza disturbare il generatore, si può osservare l'effetto dovuto alla variazione di fase.
 
-[asta millimetrata]
+![Figura (a)](Figure/Fig_Lab_Guida2_13.png)
 
-l Tm TO] nastro o Sv morsetto a «O»
+MATERIALE
 
-Figura (a)
+- 1 apparecchiatura completa per onde superficiali (vedere l'Esperimento II-9)
+- 1 stroboscopio a mano.
+---
+- 1 generatore d'onde con fase regolabile
+- 1 pila a secco da 1,5 volt
+---
+- 2 attaccapanni di filo d'acciaio
+- 4 piastrine di metallo
+- 2morsetti a coccodrillo con attaccate e due palline
+- 2 morsetti a C
+- 2 cursori
+---
+- 2 righe millimetrate
+- 1 ostacolo piccolo, blocchetto di paraffina
+- 4 ostacoli, blocchetti di paraffina
 
-[Pagina: 306] 11-13 (2)
-
-MATERIALE 1 apparecchiatura completa per onde superficiali (vedere l'Esperimento II-9)
-
-1 stroboscopio a mano.
-
-1 generatore d'onde con fase regolabile
-
-1 pila a secco da 1,5 volt
-
-2 attaccapanni di filo d'acciaio
-
-piastrine di metallo
-
-| morsetti a coccodrillo con attaccate e due palline.
-
-morsetti a CO
-
-cursori
-
-| righe millimetrate
-
-2 1 ostacolo piccolo, blocchetto di paraffina 4
-
-e ostacoli, Bloccherti di paraffina
-
-[Pagina: 307] II-14 (1)
-
-## II-14. L'ESPERIMENTO DI YOUNG
+## II-14. L'esperimento di Young
 
 Quest'esperimento è in un certo senso il punto culminante dello studio delle onde. E' meglio farlo prima dello studio del paragrafo 19-4.
 
@@ -645,39 +659,27 @@ La luce blu mostrerà strisce alternate chiare e scure che sono fra loro più vi
 
 La figura d'interferenza si allarga quando la lastrina viene ruotata fino a formare un angolo di circa 30° con il raggio visuale. Ciò è dovuto ad una diminuzione effettiva della separazione fra le fenditure.
 
-[Fig. (all.
+![Figura (a)](Figure/Fig_Lab_Guida2_14.png)
 
-[Pagina: 308] IT-14 (2)
+MATERIALE
+- 1 lampada da vetrina, bulbo trasparente, 40 watt
+- portalampade e cordone
+- 2 vetrini da microscopio, 2,5 cm × 7,5 cm circa
+- 2 lamette da barba a doppio taglio
+- 1 pezzo di cellophane rosso, 10 cm × 10 cm
+- 1 pezzo di cellophane blu, 10 cm × 10 cm
+- 2 elastici
+- 1 sostegno da laboratorio
+- 1 morsetto per provette
+- 1 doppio decimetro
+- 2 indici per il doppio decimetro
+---
+- sospensione colloidale di grafite, o candela per l'annerimento
+- nastro adesivo
 
-30° ve”
+## II-15. Diffrazione della luce attraverso una singola fenditura
 
-larghezza
-
-tra le due fenditure |
-
-Figura (a).
-
-MATERIALE .
-
-lampada da vetrina, bulbo trasparente, 40 watt
-
-portalampade e cordone
-
-vetrini da microscopio,
-
-2,5 cm × 7,5 cm circa lamette da barba a doppio taglio
-
-pezzo di cellophane rosso, 10 cm × 10 cm pezzo di cellophane blu, 10 cm × 10. cm elastici sostegno da laboratorio
-
-morsetto per provette «doppio decimetro»
-
-indici per il doppio decimetro :
-
-sospensione colloidale di grafite, o candela per l'annerimento nastro adesivo
-
-## II-15. DIFFRAZIONE DELLA LUCE ATTRAVERSO UNA SINGOLA FENDITURA
-
-La prima parte di quest'esperimento serve da introduzione allo studio dell'interfereiza da una fendi tura singola. Esso sottolinea le analogie e le differenze nell'aspetto delle figure di interferenza relative a una fenditura singola e quelle relative ad una fenditura doppia. E' meglio svolgerlo immediatamente dopo l'Esperimento II-14, forse addirittura nello stesso periodo di laboratorio. La seconda parte si può svolgere dopo la discussione del paragrafo 19-6 ed è di minore importanza.
+La prima parte di quest'esperimento serve da introduzione allo studio dell'interferenza da una fendi tura singola. Esso sottolinea le analogie e le differenze nell'aspetto delle figure di interferenza relative a una fenditura singola e quelle relative ad una fenditura doppia. E' meglio svolgerlo immediatamente dopo l'Esperimento II-14, forse addirittura nello stesso periodo di laboratorio. La seconda parte si può svolgere dopo la discussione del paragrafo 19-6 ed è di minore importanza.
 
 Le lastrine usate per ottenere le fenditure singole dovranno essere preparate come descritto nell'Espe rimento II-14. Si può chiudere una delle fenditure di una coppia muovendo lentamente la lametta da barba lungo la lastrina finchè l'orlo della lametta copre una delle fenditure.
 
@@ -697,23 +699,17 @@ Dimostrazione (per i paragrafi 19-5 e 19-6)
 
 La Fig. (a) mostra un semplice dispositivo che potete usare per dimostrare che molte sorgenti punti formi molto vicine producono la stessa figura di diffrazione prodotta da una sorgente rettilinea dietro una fenditura.
 
-Figura (a)
+![Figura (a)](Figure/Fig_Lab_Guida2_15.png)
 
-[Pagina: 310] I50)
+Sistemate i blocchetti di paraffina in modo da formare una fenditura di larghezza uguale alla «sorgente multipunto»; mostrate la figura di diffrazione con il generatore di onde rettilinee, segnando sullo schermo le direzioni delle linee nodali; poi sistemate la fila di sorgenti puntiformi nella fenditura e regolate la lunghezza d'onda in modo che sia la stessa di prima. Confrontate le direzioni delle linee nodali con quelle segnate sullo schermo.
 
-Sistemate i blocchetti di paraffina in modo da formare una fenditura di larghezza uguale alla «sor| gente multipunto»;
+MATERIALE
+- lo stesso dell'Esperimento II-14
+- 1 ago da cucire o uno spillo
+---
+- apparecchiatura per onde superficiali
 
-
-
-Mostrate la figura di diffrazione con il generatore di onde rettilinee, segnando sullo schermo le direzioni delle linee nodali; poi sistemate la fila di sorgenti puntiformi nella fenditura e regolate la lunghezza d'onda in modo che sia la stessa di prima. Confrontate le direzioni delle linee nodali con quelle segnate sullo schermo.
-
-**MATERIALE lo stesso dell'Esperimento II-14: 1 ago da cucire o uno spillo**
-
-**apparecchiatura per onde superficiali**
-
-[Pagina: 311] 2 ni
-
-## II-16. POTERE RISOLUTIVO
+## II-16. Potere risolutivo
 
 Quest'esperimento mostra come la diffrazione da una piccola apertura influisce sulla risoluzione di due sorgenti luminose molto vicine fra di loro. L'esperimento non richiede un intero periodo di laboratorio ed è meglio svolgerlo durante lo studio del paragrafo 19-8.
 
@@ -746,47 +742,42 @@ Supplemento
 Se è disponibile una sorgente di luce monocromatica come una lampada al sodio, la massima distanza di risoluzione dalle due sorgenti si può studiare quantitativamente come funzione della distanza fra le sorgenti. Se si riportano i risultati in un grafico, questo mostrerà una relazione lineare.
 
 MATERIALE
+- 1 lampada a incandescenza a bulbo trasparente (lampada da 150 watt della vaschetta delle onde)
+- 1 portalampada e cordone
+- 1 sostegno da laboratorio e morsetto per provette (o altro sostegno per il portalampada e la lampada)
+- 1 rettangolo di cartoncino di circa 7,5 cm × 7,5 cm(per sostenere il foglio d'alluminio)
+- 1 spillo od ago
+- cellophane rosso (o altro filtro rosso)
+- cellophane blu (o altro filtro blu)
+- 1 riga millimetrata o doppio decimetro
+---
+- foglio d'alluminio
+- nastro di cellulosa
 
-1 lampada a incandescenza a bulbo trasparente (lampada da 150 watt della vaschetta delle onde) portalampada e cordone
-1 sostegno da laboratorio e morsetto per provette (o altro sostegno per il portalampada e la lampada)
-1 rettangolo di cartoncino di circa 7,5 cm × 7,5 cm(per sostenere il foglio d'alluminio) e 1 spillo od ago
-cellophane rosso (o altro filtro rosso)
-cellophane blu (o altro filtro blu)
-1 riga millimetrata o doppio decimetro
-pda
+## II-17. Misura di piccoli spessori mediante interferenza
 
-[foglio: 312] TA
-
-## II-17. MISURA DI PICCOLI SPESSORI MEDIANTE INTERFERENZA
-
-Quest'esperimento, come la seconda parte dell'Esperimento [I-15], usa la lunghezza d'onda della luce per misurare distanze molto brevi;
-
-è meglio svolgerlo dopo aver studiato il paragrafo 19-9.
-
+Quest'esperimento, come la seconda parte dell'Esperimento II-15, usa la lunghezza d'onda della luce per misurare distanze molto brevi; è meglio svolgerlo dopo aver studiato il paragrafo 19-9.
 Lastre di vetro molto piatte e accuratamente pulite, larghe circa 3 cm e lunghe 20 cm sono le più adatte.
-
 Collocate le due lastre sovrapposte sotto una sorgente di luce monocromatica. Le coppie che mostrano solo poche strisce chiare e scure sono abbastanza piane per il nostro uso.
-
 Una sorgente di luce monocromatica come una lampada al sodio è la più adatta; anche la luce da un tubo fluorescente a vetro trasparente dà dei buoni risultati. Se non è disponibile nè l'una nè l'altra, un filtro verde o giallo posto su un tubo fluorescente ordinario produrrà delle strisce che si possono contare.
-
-| — Varii materiali sottili come la fibra sottile di nylon usato nell'esperimento sulla legge di Coulomb, o della carta velina, possono venire misurati con questo dispositivo. Per ordini di grandezza di 10° *cm questo metodo è tanto preciso quanto un calibro micrometrico di precisione.
+Varii materiali sottili come la fibra sottile di nylon usato nell'esperimento sulla legge di Coulomb, o della carta velina, possono venire misurati con questo dispositivo. Per ordini di grandezza di $10^{-3}$ cm questo metodo è tanto preciso quanto un calibro micrometrico di precisione.
 
 Risposte alle domande
 
 Le strisce irregolari chiare e scure sono causate dall'interferenza tra la luce riflessa dalla superficie inferiore della lastra superiore e quella riflessa dalla superficie superiore della lastra inferiore; la distanza fra le due lastre varia da una zona all'altra lungo la superficie.
 
-Quando una striscia ne sostituisce un'altra, la lastra superiore è stata avvicinata alla inferiore di A/2.
+Quando una striscia ne sostituisce un'altra, la lastra superiore è stata avvicinata alla inferiore di $\lambda/2$.
 
 La distanza fra le lastre varia di mezza lunghezza d'onda tra due strisce luminose adiacenti.
 
 La gamma di spessori che si possono misurare con questo metodo è limitata dalla nostra capacità di risolvere e contare le strisce. Il limite inferiore è determinato dalla spianatura e dalla pulizia delle lastre.
 
 MATERIALE
-
-lastre di vetro spesso e ben piano, 20 cm × 5 cm × 1 cm elastici o
-lampada fluorescente (lunga almeno 25 cm) con accessori e cordone, o altra sorgente monocromatica
-materiali sottili; pezzetti lunghi circa 5 cm, larghi circa 1 cm, spessore da 0.002 a 0.006 cm
-
-1 doppio decimetro
-calibro micrometrico
+- 2 lastre di vetro spesso e ben piano, 20 cm × 5 cm × 1 cm
+- 2 elastici
+- 1 lampada fluorescente (lunga almeno 25 cm) con accessori e cordone, o altra sorgente monocromatica
+- materiali sottili; pezzetti lunghi circa 5 cm, larghi circa 1 cm, spessore da 0.002 a 0.006 cm
+- 1 doppio decimetro
+---
+- calibro micrometrico
 
