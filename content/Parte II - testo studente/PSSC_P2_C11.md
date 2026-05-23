@@ -8,7 +8,7 @@ Le onde incontrano una barriera e si riflettono allo stesso modo in cui la luce 
 
 La MAGGIOR PARTE delle informazioni che riceviamo ci viene trasmessa attraverso la vista. Fin dall'inizio della storia, la natura della luce ha intrigato gli uomini. Le domande che ponevano erano probabilmente le stesse che fanno a voi. Cos'è la luce? Come si propaga e con che velocità? Bisogna sempre credere a ciò che si vede? Perché alcuni oggetti sono colorati, altri sono o scuri?
 
-# 11-1. Fonti di luce
+## 11-1. Fonti di luce
 
 Chiunque abbia trascorso una notte senza luna nel campo, in una foresta o sul mare, sa quanto buio può diventare quando il Sole è dall'altra parte della Terra. All'alba, iniziano a prendere forma oggetti che, pochi minuti prima, non potevamo distinguere. Poi, i dettagli si delineano, i colori compaiono e si accendono, e arriva la luce del giorno. È il Sole che sorge sull'orizzonte, a est, che porta con sé la luce, che dà forma, dettaglio e colore al nostro mondo.
 
