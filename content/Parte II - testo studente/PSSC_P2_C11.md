@@ -5,7 +5,7 @@ title: Capitolo 11 - Comportamento della luce
 
 La MAGGIOR PARTE delle informazioni che riceviamo ci viene trasmessa attraverso la vista. Fin dall'inizio della storia, la natura della luce ha intrigato gli uomini. Le domande che ponevano erano probabilmente le stesse che fanno a voi. Cos'è la luce? Come si propaga e con che velocità? Bisogna sempre credere a ciò che si vede? Perché alcuni oggetti sono colorati, altri sono o scuri?
 
-## 11-1. Fonti di luce
+## 11-1. Sorgenti luminose
 
 Chiunque abbia trascorso una notte senza luna nel campo, in una foresta o sul mare, sa quanto buio può diventare quando il Sole è dall'altra parte della Terra. All'alba, iniziano a prendere forma oggetti che, pochi minuti prima, non potevamo distinguere. Poi, i dettagli si delineano, i colori compaiono e si accendono, e arriva la luce del giorno. È il Sole che sorge sull'orizzonte, a est, che porta con sé la luce, che dà forma, dettaglio e colore al nostro mondo.
 
@@ -23,7 +23,7 @@ Gran parte della luce che raggiunge i nostri occhi proviene da superfici non lum
 
 Se le pareti e altre superfici fossero rivestite con una vernice così nera e opaca da non riflettere alcuna luce. Le luci apparirebbero come focosi brillanti su sfondi scuri. Se la Terra non avesse atmosfera per riflettere o diffondere la luce del Sole, queste e le stelle potrebbero essere viste simultaneamente contro un cielo completamente nero. I soffitti bianchi e le pareti chiare riflettono e diffondono gran parte della luce che ricevono, aumentando, quindi, la luminosità all'interno della stanza. In realtà, quando usiamo luce indiretta, nascondiamo le lampade dalla vista, e tutta la luce ci raggiunge dopo essere stata diffusa dalle pareti e dal soffitto. Su scala maggiore, la Luna, che spesso consideriamo una fonte notturna di luce, è in realtà un dispositivo di luce indiretta, che riflette la luce solare. Considerando questo fatto, può spiegarmi le fasi lunari, cioè i cambiamenti nell'aspetto della Luna nel corso di un mese? Può spiegarmi perché la Luna Piena si eleva approssimativamente al tramonto, e perché la Luna Nuova si eleva approssimativamente all'alba?
 
-## 11-2. Materiali trasparenti, colorati e opachi
+## 11-2. Sostanze trasparenti, colorate e opache
 
 Quando si guarda attraverso un vetro pulito, il panorama esterno, in una giornata limpida, è difficile accorgersi che c'è un vetro interposto. Le sostanze che trasmettono la luce in questo modo sono chiamate trasparenti. Più tardi, al crepuscolo, guardi attraverso lo stesso vetro, dall'interno di una stanza illuminata. Oltre il mondo esterno, si vedono, ora, riflessi sul vetro,
 

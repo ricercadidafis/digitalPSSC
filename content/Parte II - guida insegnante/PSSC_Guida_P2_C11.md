@@ -15,7 +15,7 @@ Questo capitolo può venir inteso nella giusta prospettiva ricordando l’obiett
 
 (a) Come viene emessa la luce? Da quali tipi di materiali proviene?
 
-Paragrafo 1 - Sorgenti luminose
+[[PSSC_P2_C11#11-1. Fonti di luce|Paragrafo 1 - Sorgenti luminose]]
 
 (b) Che cosa succede se la luce colpisce un oggetto? Vi penetra? Lo attraversa? Vi rimbalza?
 
