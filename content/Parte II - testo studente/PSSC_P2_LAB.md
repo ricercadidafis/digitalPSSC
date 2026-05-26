@@ -1,3 +1,6 @@
+---
+title: Laboratorio - Parte II
+---
 # Guida di laboratorio - Parte II
 
 ## II-1. Riflessione in uno specchio piano
