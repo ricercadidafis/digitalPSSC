@@ -3,7 +3,7 @@ title: Laboratorio - Parte II
 ---
 # Guida di laboratorio - Parte II
 
-## II-1. Riflessione in uno specchio piano
+## II-1. Riflessione su uno specchio piano
 
 Tenere una matita verticalmente a distanza dal braccio teso. Con l'altra mano, tenere un'altra matita approssimativamente 15 cm più vicina a te rispetto alla precedente. Senza modificare la posizione delle matite, guardare loro mentre si muove la testa da un lato all'altro. In che direzione sembra spostarsi la matita più vicina, relativamente a quella che è dietro di lei, quando si muove la testa verso sinistra? Avvicinare, quindi, le due matite e osservare il movimento relativo apparente tra loro, mentre si muove la testa. In che posizione devono trovarsi le matite affinché non ci sia movimento relativo, apparente, cioè, affinché non ci sia parallasse, tra loro?
 
@@ -77,7 +77,7 @@ Potete prognosticare quale sarà la variazione di direzione se la luce attravers
 
 Ripetete l'esperimento, con un altro liquido nel contenitore, e rappresentate graficamente i rapporti tra i seni degli angoli. Questo liquido rifrange la luce in modo diverso dall'acqua?
 
-## II-4. Immagini prodotte da una lente convergente
+## II-4. Immagini formate da una lente convergente
 
 Guardate un oggetto attraverso una lente convergente. L'immagine che vedete è più grande o più piccola dell'oggetto? È diritta o invertita? La dimensione e la posizione dell'immagine si modificano quando spostate la lente rispetto all'oggetto?
 
@@ -132,7 +132,7 @@ come la riflessione proveniente da una camicia bianca o della luce dell'apparecc
 
 Puoi usare l'apparecchio per determinare se una lampadina da 60 watt è una fonte quattro volte più intensa di una lampadina da 15 watt?
 
-## II-7. Onde su una molla a spirale
+## II-7. Onde in una molla elicoidale
 
 Avete probabilmente visto tipi di onde, non avendo però realizzato esperimenti con esse. Con la presente esperienza, inizierete uno studio dettagliato delle onde.
 
@@ -159,12 +159,13 @@ Attaccare un filo, lungo e sottile, a una molla ([[Figure/Fig_Lab_2_09.png|Fig. 
 
 ![Fig. 9](Figure/Fig_Lab_2_09.png)
 
-## II-8. Impulsi in una vasca d'onde
+## II-8. Gruppi d'onde in una vaschetta per onde superficiali
 
-Montare una vasca d'onde, un pannello di fondo e una fonte di luce, come indicato nella [[Figure/Fig_Lab_2_10.png|Fig. 10]]. Riempire la vasca d'acqua fino a un'altezza di $\frac{1}{2}$ a $\frac{3}{4}$ cm e misurare questa altezza nei quattro angoli, per assicurarsi che il recipiente sia livellato.
+Montare una vasca d'onde, un pannello di fondo e una fonte di luce, come indicato nella [[Figure/Fig_Lab_2_10a.png|Fig. 10a]]. Riempire la vasca d'acqua fino a un'altezza di $\frac{1}{2}$ a $\frac{3}{4}$ cm e misurare questa altezza nei quattro angoli, per assicurarsi che il recipiente sia livellato.
 
-![Fig. 10 (Il dettaglio mostra come deve essere posizionato l'ammortizzatore)](Figure/Fig_Lab_2_10.png)
+![Fig. 10a](Figure/Fig_Lab_2_10a.png)
 
+![Fig. 10b](Figure/Fig_Lab_2_10b.png)
 Si dispone, ora, di uno strumento molto comodo per studiare il comportamento delle onde;
 
 Questo presenta un vantaggio rispetto alla molla elicoidale, poiché la direzione di propagazione delle onde non è limitata a una linea.
@@ -180,7 +181,7 @@ Curvare un pezzo di tubo di gomma, di grande diametro,
 
 Come mostra la [[Figure/Fig_Lab_2_11.png|Fig. 11]]. La forma che le viene data è molto vicina a quella di una parabola. Cosa osserva quando usa questo tubo, nel bacino, come una superficie riflettore di pulsazioni rettilinee? Localizzi il fuoco della parabola a partire dalla riflessione delle pulsazioni rettilinee e segnali il punto sul pannello. Tenta di seguire il movimento di vari piccoli segmenti del impulso. Come indicherebbe la direzione del movimento di ogni segmento? 2 Come si relaziona il suo modo di indicarlo con i raggi di luce? I raggi che rappresentano la direzione iniziale dell'impulso sono paralleli?
 
-![Fig. 11](Figure/Fig_Lab_2_11.png)
+![Fig. 11|400](Figure/Fig_Lab_2_11.png)
 
 Produca pulsazioni circolari nel fuoco della parabola. Qual è la forma dell'impulso riflesso? Ci sono altri punti che forniranno lo stesso risultato? Per spiegare le sue osservazioni, cosa deve supporre riguardo alla relazione tra gli angoli di incidenza e di riflessione?
 
@@ -200,7 +201,7 @@ Esegui diverse misurazioni della frequenza e della lunghezza d'onda, e calcola l
 
 La figura delle onde può essere fermata posizionando un ostacolo nel mezzo della vasca, come indica la [[Figure/Fig_Lab_2_13.png|Fig. 13]]. Le onde incidenti e riflesse si sovrappongono per dare una figura stazionaria — cioè, un'onda stazionaria. Come si confronta la distanza tra due frange luminose nell'onda stazionaria con la distanza nell'onda in movimento? Puoi misurare la lunghezza d'onda a partire dalla figura delle onde stazionarie?
 
-![Fig. 13](Figure/Fig_Lab_2_13.png)
+![Fig. 13|400](Figure/Fig_Lab_2_13.png)
 
 Puoi verificare una modifica della velocità, quando l'altezza dell'acqua è modificata: Ra per approssimativamente 2 cm?
 
@@ -218,13 +219,13 @@ Aggiungere altra acqua nel recipiente, osservando che l'altezza sopra la lastra 
 
 Cosa accadrà se onde periodiche rette, originate nell'acqua profonda, passano nell'acqua più bassa, se il limite tra i due mezzi è parallelo al generatore di onde ([[Figure/Fig_Lab_2_14.png|Fig. 14]])? Verificare la previsione, considerando onde di frequenza molto bassa e usando uno stroboscopio.
 
-![Fig. 14](Figure/Fig_Lab_2_14.png)
+![Fig. 14|400](Figure/Fig_Lab_2_14.png)
 
 Ruotare, quindi, la lastra di vetro, in modo che il limite non sia più parallelo alle onde incidenti ([[Figure/Fig_Lab_2_15.png|Fig. 15]]).
 
 Le onde rifratte sono rette? Come si confronta l'angolo di rifrazione con l'angolo di incidenza? Come si confrontano le lunghezze d'onda nelle due sezioni? E, per quanto riguarda le velocità? Lasciando il generatore in funzione (per mantenere la frequenza costante), sperimentate altri angoli di incidenza.
 
-![Fig. 15](Figure/Fig_Lab_2_15.png)
+![Fig. 15|400](Figure/Fig_Lab_2_15.png)
 
 Considerando in quale mezzo la velocità della luce è maggiore, un modello ondulatorio si adatta meglio alla rifrazione della luce di un modello corpuscolare?
 
@@ -236,7 +237,7 @@ Un oggetto opaco, posto nel percorso di un fascio parallelo di luce, proietterà
 
 Posizionare, nella vasca d'onde, un blocco di paraffina, piccolo e liscio, a circa 10 cm dal generatore di onde rette ([[Figure/Fig_Lab_2_16.png|Fig. 16]]), e produrre onde periodiche di elevata lunghezza d'onda. Le onde continuano il loro percorso rettilineo, su entrambi i lati del blocco? Sarebbe in grado di sospettare la presenza del blocco osservando la figura solo nelle vicinanze dell'estremità più lontana del pannello? Il blocco proietta un'ombra nitida?
 
-![Fig. 16](Figure/Fig_Lab_2_16.png)
+![Fig. 16|400](Figure/Fig_Lab_2_16.png)
 
 Qual è l'effetto sulla figura, dietro il blocco, quando la lunghezza d'onda è ridotta dall'aumento della frequenza? (Per ottenere onde nitide ad alta frequenza, il generatore deve avere una superficie molto liscia. Assicurarsi che non ci siano bolle nel suo estremo). Per frequenze elevate, la figura è meglio visibile, osservandola attraverso uno stroboscopio con tutte le tende scoperte. In quali circostanze si aspetterebbe un'ombra nitida proiettata dal blocco?
 
@@ -244,11 +245,11 @@ Facciamo passare un fascio parallelo di luce attraverso una piccola apertura. Ma
 
 È possibile produrre una situazione analoga nella vasca d'onde ([[Figure/Fig_Lab_2_17.png|Fig. 17]]). Le onde di grande lunghezza d'onda sono ancora dritte, oltre la fessura? Le onde continuano a muoversi nella loro direzione primitiva? Cosa succede se si diminuisce, poco a poco, la lunghezza d'onda? Mostrare, in alcuni disegni, come si modifica la figura.
 
-![Fig. 17](Figure/Fig_Lab_2_17.png)
+![Fig. 17|400](Figure/Fig_Lab_2_17.png)
 
 Ora che si è osservato l'effetto della lunghezza d'onda sulla figura d'onde dietro la fessura, come sarà influenzata la figura con la variazione della larghezza della fessura? Sperimentarlo con una lunghezza d'onda media. Come si deve regolare la lunghezza d'onda per compensare la modifica nella figura?
 
-## II-12. Onde da due sorgenti puntiformi
+## II-12. Onde generate da due sorgenti puntiformi
 
 Cosa accadrà se due sorgenti puntiformi, vicine, generano onde periodiche di uguale frequenza? Eseguire l'esperimento nella vasca d'onde,
 
@@ -287,7 +288,7 @@ Avendo regolato le frequenze affinché siano uguali, muova gli estremi dei fili.
 Quando le onde avranno raggiunto l'estremità della vasca, fermi brevemente un filo e muovalo di nuovo. Ha alterato la fase delle due fonti? Continui ad agitare gli estremi dei supporti alternativamente. Cosa succede alle linee nodali?
 Cosa si aspetterebbe di vedere se potesse modificare, molto rapidamente, la fase delle due fonti?
 
-## II-14. Esperimento di Young
+## II-14. L'esperimento di Young
 
 Abbiamo già verificato la figura di interferenza prodotta, in una vasca d'onde, da due fonti puntuali. Se osserviamo due fonti di luce in fase, ci aspettiamo di vedere, in certe direzioni, luce di intensità massima e, nessuna luce in altre direzioni (le assenze delle linee nodali). A partire dalla direzione delle linee nodali e dalla distanza tra le fonti, possiamo calcolare la lunghezza d'onda della luce.
 
@@ -321,7 +322,7 @@ Confrontate i diagrammi ottenuti con doppie fessure e singole fessure. Usate luc
 
 È estremamente difficile misurare direttamente la larghezza delle fessure. È possibile, tuttavia, determinarla a partire dal valore che avete trovato per la lunghezza d'onda della luce rossa e dalla teoria dell'interferenza attraverso una singola fessura.
 
-## II-16. Risoluzione
+## II-16. Potere risolutivo
 
 Possiamo studiare la risoluzione qualitativamente guardando, attraverso piccole aperture, due piccole fonti di luce, vicine tra loro. Le fonti di luce possono essere minuscoli orifizi fatti su una foglia di alluminio posta di fronte alla lampada di una vasca d'onde,
 
@@ -337,9 +338,9 @@ Qual sarebbe l'aspetto delle sorgenti se fossero più grandi, ma la distanza tra
 
 ![Figura 23. Per ottenere le sorgenti, faccia con un ago, su un foglio di alluminio, due fori distanziati di circa 3/4 cm. Posizionare il foglio direttamente di fronte al filamento della lampada da 150 watt. La figura a sinistra mostra i fori attraverso i quali vengono esaminate le fonti. Per fare questi fori, pizzicare una striscia di foglio di alluminio con la punta di un ago, in modo che il foro più grande abbia lo spessore dell'ago, e quello più piccolo sia appena sufficiente per far passare la luce.](Figure/Fig_Lab_2_23.png)
 
-![Figura 24](Figure/Fig_Lab_2_24.png)
+![Figura 24|400](Figure/Fig_Lab_2_24.png)
 
-## II-17. Misura di piccole distanze per interferenza
+## II-17. Misura di piccoli spessori mediante interferenza
 
 Uno strato sottile d'aria tra due lastre di vetro produce effetti di luce simili a quelli visti in una bolla di sapone. Per verificarlo, posizionare, su uno sfondo nero, due lastre di vetro, recentemente pulite, lunghe circa 20 cm. Oscurare la stanza e illuminare la lastra con luce verde o gialla. Se le lastre di vetro sono ben piatte, si vedranno alcuni anelli irregolari di luce riflessa dal vetro. Cosa origina questi anelli?
 

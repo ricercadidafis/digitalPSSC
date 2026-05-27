@@ -1,9 +1,8 @@
 ---
 title: Laboratorio - Parte IV
 ---
-
 # Guida di laboratorio - Parte IV
-## IV-1. OGGETTI ELETTRIZZATI
+## IV-1. Corpi elettrizzati
 
 Durante il XVIII secolo, molte cose sono state scoperte riguardo al comportamento qualitativo delle cariche elettriche. Sostanze comuni, come il vetro, sono state strofinate con diversi tipi di tessuto per produrre cariche elettriche. Lei stesso può scoprire il comportamento delle cariche, strofinando con lana e con cotone, strisce di plastica facilmente caricabile.
 
@@ -25,7 +24,7 @@ Qual sarebbe il risultato di una modifica dei nomi che avete dato alle cariche c
 
 Cosa succede quando mantenete un nastro carico vicino a piccoli pezzi di carta o spago scarichi?
 
-## IV — 2. INDUZIONE ELETTOSTATICA
+## IV-2. Induzione elettrostatica
 
 Sapete, dall'esperienza quotidiana, che le cariche elettriche non si muovono facilmente in sostanze come il vetro, la ceramica e le plastiche. Queste sono denominate isolanti.
 Altre sostanze, per lo più metalli, nelle quali le cariche elettriche si muovono facilmente, sono chiamate conduttori. Nel presente esperimento, voi investigherete le conseguenze del libero movimento delle cariche in un conduttore.
@@ -43,16 +42,14 @@ Rimuovere la plastica e usare l'alluminio caricato per verificare se c'è carica
 
 Il pezzo di alluminio che avete usato fornisce un'indicazione della presenza e del segno di una carica, ma non è adatto per misurare la quantità di carica. Per misurare quantità di carica, un elettroscopio è migliore di un pezzo di alluminio. Ripetere l'ultima parte dell'esperimento, utilizzando un elettroscopio invece dei due bastoni e dell'alluminio.
 
-## IV-3. LA FORZA TRA DUE SFERE CARICATE
+## IV-3. La forza che si esercita tra due sfere cariche
 
 La forza tra corpi elettricamente carichi dipende dalla distanza tra essi e dal valore delle loro cariche. La natura di questa dipendenza può essere determinata quantitativamente attraverso vari processi. In questa esperienza misureremo la forza che agisce su un corpo carico, bilanciandola con una forza nota: la forza di gravità. Possiamo sospendere una piccola sfera carica in un filo isolante e avvicinarvi un'altra sfera carica. Considerando lo scostamento della sfera sospesa rispetto alla verticale, possiamo misurare la forza elettrica che vi è esercitata, in funzione del suo peso. Sospendete una sfera conduttrice, A, molto leggera, all'estremità di una "V" di filo di nylon molto sottile, in modo che possa oscillare in un unico piano verticale ([[Figure/Fig_Lab_3_02.png|Fig. 2]]). Posizionate una fonte di luce in modo da proiettare l'ombra della sfera su una scala millimetrata. Leggete, sulla scala, la posizione di uno dei bordi dell'ombra della sfera sospesa.
 
 ![Figura 2](Figure/Fig_Lab_4_02.png)
 
 Caricate la sfera per induzione e avvicinatevi un'altra sfera B, anch'essa di A. Non tenete direttamente la sfera B; infilateci un puntino e infilate il puntino su un piccolo bastoncino di paraffina, che è un buon isolante, e tenete il bastoncino in piedi con un morsetto per vestiti, come indicato nella [[Figure/Fig_Lab_3_02.png|Fig. 2]].
-Fate le letture delle due ombre sulla scala, per diverse posizioni delle sfere, man mano che avvicinate B ad A, lungo una linea che si trova nel piano di oscillazione di A. Assicuratevi di usare lo stesso bordo di ciascuna sfera, [testo probabilmente interrotto].
-
-tutte le volte che legge la sua posizione (P_1 e P_2 nella [[Figure/Fig_Lab_3_02.png|Fig. 2]]).
+Fate le letture delle due ombre sulla scala, per diverse posizioni delle sfere, man mano che avvicinate B ad A, lungo una linea che si trova nel piano di oscillazione di A. Assicuratevi di usare lo stesso bordo di ciascuna sfera, tutte le volte che legge la sua posizione (P_1 e P_2 nella [[Figure/Fig_Lab_3_02.png|Fig. 2]]).
 
 Può accadere che la carica delle sfere scorra lentamente attraverso la superficie del filo e del supporto isolante, introducendo così un errore nell'esperimento. Come può testare questa perdita? In quale momento farebbe il test? Mentre fa le misurazioni o alla fine?
 
@@ -68,7 +65,7 @@ Poiché non siamo interessati a considerare unità speciali di forza, possiamo m
 
 Fare un grafico della forza in funzione della distanza tra le due sfere (osservare che la distanza tra le due ombre è proporzionale alla distanza tra le due sfere). Come si relaziona la forza, quando la distanza è $r$, con la forza, quando la distanza vale $\frac{1}{2} r$, $\frac{2}{3} r$? Che tipo di dipendenza suggerisce questo? Fare un grafico per testarlo.
 
-## IV-4. LA SOMMA DI FORZE ELETTRICHE
+## IV-4. Come si sommano le forze elettrostatiche
 
 Supponiamo che due sfere cariche, A e B, vengano avvicinate a una terza sfera carica C. Come si relaziona la forza esercitata su C congiuntamente da A e B, con le forze dovute a A e B isolatamente?
 
@@ -79,7 +76,7 @@ Illuminando le sfere dall'alto ([[Figure/Fig_Lab_3_04.png|Fig. 4]]), possiamo de
 
 I supporti delle sfere mobili A e B ([[Figure/Fig_Lab_3_04.png|Fig. 4]]) sono inclinati per facilitare la localizzazione del centro delle loro ombre. Segnare il centro dell'ombra della sfera sospesa quando pende verticalmente.
 
-Caricare le tre sfere con cariche uguali. Mantenendo A ben distante, avvicinare B a C, in modo che questa si sposti di alcuni centimetri dalla verticale. Quanto ci allontanerebbe una sfera carica, [testo probabilmente interrotto].
+Caricare le tre sfere con cariche uguali. Mantenendo A ben distante, avvicinare B a C, in modo che questa si sposti di alcuni centimetri dalla verticale. Quanto ci allontanerebbe una sfera carica.
 
 Quando si sta misurando solo l'effetto dell'altra? Segnare le coordinate delle ombre delle sfere B e C. (Perché non segnare direttamente sulla carta le posizioni dell'ombra della sfera sospesa C?). Rimuovere ora B e provocare uno spostamento di C usando la sfera R; registrare le posizioni delle ombre. Utilizzare ora entrambe le sfere mobili per spostare C di alcuni centimetri. Prima di esaminare i vostri dati, verificare se si è verificata una perdita apprezzabile di carica. Se ciò è accaduto, ripetere l'esperimento, lavorando il più rapidamente possibile, per rendere minima la perdita di carica.
 
@@ -87,7 +84,7 @@ Valendo la legge dell'inverso del quadrato, è possibile calcolare, per qualsias
 
 Se si dispone di tempo, ripetere l'esperimento, utilizzando altre posizioni per le sfere mobili.
 
-## IV-5. DIFFERENZA DI POTENZIALE
+## IV-5. Differenza di potenziale
 
 Piccole differenze di potenziale, come quelle fornite da batterie, possono essere misurate tramite un eletroscopio sensibile, chiamato "dosimetro". L'elemento mobile del dosimetro è una fibra conduttrice, estremamente fine, che viene respinta dal suo supporto conduttore quando carica. La posizione della fibra, ingrandita da lenti di aumento, viene letta su una scala interna (Manuale di testo, Sezione 27-6).
 
@@ -107,13 +104,15 @@ Collegare la batteria per caricare le lastre; scollegarle e osservare la velocit
 
 Ripetete questa procedura con le lastre collegate alla batteria. Cosa ne conclude?
 
-## IV-6. LA CARICA TRASPORTATA DAGLI IONI IN SOLUZIONE
+## IV-6. Carica trasportata dagli ioni in soluzione
 
 Quando due elettrodi di rame sono posti in una soluzione diluita di acido solforico, e collegati a una fonte di corrente, si formano bolle di gas idrogeno sull'elettrodo negativo (catodo), che salgono fino alla superficie. Se pesiamo l'elettrodo positivo (anodo), prima e dopo il passaggio della corrente, verificheremo che ha perso massa, indicando che parte di rame è passata nella soluzione. Devono formarsi evidentemente ioni di idrogeno e rame per trasportare le cariche elettriche attraverso la soluzione. Nella presente esperienza, misureremo la quantità di carica trasportata da ogni ione di idrogeno e rame.
 
 La [[Figure/Fig_Lab_3_07.png|Fig. 7]] indica il montaggio dell'apparecchio. Posizionare, nel recipiente, un litro d'acqua, misurato in una provetta graduata. Aggiungere, lentamente, mentre si agita leggermente l'acqua, una quantità sufficiente di acido solforico concentrato, in modo da formare una soluzione contenente approssimativamente $5 \text{ cm}^2$ di acido concentrato per ogni $100 \text{ cm}^2$ d'acqua. Entrambi, acido solforico concentrato e diluito, sono molto corrosivi! Prestare attenzione!
 
-![Figura 7 — Posizionare nel collo del flacone il catodo collegato a un filo isolato. Introdurre anche il tubo di aspirazione, che deve essere sufficientemente lungo per raggiungere il fondo del flacone. Invertire il flacone e mantenerlo, tramite un anello, con la bocca vicina al foro del recipiente.Riempire, ora, il flacone con la soluzione il più completamente possibile, aspirando attraverso il tubo di aspirazione. Pulire l'anodo di rame, pesarlo e posizionarlo come indicato dalla figura. Collegare gli elettrodi, un amperometro e un reostato, a una fonte di corrente ([[Figure/Fig_Lab_3_08.png|Fig. 8]]). Far attraversare la soluzione da una corrente di cinque ampere, finché il suo livello nel flacone non è uguale al livello nel recipiente, segnando attentamente l'intensità della corrente e il tempo durante il quale ha percorso la soluzione. Prestare attenzione a mantenere costante l'intensità della corrente durante tutta l'operazione. Quante cariche elementari attraversano la soluzione?](Figure/Fig_Lab_4_07.png)
+![Figura 7 — Posizionare nel collo del flacone il catodo collegato a un filo isolato. Introdurre anche il tubo di aspirazione, che deve essere sufficientemente lungo per raggiungere il fondo del flacone. Invertire il flacone e mantenerlo, tramite un anello, con la bocca vicina al foro del recipiente. Riempire, ora, il flacone con la soluzione il più completamente possibile, aspirando attraverso il tubo di aspirazione. Pulire l'anodo di rame, pesarlo e posizionarlo come indicato dalla figura. Collegare gli elettrodi, un amperometro e un reostato, a una fonte di corrente](Figure/Fig_Lab_4_07.png)
+
+Far attraversare la soluzione da una corrente di cinque ampere, finché il suo livello nel flacone non è uguale al livello nel recipiente, segnando attentamente l'intensità della corrente e il tempo durante il quale ha percorso la soluzione. Prestare attenzione a mantenere costante l'intensità della corrente durante tutta l'operazione. Quante cariche elementari attraversano la soluzione?](Figure/Fig_Lab_4_07.png)
 
 ![Figura 8](Figure/Fig_Lab_4_08.png)
 
@@ -132,7 +131,7 @@ Come si potrebbe dimostrare che, per ogni sostanza, a è la massa dello ione, di
 
 Si deposita nel catodo il rame proveniente dall'anodo? Come influenzerebbe questo i suoi risultati?
 
-## IV-7. IL CAMPO MAGNETICO DI UNA CORRENTE
+## IV-7. Il campo magnetico generato da una corrente
 
 Posizionare una bussola accanto a un filo elettrico lungo e collegare, per un momento, le estremità del filo ai terminali di una pila secca. L'ago della bussola si devia. Il passaggio della corrente produce, evidentemente, un campo magnetico che devia l'ago della bussola. Come possiamo determinare la relazione tra l'orientazione e il modulo di un campo magnetico e la corrente che lo produce? L'orientazione del campo è indicata dalla bussola, perché l'ago assume la direzione del campo; il modulo può essere misurato confrontandolo con il campo costante della Terra.
 
@@ -163,7 +162,7 @@ Un altro modo per variare l'intensità della corrente che percorre la spirale co
 
 conclusioni che avete raggiunto, nella parte iniziale dell'esperimento, riguardo l'intensità del campo in funzione della corrente?
 
-## IV-8. IL CAMPO MAGNETICO NELLE PROSSIMITÀ DI UN LUNGO FILO RETILINEO
+## IV-8. Il campo magnetico in vicinanza di un lungo filo rettilineo
 
 Nell'esperimento precedente, abbiamo usato una bussola per determinare il campo magnetico al centro di una spirale. Useremo, ora, lo stesso metodo per determinare il campo nelle prossimità di un lungo filo retilineo. Verificheremo come l'intensità del campo dipende dalla distanza dal filo. Collocate un filo conduttore, lungo, rettilineo come indicato dalla [[Figure/Fig_Lab_3_12.png|Fig. 12]] (deve rimanere esattamente verticale, fissato al bordo del tavolo con un pezzo di nastro adesivo). Accanto al filo, sul tavolo, posizionare un foglio di carta millimetrata (sarà parallelo alla componente orizzontale del campo magnetico terrestre). Su questo foglio millimetrato posizionare una bussola.
 
@@ -188,7 +187,7 @@ Montare due fili paralleli verticali, separati da una distanza di 20 cm approssi
 
 Come spiega i risultati ottenuti?
 
-## IV-9. MISURA DI UN CAMPO MAGNETICO IN UNITÀ FONDAMENTALI
+## IV-9. Misura di un campo magnetico in unità fondamentale
 
 Nell'esperimento precedente, abbiamo misurato l'intensità del campo magnetico in termini della componente orizzontale del campo magnetico terrestre. Misureremo, nell'esperimento presente, campi magnetici in unità fondamentali, basandoci sul fatto che un campo "magnetico esercita una forza su un filo conduttore percorso da corrente. Se misuriamo la forza $F$ in newton, l'intensità $I$ della corrente in ampere, e la lunghezza $L$ del filo in metri, l'intensità del campo, $B$, in $\frac{\text{newton}}{\text{ampere}\cdot\text{metro}}$, sarà data da:
 
@@ -206,9 +205,7 @@ Determiniamo, in questo esperimento, l'intensità del campo magnetico al centro 
 
 ![Figura 14](Figure/Fig_Lab_4_14.png)
 
-Senza corrente che percorre l'apparecchio, inseriremo all'interno della bobina il lato della bilancia dove è attaccato il conduttore a forma di U ([[Figure/Fig_Lab_3_15.png|Fig. 15]]). Livellare la bilancia regolando la posizione della ghiera del bullone. Stabilire, quindi, con una corrente di circa 4 A, un campo magnetico al centro della bobina. È possibile misurare questo campo facendo passare per il conduttore della bilancia una corrente di circa 1 A, e determinando la forza necessaria per bilanciarla. Bilanciare grossolanamente la bilancia con un piccolo pezzo di filo e livellarla poi regolando esattamente la corrente che percorre il conduttore a forma di U (se questa corrente varia pronunciatamente quando la bilancia sta oscillando, [testo probabilmente interrotto])
-
-(I contatti sono usurati o mal fatti).
+Senza corrente che percorre l'apparecchio, inseriremo all'interno della bobina il lato della bilancia dove è attaccato il conduttore a forma di U ([[Figure/Fig_Lab_3_15.png|Fig. 15]]). Livellare la bilancia regolando la posizione della ghiera del bullone. Stabilire, quindi, con una corrente di circa 4 A, un campo magnetico al centro della bobina. È possibile misurare questo campo facendo passare per il conduttore della bilancia una corrente di circa 1 A, e determinando la forza necessaria per bilanciarla. Bilanciare grossolanamente la bilancia con un piccolo pezzo di filo e livellarla poi regolando esattamente la corrente che percorre il conduttore a forma di U (se questa corrente varia pronunciatamente quando la bilancia sta oscillando (I contatti sono usurati o mal fatti).
 
 ![Figura 15](Figure/Fig_Lab_4_15.png)
 
@@ -222,9 +219,9 @@ Potrebbe usare questo apparecchio per misurare il campo vicino a un piccolo magn
 
 Perché il conduttore attaccato alla bilancia non deve essere di ferro?
 
-Osservazione: Riservi i suoi dati. Ne avrà [testo probabilmente interrotto] nella prossima pratica.
+Osservazione: Riservi i suoi dati. Ne avrà nella prossima pratica.
 
-## IV-10, LA MASSA DELL'ELECTRON
+## IV-10. La massa dell'elettrone
 
 Un elettrone, inizialmente a riposo, viene accelerato in un campo elettrico e acquisisce un'energia cinetica pari al prodotto della sua carica per la differenza di potenziale attraverso la quale si muove: $\frac{mv^2}{2} = qV$. Se l'elettrone con velocità $v$ penetra quindi, in un campo magnetico uniforme, perpendicolare alla direzione del suo movimento.
 
@@ -252,11 +249,11 @@ D e D' sono gli elettrodi deflettori che formano l'ombra e A è l'anodo rivestit
 
 Questo è rivestito di un materiale fluorescente che emette luce quando gli elettroni lo colpiscono. Poiché ha una forma conica, possiamo vedere il percorso che gli elettroni seguono quando escono dal catodo. Visto dall'alto, l'anodo conico intercetta il fascio di elettroni diagonalmente, mostrando la posizione degli elettroni a diverse distanze dal catodo. Due elettrodi deflettori sono collegati al catodo e, in assenza di campo magnetico, respingono gli elettroni che si avvicinano da esso, provenienti dal catodo; dietro di essi si forma un'ombra a forma di cuneo ([[Figure/Fig_Lab_3_17.png|Fig. 17]]).
 
-Figura 17 — Lo schema a sinistra rappresenta l'ombra e il fascio radiale che ci aspettiamo di vedere quando non c'è campo magnetico nell'area. La fotografia (a destra) mostra la valvola in funzione, senza campo magnetico applicato; le due ombre strette sono causate dai fili che sostengono il disco centrale.
+![Figura 17 — Lo schema a sinistra rappresenta l'ombra e il fascio radiale che ci aspettiamo di vedere quando non c'è campo magnetico nell'area. La fotografia (a destra) mostra la valvola in funzione, senza campo magnetico applicato; le due ombre strette sono causate dai fili che sostengono il disco centrale.](Figure/Fig_Lab_4_17.png)
 
 Quando la valvola è in un campo magnetico uniforme parallelo al catodo, gli elettroni vengono deviati verso una traiettoria quasi circolare come indicato dalla curvatura dell'estremità dell'ombra ([[Figure/Fig_Lab_3_18.png|Fig. 18]]).
 
-Figura 18 — A sinistra è rappresentata la forma che ci aspettiamo che abbia il fascio, quando la valvola è sotto l'azione di un campo magnetico. La fotografia (a destra) mostra l'aspetto reale del fascio deviato da un campo magnetico.
+![Figura 18 — A sinistra è rappresentata la forma che ci aspettiamo che abbia il fascio, quando la valvola è sotto l'azione di un campo magnetico. La fotografia (a destra) mostra l'aspetto reale del fascio deviato da un campo magnetico.](Figure/Fig_Lab_4_18.png)
 
 Voi stabilirete un campo magnetico uniforme sulla valvola inserendola al centro di una bobina lunga. Collega la bobina e la valvola come indicato nella [[Figure/Fig_Lab_3_19a.png|Fig. 19a]].
 Applica all'anodo un potenziale tra 90 e 250 V. Varia la corrente che percorre la bobina, finché la curvatura del lato dell'ombra non ti sembra uguale a quella di qualche piccolo oggetto rotondo, il cui raggio possa essere facilmente misurato (ad esempio, una moneta o una matita).
@@ -268,7 +265,7 @@ Sarebbe possibile avvalersi del campo magnetico terrestre per deviare il fascio?
 
 ![Figura 19b - Circuito per bobina](Figure/Fig_Lab_4_19b.png)
 
-## IV-11. L'ACASO NEL DECADIMENTO RADIOATTIVO
+## IV-11. Distribuzione casuale nella disintegrazione radioattiva
 
 Le sostanze radioattive emettono particelle che possono essere contate da un contatore Geiger. Ogni "click" del contatore rappresenta il decadimento di un singolo nucleo atomico. Cosa possiamo scoprire riguardo alla velocità con cui un campione radioattivo decade?
 
@@ -278,13 +275,13 @@ Sommi, ora, il conteggio ottenuto nel secondo intervallo di 10 s al conteggio ot
 
 Qual sembra essere la relazione tra la precisione della misurazione della media di conteggio e il numero totale di conteggi utilizzati nel calcolo? Quale media di conteggio ti aspetteresti di trovare se contassi i "click durante due ore"? Aumenterebbe la tua precisione?
 
-Poiché solo una piccola frazione delle particelle emesse dal campione raggiungono il contatore, la media di conteggio che ottieni è molto inferiore alla media di disintegrazione del campione. Come calcoleresti il numero medio di atomi che si disinteggano ogni secondo?
+Poiché solo una piccola frazione delle particelle emesse dal campione raggiungono il contatore, la media di conteggio che ottieni è molto inferiore alla media di disintegrazione del campione. Come calcoleresti il numero medio di atomi che si disintegrano ogni secondo?
 
 Puoi determinare, a partire dalle tue misurazioni, il tempo di dimezzamento del campione?
 
 Puoi eseguire questa esperienza utilizzando una camera di nebbia e un campione radioattivo debole posizionato sulla punta di un ago all'interno della camera. Come è correlata la media di conteggio con la media di disintegrazione?
 
-## IV-12. COLLISIONI NUCLEARI SIMULATE
+## IV-12. Modello di collisioni nucleari
 
 Le collisioni nucleari sono spesso studiate in emulsioni fotografiche e in camere di nebbia. In questi dispositivi, particelle cariche, muovendosi a velocità elevate, ionizzano atomi lungo le loro traiettorie lasciando un tracciato visibile. L'energia per ionizzare gli atomi proviene dall'energia cinetica delle particelle cariche che, pertanto, perdono velocità. La distanza che una particella percorre nella camera prima di raggiungere il riposo si chiama raggio di penetrazione. Questo dipende dall'energia cinetica che la particella possiede quando entra nella camera. Lanciando, nella camera, particelle di energia nota conoscendo la relazione tra il raggio d'azione e l'energia, e servirci, quindi, di questa relazione per determinare le energie delle particelle, verificando i loro raggi d'azione. Possiamo, in questo modo, determinare le energie delle particelle che emergono da un nucleo in conseguenza di una collisione. Se le masse delle particelle sono note, possiamo, quindi, determinare le loro quantità di moto.
 
@@ -292,7 +289,7 @@ Esiste forte evidenza che la quantità di moto è conservata nelle collisioni nu
 
 Studierete, in questa esperienza, una situazione analoga a una collisione nucleare; le particelle saranno monete, e l'emulsione o camera di nebbia sarà un foglio di carta su cui le monete scivoleranno fino a raggiungere il riposo, per attrito. La distanza che una moneta percorre sul foglio (il suo raggio d'azione) dipende dalla sua energia cinetica. Al fine di determinare la relazione raggio d'azione-energia per una moneta, possiamo lanciarla lungo un pendio, da diverse altezze, dandole, di conseguenza, energie diverse ([[Figure/Fig_Lab_3_20.png|Fig. 20]]). Misuriamo, quindi, per ogni energia comunicata, la distanza percorsa dalla moneta fino a raggiungere il riposo. A partire dalla massa e dalla relazione raggio d'azione-energia, possiamo determinare la velocità e la quantità di moto che la moneta acquisisce in una collisione.
 
-![Figura 20](Figure/Fig_Lab_4_20.png)
+![Figura 20|400](Figure/Fig_Lab_4_20.png)
 
 Prima di simulare una collisione nucleare, dobbiamo determinare la relazione portata-energia per le monete. Scegliere tre monete che scivolino facilmente lungo il piano inclinato e che abbiano approssimativamente la stessa portata quando scivolano con lo stesso lato rivolto verso il basso. Lasciandole cadere da diverse altezze, determinare le distanze che percorrono sul foglio. Eseguire diverse prove per ogni altezza e annotare la portata media in ogni caso. Come si relaziona l'energia cinetica nella parte inferiore del piano inclinato con l'altezza di partenza? (Si può trascurare l'attrito sul piano inclinato ripido). Un grafico dell'energia cinetica in funzione della portata costituisce la relazione portata-energia.
 
@@ -302,7 +299,7 @@ La parte successiva dell'esperimento deve essere eseguita da un collega, mentre 
 
 Gli altri compagni di laboratorio determineranno, ora, la quantità di moto e la posizione finale del bersaglio che corrisponde a una particella atomica scaricata e che non lascia traccia. Vedere la [[Figure/Fig_Lab_3_21.png|Fig. 21]] per determinare la posizione della moneta incidente nell'istante della collisione. k
 
-![Figura 21](Figure/Fig_Lab_4_21.png)
+![Figura 21|400](Figure/Fig_Lab_4_21.png)
 
 Quale legge fondamentale avete ammesso nella determinazione della quantità di moto sconosciuta? Quale frazione dell'energia cinetica della moneta incidente viene persa in questa collisione?
 

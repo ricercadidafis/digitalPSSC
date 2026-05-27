@@ -1,21 +1,9 @@
 ---
 title: Laboratorio - Parte I
 ---
-# Indice
+# Guida di Laboratorio - Parte I
 
-**Parte I**
-
-- [[#I – 1. Piccoli intervalli di tempo]]
-- [[#I – 2. Grandi distanze]]
-- [[#I – 3. Piccole distanze]]
-- [[#I – 4. Analisi di un esperimento]]
-- [[#I – 5. Movimento velocità e accelerazione]]
-- [[#I – 6. Piccole masse]]
-- [[#I – 7. Spettri degli elementi]]
-- [[#I – 8. Strati molecolari]]
-- [[#I – 9. Scala naturale delle temperature]]
-
-# I – 1. Piccoli intervalli di tempo
+# I – 1. Brevi intervalli di tempo
 
 Tutti sanno cronometrare il tempo impiegato da un atleta per percorrere 100 metri. Basterebbe a questo scopo un normale orologio da polso con la lancetta dei secondi, a patto che fosse sufficiente una precisione ragionevole. Ma riusciresti, invece, a misurare il tempo impiegato dal martelletto vibrante di un campanello elettrico per completare una vibrazione? Collega una pila al campanello per alcuni secondi e prova!  
 ![Figura 1](Figure/Fig_Lab_01.png)
@@ -100,11 +88,14 @@ Come puoi esprimere la distanza BD in funzione della lunghezza della base BC, de
 Non è necessario, in pratica, che il punto di riferimento distante sia inizialmente allineato con l’oggetto. Puoi mirare al punto di riferimento come prima, e segnare la linea di vista verso l’oggetto con un puntatore (S₁ nella figura seguente). Spostati poi in direzione perpendicolare verso il punto di riferimento, mira nuovamente, e segna la direzione dell’oggetto con un secondo puntatore (S₂ nella figura). Dai triangoli simili ADC e $\theta_1C\theta_2$, puoi calcolare la distanza AD.
 
 Osserva che non è necessario che la linea base e la perpendicolare abbassata dall’oggetto si intersechino.  
-![Figura 10](Figure/Fig_Lab_10.png)
+![Figura 10a](Figure/Fig_Lab_10a.png)
+
+![Figura 10b](Figure/Fig_Lab_10b.png)
+
 
 Misura diverse distanze dell’ordine dei chilometri utilizzando differenti punti di riferimento. Quale tra queste misure ritieni la più precisa?
 
-# I – 3. Piccole distanze
+# I – 3. Piccole lunghezze
 
 Puoi misurare lo spessore di un cartoncino con un righello. Per lunghezze minori, le letture del righello diventano molto imprecise. Usare un righello per misurare lo spessore di un capello fornisce solo l’indicazione che è molto sottile — una nozione che già possiedi. Il micrometro ottico  
 ![Figura 11](Figure/Fig_Lab_11.png)  
@@ -163,7 +154,7 @@ Se ti è familiare l’uso dei logaritmi, puoi verificare se la relazione appart
 
 Puoi stabilire l’espressione generale per il tempo di svuotamento come funzione simultanea di $h$ e $d$? Calcola $t$ per $h = 20$ cm e $d = 4$ cm e confronta il risultato con quello ottenuto graficamente. Quale dei due consideri più affidabile?
 
-# I – 5. Movimento: velocità e accelerazione
+# I – 5. Moto: velocità e accelerazione
 
 Lo studio del movimento di un corpo richiede il rilevamento della sua posizione in istanti differenti, preferibilmente a intervalli di tempo uguali. Con questi dati, puoi analizzare un moto completamente irregolare — ad esempio, il movimento della tua mano mentre cammini.
 
@@ -200,7 +191,7 @@ Una volta preparate alcune masse uguali, calibra la tua scala posizionandole una
 
 ![Figura 14. Avvita la vite per circa metà della sua lunghezza in un’estremità della cannuccia. Determina approssimativamente, con il dito o con una matita, la posizione in cui la cannuccia resta in equilibrio. Fai passare un ago o uno spillo lungo attraverso la cannuccia in questo punto, appena sopra il suo asse longitudinale. (Se il punto di appoggio è al di sotto dell’asse, la cannuccia sarà instabile e non si equilibrerà). Taglia l’estremità opposta della cannuccia come mostrato in figura. Con l’ago sistemato correttamente, appoggialo trasversalmente sui bordi del supporto e regola la vite (avvitandola o svitandola) in modo che la cannuccia punti leggermente verso l’alto. Costruisci una scala subito dietro l’estremità lunga della cannuccia, come illustrato. Se il tutto è sistemato all’interno di una scatola, si ridurranno le deviazioni dovute alle correnti d’aria.](Figure/Fig_Lab_14.png)
 
-# I – 7. Spettri degli elementi
+# I – 7. Lo spettro degli elementi
 
 Tutti sanno che quando cade un po’ di zuppa o di latte su un becco a gas, la sua fiamma blu si trasforma in una miscela di colori, in cui predomina il giallo. Questi colori possono essere usati per identificare gli elementi contenuti nella sostanza versata sulla fiamma? Un buon modo per rispondere è osservare i colori prodotti, in condizioni simili, da sostanze note.
 

@@ -3,19 +3,19 @@ title: Laboratorio - Parte III
 ---
 # Guida di laboratorio - Parte III
 
-## III-1. Una Variante dell'Esperimento di Galileo
+## III-1. Una variante dell'esperimento di Galileo
 
 Galileo affermò che un oggetto, muovendosi orizzontalmente, continuerebbe animato da questo movimento, indefinitamente, con velocità costante (Testo, Sezione 20-2). Basò questa affermazione sulle osservazioni che fece che un oggetto è accelerato quando scende e è ritardato quando sale un piano inclinato, raggiungendo approssimativamente la stessa altezza da quella in cui si trovava all'inizio del movimento. Un'esperienza analoga può essere fatta con un pendolo, osservando la discesa del corpo da un lato dell'oscillazione e la sua ascesa dall'altro lato.
 
 Appendere un pendolo, di circa 3 m di lunghezza, sul soffitto o su un supporto adeguato. Fissare, mediante una pinza, un punto del filo situato a 40 o 50 cm sopra il corpo sospeso, in modo che l'oscillazione avvenga attorno a questo punto e non dal punto di sospensione sul soffitto. ([[Figure/Fig_Lab_3_01.png|Fig. 1]]). Portare il pendolo su un lato, in modo che rimanga a una determinata distanza $d$ sopra il livello più basso della sua traiettoria. Farlo oscillare. E confrontare le distanze percorse da un lato e dall'altro rispetto alla posizione più bassa. Confrontare il livello più alto raggiunto dopo averlo lasciato andare con l'altezza da cui era stato rilasciato.
 
-![Fig. 1 #inserire](Figure/Fig_Lab_3_01.png)
+![Fig. 1|300](Figure/Fig_Lab_3_01.png)
 
 Successivamente, invece di lasciare che il pendolo compia l'oscillazione completa normalmente, inserire un ostacolo e allontanare il pendolo dalla posizione di equilibrio in modo che compia la prima metà dell'oscillazione, a partire dall'ostacolo e la seconda a partire dalla pinza ([[Figure/Fig_Lab_3_02.png|Fig. 2]]).
 
 Cosa prevedete riguardo (a) la distanza orizzontale che il pendolo percorrerà quando lasciato, (b) il livello che raggiungerà? Sperimentatelo.
 
-![Fig. 2](Figure/Fig_Lab_3_02.png)
+![Fig. 2|300](Figure/Fig_Lab_3_02.png)
 
 Ripetete questa procedura variando la posizione della pinza. Determinate l'altezza raggiunta all'estremo dell'oscillazione e misurate, approssimativamente, la distanza dalla posizione centrale. Fate diverse misurazioni, per ogni lunghezza del pendolo. Assicuratevi che questo parta sempre dalla stessa posizione.
 
@@ -25,7 +25,7 @@ Cosa suggeriscono questi risultati riguardo una palla che si muovesse su una sup
 
 Pensate che il moto perpetuo sia possibile?
 
-## III-2. Variazioni di Velocità dovute a una Forza Costante
+## III-2. Variazioni nella velocità mediante una forza costante
 
 L'esperienza quotidiana ci mostra, qualitativamente, che dobbiamo applicare una forza per mettere un oggetto in movimento, o per modificare la sua velocità se è già in movimento; non siamo certi, tuttavia, della relazione quantitativa tra le variazioni di velocità e la forza che applichiamo. Questa relazione può essere investigata usando l'apparecchio indicato nella [[Figure/Fig_Lab_3_03.png|Fig. 3]]. Assicuratevi che l'ammortizzatore sia saldamente attaccato al tavolo, in modo da poter fermare un carrello pesante.
 
@@ -51,10 +51,9 @@ Usando quattro mattoni sul carrello e lo stesso elastico, ottenga un altro nastr
 
 La forza esercitata da lei è l'unica forza che agisce sul carrello?
 
-Quando ha accelerato una massa maggiore,\s
-a | l'accelerazione era maggiore o minore? |
+Quando ha accelerato una massa maggiore l'accelerazione era maggiore o minore?
 
-## III-3. Come Dipende l'Accelerazione dalla Forza e dalla Massa.
+## III-3. La dipendenza dell'accelerazione dalla forza e dalla massa
 
 La variazione della velocità di un oggetto è proporzionale all'intervallo di tempo durante il quale una forza costante esercita la sua azione su di esso.
 In altre parole, una forza uniforme produce un'accelerazione costante. Ciò è stato constatato nell'esperimento precedente. Ora investigheremo, quantitativamente, come forze diverse accelerano una certa massa, e come una data forza accelera masse diverse.
@@ -81,7 +80,7 @@ Considerando il grafico, può ottenere la massa del carrello vuoto in funzione d
 
 Utilizzando l'apparecchio, come determinerebbe la massa di un blocco di piombo di una pietra pesante? Sperimentatelo.
 
-## III-4. Massa inerziale e gravitazionale.
+## III-4. Massa inerziale e massa gravitazionale.
 
 La [[Figure/Fig_Lab_3_05.png|Fig. 5]] mostra la bilancia d'inerzia, che è un dispositivo semplice destinato a misurare la massa inerziale di diversi oggetti. La frequenza della sua vibrazione orizzontale dipende dalla massa inerziale degli oggetti posti sulla bilancia.
 
@@ -115,7 +114,7 @@ Il periodo sarebbe diverso se la bilancia d'inerzia fosse montata come indicato 
 
 Come potrebbe essere usato questo dispositivo per misurare l'accelerazione di un'automobile?
 
-## III-5. Forze esercitate su una palla nello spazio.
+## III-5. Forze agenti su una pallina in volo
 
 La [[Figure/Fig_Lab_3_09.png|Fig. 9]] è una fotografia a multipla esposizione del movimento di un proiettile. È stato fotografato il movimento di una piccola palla, lanciata in aria, con un angolo di 27º rispetto all'orizzontale. L'intervallo di tempo tra le esposizioni successive è stato di $\frac{1}{30}$ s, facendo spostare la palla, nella figura, da sinistra a destra. La traiettoria della palla assomiglia a quella descritta nella sezione 21-3 del libro di testo.
 
@@ -144,7 +143,7 @@ Come spiegate i percorsi seguiti dal proiettile nelle [[Figure/Fig_Lab_3_12.png|
 ![Fig. 11](Figure/Fig_Lab_3_11.png)
 ![Fig. 12](Figure/Fig_Lab_3_12.png)
 
-## III-6. Forza Centripeta.
+## III-6. Forza centripeta
 
 Il moto circolare con velocità costante in modulo costituisce un moto accelerato; sebbene il modulo della velocità rimanga lo stesso, la direzione del vettore velocità varia continuamente (Testo, Sezione 6-6). Sappiamo, dalla legge di Newton, che è necessaria una forza per mantenere questa accelerazione. Come si relaziona questa forza con la velocità dell'oggetto, la sua massa e il raggio del cerchio?
 
@@ -168,7 +167,7 @@ Per verificare la dipendenza tra la forza centripeta e la massa rotante, si poss
 
 Si osserverà che, mentre il rullo gira, la porzione di filo compresa tra il tubo e il rullo non rimane perfettamente orizzontale. La forza gravitazionale esercitata sul rullo lo tira verso il basso. Può capire perché questo effetto della forza gravitazionale non modifica la relazione tra la forza (misurata in numero di rulli), la lunghezza del filo tra il tubo e il rullo, e la frequenza di rivoluzione?
 
-## III-7. Legge delle Aree Uguali.
+## III-7. Legge delle aree
 
 Keplero scoprì che i pianeti seguono traiettorie ellittiche, e che una linea retta immaginaria, tracciata dal Sole a un pianeta, spazzerebbe aree uguali in intervalli di tempo uguali. Non possiamo eseguire esperimenti con i pianeti, ma possiamo sperimentare con un pendolo animato di movimento ellittico. L'estremità di un pendolo che oscilla su un piccolo arco si muove da un lato all'altro, lungo una linea approssimativamente orizzontale.
 
@@ -208,7 +207,7 @@ L'analisi di queste fotografie è simile a quella descritta nella sezione preced
 
 ![Fig. 19](Figure/Fig_Lab_3_19.png)
 
-## III-8. Variazioni della Quantità di Moto in un'Esplosione.
+## III-8. Variazioni della quantità di moto in una esplosione
 
 Due carrelli vengono spinti lontano l'uno dall'altro, partendo da riposo, a seguito dell'azione, tra loro, di una forza improvvisa — un'“esplosione”. Come si modificano le quantità di moto dei carrelli?
 
@@ -235,7 +234,7 @@ Qual è la modifica della quantità di moto di ogni carretto come conseguenza de
 
 Cosa accadrebbe alla quantità di moto totale dei vostri carretti se, invece di una molla, voi poneste tra di loro un blocco di dinamite, e i pezzi dei carretti si disperdessero in tutte le direzioni? (Non farlo!)
 
-## III- 9. Il Carretto e il Mattone.
+## III- 9. Il carrello e il mattone
 
 Cosa succede quando si fa cadere un mattone su un carretto in movimento, quando il carretto passa sotto il mattone? Appendete un mattone in modo che il carretto passi esattamente sotto di esso, senza toccarlo ([[Figure/Fig_Lab_3_22.png|Fig. 22]]).
 
@@ -254,7 +253,7 @@ Qual è l'impulso orizzontale applicato al mattone che cade? Esaminando le sue m
 Cosa è successo con la quantità di moto verticale del mattone? Farebbe la differenza se il mattone fosse lasciato cadere da altezze diverse, purché il carrello o il tavolo non venissero danneggiati?
 Cosa accadrebbe se, invece di far cadere il mattone, voi sospendeste un imbuto pieno di sabbia sopra il tavolo, e lasciaste che la sabbia scorresse all'interno di una scatola sul carrello, quando quest'ultimo passasse sotto l'imbuto? Cosa accadrebbe alla velocità del carrello se, invece di lasciare che la sabbia scorresse all'interno, voi la poneste inizialmente all'interno e la lasciaste scorrere verso l'esterno?
 
-## III-10. Una Collisione in due Dimensioni.
+## III-10. Urto in due dimensioni
 
 Abbiamo investigato, anteriormente, le quantità di moto dei corpi che collidono, muovendosi lungo una semplice linea retta. Cosa accade quando, dopo la collisione, i due corpi prendono direzioni diverse? Per scoprirlo, faremo rotolare una palla d'acciaio lungo un piano inclinato, in modo che colpisca leggermente un'altra palla d'acciaio, di uguale dimensione, facendola saltare da un supporto situato vicino all'estremità del tavolo ([[Figure/Fig_Lab_3_23.png|Fig. 23]]). A partire dalle loro masse e velocità, calcoleremo, quindi, le quantità di moto.
 
@@ -269,7 +268,7 @@ Determinare, quindi, usando il filo a piombo, il punto sul pavimento direttament
 
 Unire, con nastro adesivo, quattro fogli di carta velina o carta vegetale, in modo da ottenere un unico grande foglio. Assicurarsi che i fogli non si sovrappongano. Fare lo stesso con quattro fogli di carta carboncino. Posizionare la carta carboncino sul pavimento, con il lato carboncino rivolto verso l'alto, e la carta vegetale sopra di essa; appoggiare dei pesi sulla carta per tenerla ferma. Il piombo deve cadere sulla metà del lato più corto del foglio ([[Figure/Fig_Lab_3_24.png|Fig. 24]]); segnare questo punto. Far rotolare la sfera d'acciaio lungo il righello, a partire dal segno di 25 cm, dieci o quindici volte, e tracciare un cerchio attorno alla distribuzione dei punti ottenuti sul foglio. Fino a che punto la velocità iniziale è sempre la stessa?
 
-![Fig. 24](Figure/Fig_Lab_3_24.png)
+![Fig. 24|300](Figure/Fig_Lab_3_24.png)
 
 Se ora posizioniamo sulla vite la sfera da colpire, e facciamo rotolare un'altra sfera lungo la rampa, le collisioni avverranno prima che la sfera incidente sia sopra la vite.
 La sfera incidente, ritardata dalla collisione, salterà quindi dall'estremità della rampa. Per impedirlo, dobbiamo posizionare la sfera bersaglio più lontano dalla rampa. La posizione esatta della sfera bersaglio dipende dal tipo di collisione che desideriamo (più o meno eccentrica). Per una collisione frontale la vite che sostiene la sfera bersaglio sarà a tre raggi dalla rampa ([[Figure/Fig_Lab_3_25.png|Fig. 25 a]]) e all'altezza che lei l'ha precedentemente regolata, (Si rende conto del perché?). Per una collisione leggera, la vite deve trovarsi a una distanza leggermente maggiore di un raggio dalla rampa ([[Figure/Fig_Lab_3_25.png|Fig. 25 b]]). Tali collisioni sono poco frequenti e, per questo motivo, convenzionalmente, posizioniamo la vite a circa 2,5 raggi dalla rampa ([[Figure/Fig_Lab_3_25.png|Fig. 25 c|]]).
@@ -292,25 +291,27 @@ Confrontare tra loro le componenti delle quantità di moto finali delle due sfer
 
 Per ogni collisione con masse uguali, calcolare il quadrato delle velocità prima e dopo la collisione. Confrontarli. Suggerisce questo che qualcosa di più, oltre la quantità di moto, rimane costante? Effettuare gli stessi calcoli per le collisioni con masse disuguali. Il quadrato delle velocità rimane costante? Per masse disuguali, moltiplicare i quadrati delle velocità per le masse rispettive e confrontare i valori ottenuti. A suo parere, cosa rimane costante oltre la quantità di moto?
 
-## III-11. Collisioni Lente.
+## III-11. Urti lenti
 
 Nelle esperienze già eseguite, il tempo durante il quale avvenivano le collisioni era così breve che era impossibile esaminare dettagliatamente come le velocità si modificassero durante le collisioni. È possibile analizzare solo i cambiamenti finali. Nella presente esperienza, si studieranno, qualitativamente, collisioni molto lente tra due carrelli, e si scoprirà cosa accade mentre interagiscono.
 
-Si utilizzeranno due carrelli caricati ed equipaggiati con molle ammortizzatrici “morbide” ([[Figure/Fig_Lab_3_27.png|Fig. 27]]), e si esaminerà un'interazione simile a quella descritta nel Cap. 24, Sezione 24-5. La forza di interazione, in quel caso, era zero quando la separazione era maggiore della distanza $d$, ed era costante quando la separazione era minore di $d$.
+Si utilizzeranno due carrelli caricati ed equipaggiati con molle ammortizzatrici “morbide” ([[Figure/Fig_Lab_3_27a.png|Fig. 27a]]), e si esaminerà un'interazione simile a quella descritta nel Cap. 24, Sezione 24-5. La forza di interazione, in quel caso, era zero quando la separazione era maggiore della distanza $d$, ed era costante quando la separazione era minore di $d$.
 
-![Fig. 27](Figure/Fig_Lab_3_27.png)
+![Fig. 27a](Figure/Fig_Lab_3_27a.png)
 
-Con le molle ammortizzatrici sui carrelli, l'interazione inizia quando gli ammortizzatori entrano in contatto, e i carrelli sono separati dalla distanza $d$ ([[Figure/Fig_Lab_3_27.png|Fig. 27]]). Man mano che i carrelli si avvicinano durante l'interazione, la forza aumenta, anziché rimanere costante come la forza descritta nel testo. I risultati globali, tuttavia, sono molto vicini, sebbene sia difficile un'analisi matematica accurata dell'interazione. Utilizzando i due carrelli, si sperimenta di riprodurre, con la massima approssimazione possibile, l'interazione descritta nel testo (Sezione 24-5), rendendola molto lenta. Si posizionano tre mattoni sul carrello incidente e uno sul carrello fermo, al fine di ottenere approssimativamente lo stesso rapporto tra le masse dell'esempio del testo.
+![Fig. 27b](Figure/Fig_Lab_3_27b.png)
+
+Con le molle ammortizzatrici sui carrelli, l'interazione inizia quando gli ammortizzatori entrano in contatto, e i carrelli sono separati dalla distanza $d$ ([[Figure/Fig_Lab_3_27b.png|Fig. 27b]]). Man mano che i carrelli si avvicinano durante l'interazione, la forza aumenta, anziché rimanere costante come la forza descritta nel testo. I risultati globali, tuttavia, sono molto vicini, sebbene sia difficile un'analisi matematica accurata dell'interazione. Utilizzando i due carrelli, si sperimenta di riprodurre, con la massima approssimazione possibile, l'interazione descritta nel testo (Sezione 24-5), rendendola molto lenta. Si posizionano tre mattoni sul carrello incidente e uno sul carrello fermo, al fine di ottenere approssimativamente lo stesso rapporto tra le masse dell'esempio del testo.
 
 Durante l'interazione, il carrello incidente perde energia cinetica e il carrello colpito ne guadagna. Cosa si può dire sull'energia cinetica totale, quando i carrelli sono alla distanza minima l'uno dall'altro? Come si confrontano le velocità dei carrelli quando sono separati dalla distanza minima?
 
-Cosa accade nelle collisioni con carrelli dimenamente carichi?
+Cosa accade nelle collisioni con carrelli egualmente carichi?
 
 Come sono influenzati il tempo di interazione e la distanza minima di separazione da: (a) modificazione della massa totale nei carrelli; (b) variazione della velocità del carrello incidente?
 
 Effettuare collisioni con carrelli carichi, facendoli muovere entrambi inizialmente.
 
-## III-12. Variazioni: nell'Energia Potenziale.
+## III-12. Variazioni di energia potenziale
 
 Sospendere una molla attaccata a un supporto con una massa di, approssimativamente, un chilogrammo. Sollevare la massa di alcuni centimetri sopra la sua posizione di equilibrio e lasciarla cadere. In alto e nella parte inferiore del suo movimento, è a riposo. Quando la massa è all'estremità inferiore della traiettoria, la sua energia è immagazzinata nella molla. Nel punto più alto della traiettoria, la sua energia è immagazzinata nel campo gravitazionale. Confrontare la variazione dell'energia gravitazionale con la variazione dell'energia potenziale immagazzinata nella molla.
 
@@ -333,7 +334,7 @@ Quanto vale la somma delle due energie potenziali nell'istante in cui la massa d
 
 Se hai tempo, traccia un grafico della somma delle due energie potenziali in funzione della distensione della molla. Cosa puoi dedurre da questo grafico?
 
-## III-13. L'Energia di un Pendolo Semplice.
+## III-13. L'energia di un pendolo semplice
 
 In un pendolo in oscillazione, l'energia cinetica si trasforma in energia potenziale e viceversa. Possiamo investigare questa trasformazione usando una nastro registratore di tempo, agganciato a un pendolo, per misurare la velocità in diverse posizioni, durante l'oscillazione.
 
@@ -360,18 +361,18 @@ Perché restringiamo l'oscillazione del pendolo a $15^\circ$ o meno, rispetto al
 
 Perché non è stato necessario misurare la massa del mattone per confrontare le energie cinetica e potenziale?
 
-## III-14. Una Collisione Frontale.
+## III-14. Urto frontale
 
 Lo scopo di questo esperimento è investigare le variazioni della quantità di moto e dell'energia cinetica, risultanti da una collisione tra un carrello in movimento e un carrello fermo. La [[Figure/Fig_Lab_3_30.png|Fig. 30]] mostra il dispositivo.
+
+![Fig. 30](Figure/Fig_Lab_3_30.png)
 
 Posiziona il carrello fermo vicino alla metà del tavolo, in modo che entrambi i carrelli possano percorrere distanze sufficientemente lunghe, e che si possano ottenere misure precise delle loro velocità, prima e dopo la collisione.
 Registra il movimento sui nastri, usando combinazioni diverse di masse sui carrelli, ma tieni sempre, almeno, un mattone sul carrello più leggero. Perché è necessario che il carrello inizialmente in movimento abbia una massa uguale o maggiore della massa del carrello fermo?
 
 Realizza un grafico della velocità di ogni carrello in funzione del tempo. Considerando quali sono le velocità dei carrelli immediatamente prima e immediatamente dopo la collisione? Inoltre, a partire dal grafico puoi valutare il tempo di durata della collisione?
 
-Determina, ora, la quantità di moto di ogni carrello prima e dopo la collisione. Confronta la somma delle quantità di moto dei carrelli prima della collisione con la somma delle quantità di moto dopo la collisione.
-
-O que conclude lei? In quali unità ha espresso le quantità di moto?
+Determina, ora, la quantità di moto di ogni carrello prima e dopo la collisione. Confronta la somma delle quantità di moto dei carrelli prima della collisione con la somma delle quantità di moto dopo la collisione. Che cosa conclude? In quali unità ha espresso le quantità di moto?
 
 Calcolare l'energia cinetica dei carrelli prima e dopo la collisione. L'energia cinetica rimane costante? Quale potrebbe essere la causa delle perdite di energia cinetica?
 
