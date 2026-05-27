@@ -45,7 +45,7 @@ Dove sarà l'immagine se l'oggetto viene posto sul fuoco principale? Potete vede
 
 È conveniente studiare la rifrazione della luce in termini dell'angolo di incidenza e dell'angolo di rifrazione. Quando la luce passa dall'aria all'acqua, ad esempio, l'angolo di rifrazione è quello compreso tra un raggio nell'acqua e la normale alla superficie dell'acqua. Cercheremo di stabilire, in questo esperimento, la relazione tra questo angolo e l'angolo di incidenza.
 
-Tracciate, con un puntino, una linea verticale nella parte centrale del lato piano di una scatola semicircolare, di plastica trasparente. Riempirete d'acqua fino a metà della scatola, e allineatela su un pezzo di carta millimetrata, appoggiato su cartone morbido, come indica la [[Figure/Fig_Lab_2_02.png|Fig. 1]], facendo in modo che l’estremità della linea verticale della scatola coincida con l’intersezione di due linee sulla carta.
+Tracciate, con un puntino, una linea verticale nella parte centrale del lato piano di una scatola semicircolare, di plastica trasparente. Riempirete d'acqua fino a metà della scatola, e allineatela su un pezzo di carta millimetrata, appoggiato su cartone morbido, come indica la [[Figure/Fig_Lab_2_02.png|Fig. 2]], facendo in modo che l’estremità della linea verticale della scatola coincida con l’intersezione di due linee sulla carta.
 
 Infilate uno spillo nella linea che passa sotto il centro della scatola, come indica la figura. Assicuratevi che lo spillo sia in posizione verticale.
 
@@ -57,17 +57,17 @@ Che cosa concludete sulla variazione di direzione della luce quando essa passa d
 
 Modificate la posizione del primo spillo per ottenere un angolo di incidenza di circa $20^\circ$. Segnate, con il secondo spillo, il tragitto seguito dalla luce per andare, attraverso l’acqua, dal primo spillo alla linea verticale della scatola.
 
-![Fig. 1](Figure/Fig_Lab_2_02.png)
+![Fig. 2](Figure/Fig_Lab_2_02.png)
 
 Ripetete il procedimento per angoli di incidenza fino a circa $80^\circ$. Al fine di assicurare l’ottenimento di un’immagine nitida del primo spillo per grandi angoli, esso non dovrà mai trovarsi a più di $4 \ \text{cm}$ dalla linea verticale della scatola. I fori degli spilli danno una registrazione permanente degli angoli.
 
 È costante la differenza tra gli angoli di incidenza e di rifrazione? Il loro rapporto è costante?
 
-Tracciate una circonferenza di grande diametro, con centro nel punto in cui i raggi luminosi raggiungono l’acqua, e stabilite, per ciascun caso, il rapporto tra la semicorda AC e la semicorda FD. Vedere [[Figure/Fig_Lab_2_03.png|Fig. 2]].
+Tracciate una circonferenza di grande diametro, con centro nel punto in cui i raggi luminosi raggiungono l’acqua, e stabilite, per ciascun caso, il rapporto tra la semicorda AC e la semicorda FD. Vedere [[Figure/Fig_Lab_2_03.png|Fig. 3]].
 
 Poiché il rapporto tra le semi-corde è uguale al rapporto tra il seno dell'angolo di incidenza e il seno dell'angolo di rifrazione, è più semplice determinare questo rapporto misurando gli angoli e calcolando il rapporto tra i loro seni.
 
-![Fig. 2](Figure/Fig_Lab_2_03.png)
+![Fig. 3](Figure/Fig_Lab_2_03.png)
 
 Rappresentate graficamente il rapporto tra i seni in funzione dell'angolo di incidenza. Rappresentate, inoltre, sullo stesso grafico, il rapporto tra gli angoli in funzione dell'angolo di incidenza. Quale dei rapporti è approssimativamente costante? Quale semplice relazione matematica, secondo voi, rappresenta meglio la rifrazione della luce?
 
@@ -81,7 +81,7 @@ Ripetete l'esperimento, con un altro liquido nel contenitore, e rappresentate gr
 
 Guardate un oggetto attraverso una lente convergente. L'immagine che vedete è più grande o più piccola dell'oggetto? È diritta o invertita? La dimensione e la posizione dell'immagine si modificano quando spostate la lente rispetto all'oggetto?
 
-Per cercare le immagini formate da una lente convergente, disponete una lente e una lampada da torcia, accesa, su una lunga striscia di carta, come indicato nella [[Figure/Fig_Lab_2_04.png|Fig. 1]]. Iniziate con la lampada situata in un'estremità della striscia e localizzate la sua immagine per paralasse,
+Per cercare le immagini formate da una lente convergente, disponete una lente e una lampada da torcia, accesa, su una lunga striscia di carta, come indicato nella [[Figure/Fig_Lab_2_04.png|Fig. 4]]. Iniziate con la lampada situata in un'estremità della striscia e localizzate la sua immagine per paralasse,
 
 L'immagine è diritta o invertita?
 
@@ -90,7 +90,7 @@ Dove (sulla vostra striscia) vi aspettate che si trovi l'immagine, se l'oggetto 
 
 Posizionate, quindi, la lampada il più vicino possibile alla lente, e di nuovo, localizzate l'immagine per parallasse. È diritta o invertita? Allontanate poco a poco l'oggetto dalla lente, segnando e registrando le posizioni dell'oggetto e dell'immagine, finché l'immagine non si trova più sulla striscia.
 
-![Fig.1](Figure/Fig_Lab_2_04.png)
+![Fig. 4](Figure/Fig_Lab_2_04.png)
 
 Misurate, per le coppie di punti, la distanza dai fuochi principali all'oggetto e all'immagine, rispettivamente $S_0$ e $S_1$ (Si misura la distanza $S_0$ dal fuoco principale della lente, sul lato dove si trova l'oggetto, e $S_1$ è sempre misurata dal fuoco principale sul lato opposto a quello dove si trova l'oggetto). Come $S_1$ diminuisce nettamente, man mano che $S_0$ aumenta,
 
@@ -102,9 +102,9 @@ Dove sarà l'immagine se l'oggetto fosse posto sul fuoco principale? Potete vede
 
 Una sfera d'acciaio, che rotola lungo una superficie orizzontale, si muove in linea retta, con velocità praticamente costante. Se la sfera intercetta una rampa obliquamente, il guadagno di velocità, man mano che scende la rampa, ne modificherà la direzione. La sfera lascerà la base della rampa in linea retta, in una direzione diversa da quella primitiva.
 
-Il percorso descritto da una sfera, muovendosi in questo modo, assomiglia a quello seguito dalla luce quando si rifrange passando, ad esempio, dall'aria al vetro. Quando passa dalla parte superiore alla base della rampa, la sfera cambia direzione; sulla superficie di separazione di due mezzi, la luce cambia direzione. Nel modello, pertanto, il piano superiore corrisponde a un mezzo (aria), il piano inferiore all'altro mezzo (vetro), e la rampa rappresenta la superficie di separazione dei mezzi. Usando l'apparecchio indicato nella [[Figure/Fig_Lab_2_05.png|Fig. 1]], analizzeremo i percorsi delle particelle “rifratte”, per verificare se il cambiamento della loro direzione obbedisce alla legge di Snell.
+Il percorso descritto da una sfera, muovendosi in questo modo, assomiglia a quello seguito dalla luce quando si rifrange passando, ad esempio, dall'aria al vetro. Quando passa dalla parte superiore alla base della rampa, la sfera cambia direzione; sulla superficie di separazione di due mezzi, la luce cambia direzione. Nel modello, pertanto, il piano superiore corrisponde a un mezzo (aria), il piano inferiore all'altro mezzo (vetro), e la rampa rappresenta la superficie di separazione dei mezzi. Usando l'apparecchio indicato nella [[Figure/Fig_Lab_2_05.png|Fig. 5]], analizzeremo i percorsi delle particelle “rifratte”, per verificare se il cambiamento della loro direzione obbedisce alla legge di Snell.
 
-![Figura 1. Disporre due superfici orizzontali collegate da una piccola rampa. Assicurarsi che le due superfici siano livellate. Attaccare, su ogni superficie, un foglio di carta bianca, in modo che i suoi bordi coincidano con le estremità della parte superiore e della base della rampa, e coprite i fogli bianchi con fogli di carta carbone sottile.](Figure/Fig_Lab_2_05.png)
+![Figura 5. Disporre due superfici orizzontali collegate da una piccola rampa. Assicurarsi che le due superfici siano livellate. Attaccare, su ogni superficie, un foglio di carta bianca, in modo che i suoi bordi coincidano con le estremità della parte superiore e della base della rampa, e coprite i fogli bianchi con fogli di carta carbone sottile.](Figure/Fig_Lab_2_05.png)
 
 Fate rotolare una sfera d’acciaio lungo tutta la guida del blocco-rampa ausiliario, sul piano superiore, in modo che raggiunga la rampa obliquamente. Rimuovete la carta carbone e, per l’identificazione, segnate le tracce lasciate dalla sfera sui piani superiore e inferiore. Ripetete il procedimento cinque o sei volte, per differenti angoli di incidenza, avendo sempre cura che la posizione di partenza della sfera sul blocco-rampa sia la stessa, per darle, in tutti i casi, la medesima velocità iniziale.
 
@@ -116,17 +116,17 @@ Potreste fare una “lente” che focalizzasse sfere in movimento?
 
 Il modello corpuscolare della luce predice che l’intensità di illuminazione dovuta a una sorgente puntuale sarà inversamente proporzionale al quadrato della distanza dalla sorgente. Verificheremo questa previsione misurando l’illuminazione a differenti distanze da una sorgente di luce.
 
-Quando collochiamo una matita tra uno schermo e due sorgenti di luce A e B, disposte come nella [[Figure/Fig_Lab_2_06.png|Fig. 1]], entrambe le sorgenti proietteranno, sullo schermo, un’ombra della matita. ogni sorgente illuminerà l'ombra prodotta dall'altra. Essendo le due ombre vicine o leggermente sovrapposte, le loro illuminazioni possono essere confrontate con precisione. Se muoviamo la sorgente B, avvicinandola o allontanandola dallo schermo, finché le due ombre non si mostrano ugualmente illuminate, l'illuminazione di A sarà, quindi, uguale a quella di B.
+Quando collochiamo una matita tra uno schermo e due sorgenti di luce A e B, disposte come nella [[Figure/Fig_Lab_2_06.png|Fig. 6]], entrambe le sorgenti proietteranno, sullo schermo, un’ombra della matita. ogni sorgente illuminerà l'ombra prodotta dall'altra. Essendo le due ombre vicine o leggermente sovrapposte, le loro illuminazioni possono essere confrontate con precisione. Se muoviamo la sorgente B, avvicinandola o allontanandola dallo schermo, finché le due ombre non si mostrano ugualmente illuminate, l'illuminazione di A sarà, quindi, uguale a quella di B.
 
-![Fig. 1](Figure/Fig_Lab_2_06.png)
+![Fig. 6](Figure/Fig_Lab_2_06.png)
 
 Se disponiamo due lampade identiche in A, presumiamo che l'illuminazione sullo schermo dovuta ad A sia il doppio dell'illuminazione prodotta da una singola lampada. Dobbiamo quindi avvicinare B allo schermo per ottenere ombre ugualmente illuminate. Se impieghiamo tre lampade in A, dobbiamo avvicinare B ancora di più, per ottenere ombre ugualmente illuminate. Modificando, per multipli noti, l'illuminazione prodotta da A sullo schermo, possiamo scoprire come varia l'illuminazione di B con la sua distanza dallo schermo.
 
 Assicuratevi, prima di iniziare l'esperimento, che tutte le lampade che utilizzerete in A forniscano la stessa illuminazione sullo schermo. Come farete questo?
 
-![Fig. 2](Figure/Fig_Lab_2_07.png)
+![Fig. 7](Figure/Fig_Lab_2_07.png)
 
-Impiegando una, due, tre e quattro lampade, montate sulla stessa verticale, come indica la [[Figure/Fig_Lab_2_07.png|Fig. 2]], verificate in quali posizioni deve essere collocata la lampada B per produrre illuminazioni uguali alle diverse illuminazioni di A. Perché le lampade devono essere montate secondo una verticale? I vostri risultati confermano la legge dell'inverso del quadrato, prevista dal modello corpuscolare? Un'illuminazione estemporanea dello schermo introdurrebbe errori nei vostri risultati,
+Impiegando una, due, tre e quattro lampade, montate sulla stessa verticale, come indica la [[Figure/Fig_Lab_2_07.png|Fig. 7]], verificate in quali posizioni deve essere collocata la lampada B per produrre illuminazioni uguali alle diverse illuminazioni di A. Perché le lampade devono essere montate secondo una verticale? I vostri risultati confermano la legge dell'inverso del quadrato, prevista dal modello corpuscolare? Un'illuminazione estemporanea dello schermo introdurrebbe errori nei vostri risultati,
 
 come la riflessione proveniente da una camicia bianca o della luce dell'apparecchio del vicino?
 
@@ -151,19 +151,19 @@ spostandosi lungo lo stesso lato e dai lati opposti della molla.
 
 Quando gli impulsi si incontrano, come si confronta lo spostamento massimo della molla con lo spostamento massimo di ciascun impulso indipendentemente? È possibile determinare lo spostamento maggiore di un impulso individuale muovendo la mano su una distanza definita, provocando l'impulso. Un terzo collega potrà segnare, con gesso, lo spostamento maggiore della molla quando gli impulsi si incontrano.
 
-Possiamo investigare il passaggio di onde da un mezzo a un altro, unendo due molle in spirale, nelle quali le onde si propagano con velocità diverse ([[Figure/Fig_Lab_2_08.png|Fig. 1]]). Inviare un impulso inizialmente in una direzione e, dopo, nell'altra. Cosa succede quando gli impulsi raggiungono la giunzione tra le due molle?
+Possiamo investigare il passaggio di onde da un mezzo a un altro, unendo due molle in spirale, nelle quali le onde si propagano con velocità diverse ([[Figure/Fig_Lab_2_08.png|Fig. 8]]). Inviare un impulso inizialmente in una direzione e, dopo, nell'altra. Cosa succede quando gli impulsi raggiungono la giunzione tra le due molle?
 
-![Fig. 1](Figure/Fig_Lab_2_08.png)
+![Fig. 8](Figure/Fig_Lab_2_08.png)
 
-Attaccare un filo, lungo e sottile, a una molla ([[Figure/Fig_Lab_2_09.png|Fig. 2]]). Come si riflette un impulso inviato lungo la molla, quando raggiunge il filo? Come si confronta questa riflessione con quella che avviene in un estremo fisso? La velocità dell'impulso sul filo è maggiore o minore di quella sulla molla?
+Attaccare un filo, lungo e sottile, a una molla ([[Figure/Fig_Lab_2_09.png|Fig. 9]]). Come si riflette un impulso inviato lungo la molla, quando raggiunge il filo? Come si confronta questa riflessione con quella che avviene in un estremo fisso? La velocità dell'impulso sul filo è maggiore o minore di quella sulla molla?
 
-![Fig. 2](Figure/Fig_Lab_2_09.png)
+![Fig. 9](Figure/Fig_Lab_2_09.png)
 
 ## II-8. Impulsi in una vasca d'onde
 
-Montare una vasca d'onde, un pannello di fondo e una fonte di luce, come indicato nella [[Figure/Fig_Lab_2_10.png|Fig. 1]]. Riempire la vasca d'acqua fino a un'altezza di $\frac{1}{2}$ a $\frac{3}{4}$ cm e misurare questa altezza nei quattro angoli, per assicurarsi che il recipiente sia livellato.
+Montare una vasca d'onde, un pannello di fondo e una fonte di luce, come indicato nella [[Figure/Fig_Lab_2_10.png|Fig. 10]]. Riempire la vasca d'acqua fino a un'altezza di $\frac{1}{2}$ a $\frac{3}{4}$ cm e misurare questa altezza nei quattro angoli, per assicurarsi che il recipiente sia livellato.
 
-![Fig. 1 (Il dettaglio mostra come deve essere posizionato l'ammortizzatore)](Figure/Fig_Lab_2_10.png)
+![Fig. 10 (Il dettaglio mostra come deve essere posizionato l'ammortizzatore)](Figure/Fig_Lab_2_10.png)
 
 Si dispone, ora, di uno strumento molto comodo per studiare il comportamento delle onde;
 
@@ -178,9 +178,9 @@ Invece di fare misurazioni dirette per rispondere quantitativamente all'ultima d
 
 Curvare un pezzo di tubo di gomma, di grande diametro,
 
-Come mostra la [[Figure/Fig_Lab_2_11.png|Fig. 2]]. La forma che le viene data è molto vicina a quella di una parabola. Cosa osserva quando usa questo tubo, nel bacino, come una superficie riflettore di pulsazioni rettilinee? Localizzi il fuoco della parabola a partire dalla riflessione delle pulsazioni rettilinee e segnali il punto sul pannello. Tenta di seguire il movimento di vari piccoli segmenti del impulso. Come indicherebbe la direzione del movimento di ogni segmento? 2 Come si relaziona il suo modo di indicarlo con i raggi di luce? I raggi che rappresentano la direzione iniziale dell'impulso sono paralleli?
+Come mostra la [[Figure/Fig_Lab_2_11.png|Fig. 11]]. La forma che le viene data è molto vicina a quella di una parabola. Cosa osserva quando usa questo tubo, nel bacino, come una superficie riflettore di pulsazioni rettilinee? Localizzi il fuoco della parabola a partire dalla riflessione delle pulsazioni rettilinee e segnali il punto sul pannello. Tenta di seguire il movimento di vari piccoli segmenti del impulso. Come indicherebbe la direzione del movimento di ogni segmento? 2 Come si relaziona il suo modo di indicarlo con i raggi di luce? I raggi che rappresentano la direzione iniziale dell'impulso sono paralleli?
 
-![Fig. 2](Figure/Fig_Lab_2_11.png)
+![Fig. 11](Figure/Fig_Lab_2_11.png)
 
 Produca pulsazioni circolari nel fuoco della parabola. Qual è la forma dell'impulso riflesso? Ci sono altri punti che forniranno lo stesso risultato? Per spiegare le sue osservazioni, cosa deve supporre riguardo alla relazione tra gli angoli di incidenza e di riflessione?
 
@@ -190,7 +190,7 @@ L'equazione $v = f\lambda$, che relaziona la velocità, la frequenza e la lunghe
 
 Assemblare il generatore di onde rettilinee, come indicato nella [[Figure/Fig_Lab_2_12.png|Fig. 1]] (l'altezza dell'acqua deve essere di $\frac{1}{2}$ a $\frac{3}{4}$ cm). Esercitarsi, utilizzandolo con diverse frequenze. Osservare le onde attraverso il suo stroboscopio (2 o 4 fessure aperte) e "fermare" il suo movimento.
 
-![Fig. 1](Figure/Fig_Lab_2_12.png)
+![Fig. 12](Figure/Fig_Lab_2_12.png)
 
 Regolare il generatore di onde per una frequenza bassa e chiedere al suo compagno di aiutarla a misurare la frequenza di rotazione dello stroboscopio, mentre si “ferma” le onde. Come si relaziona questa frequenza con quella delle onde?
 
@@ -198,16 +198,14 @@ Per determinare la lunghezza d'onda, “ferma” con lo stroboscopio, la figura 
 
 Esegui diverse misurazioni della frequenza e della lunghezza d'onda, e calcola la velocità di propagazione. Con quale precisione hai determinato la velocità? Osserva che hai misurato la lunghezza d'onda dell'immagine delle onde sul pannello. Come si relaziona questa lunghezza d'onda apparente con la lunghezza d'onda reale delle onde nell'acqua?
 
-La figura delle onde può essere fermata posizionando un ostacolo nel mezzo della vasca, come indica la [[Figure/Fig_Lab_2_13.png|Fig. 2]]. Le onde incidenti e riflesse si sovrappongono per dare una figura stazionaria — cioè, un'onda stazionaria. Come si confronta la distanza tra due frange luminose nell'onda stazionaria con la distanza nell'onda in movimento? Puoi misurare la lunghezza d'onda a partire dalla figura delle onde stazionarie?
+La figura delle onde può essere fermata posizionando un ostacolo nel mezzo della vasca, come indica la [[Figure/Fig_Lab_2_13.png|Fig. 13]]. Le onde incidenti e riflesse si sovrappongono per dare una figura stazionaria — cioè, un'onda stazionaria. Come si confronta la distanza tra due frange luminose nell'onda stazionaria con la distanza nell'onda in movimento? Puoi misurare la lunghezza d'onda a partire dalla figura delle onde stazionarie?
 
-![Fig. 2](Figure/Fig_Lab_2_13.png)
+![Fig. 13](Figure/Fig_Lab_2_13.png)
 
 Puoi verificare una modifica della velocità, quando l'altezza dell'acqua è modificata: Ra per approssimativamente 2 cm?
 
 Con un leggero movimento della mano, produci un'onda periodica su una molla elicoidale, Regola la frequenza finché non si forma un'onda stazionaria. Misurando la lunghezza d'onda e la frequenza, determina la velocità dell'onda sulla molla.
-Senza modificare la lunghezza della molla,
-
-Puoi produrre onde stazionarie di lunghezza d'onda a tua scelta?
+Senza modificare la lunghezza della molla, puoi produrre onde stazionarie di lunghezza d'onda a tua scelta?
 
 Prendi, estremità a estremità, due molle elicoidali attraverso le quali si propagano impulsi di velocità diverse. Sperimenta di produrre, su entrambe, un'onda stazionaria. Fissa un'estremità della coppia e muovi l'altra estremità. Come si confrontano, nei due mezzi, le frequenze, le lunghezze d'onda e le velocità?
 
@@ -218,15 +216,15 @@ Nell'Esperimento II-9, abbiamo verificato che la velocità delle onde nell'acqua
 Posizionare una lastra di vetro nel bacino d'onde, in modo che la sua superficie superiore sia, almeno, a 1,5 cm sopra il fondo del bacino.
 Aggiungere altra acqua nel recipiente, osservando che l'altezza sopra la lastra non sia superiore a 0,2 cm. Assicurarsi dell'uniformità dell'altezza dell'acqua sopra la lastra di vetro.
 
-Cosa accadrà se onde periodiche rette, originate nell'acqua profonda, passano nell'acqua più bassa, se il limite tra i due mezzi è parallelo al generatore di onde ([[Figure/Fig_Lab_2_14.png|Fig. 1]])? Verificare la previsione, considerando onde di frequenza molto bassa e usando uno stroboscopio.
+Cosa accadrà se onde periodiche rette, originate nell'acqua profonda, passano nell'acqua più bassa, se il limite tra i due mezzi è parallelo al generatore di onde ([[Figure/Fig_Lab_2_14.png|Fig. 14]])? Verificare la previsione, considerando onde di frequenza molto bassa e usando uno stroboscopio.
 
-![Fig. 1](Figure/Fig_Lab_2_14.png)
+![Fig. 14](Figure/Fig_Lab_2_14.png)
 
-Ruotare, quindi, la lastra di vetro, in modo che il limite non sia più parallelo alle onde incidenti ([[Figure/Fig_Lab_2_15.png|Fig. 2]]).
+Ruotare, quindi, la lastra di vetro, in modo che il limite non sia più parallelo alle onde incidenti ([[Figure/Fig_Lab_2_15.png|Fig. 15]]).
 
 Le onde rifratte sono rette? Come si confronta l'angolo di rifrazione con l'angolo di incidenza? Come si confrontano le lunghezze d'onda nelle due sezioni? E, per quanto riguarda le velocità? Lasciando il generatore in funzione (per mantenere la frequenza costante), sperimentate altri angoli di incidenza.
 
-![Fig. 2](Figure/Fig_Lab_2_15.png)
+![Fig. 15](Figure/Fig_Lab_2_15.png)
 
 Considerando in quale mezzo la velocità della luce è maggiore, un modello ondulatorio si adatta meglio alla rifrazione della luce di un modello corpuscolare?
 
@@ -236,17 +234,17 @@ Stabilire una relazione quantitativa tra gli angoli di incidenza e di rifrazione
 
 Un oggetto opaco, posto nel percorso di un fascio parallelo di luce, proietterà su un pannello situato dietro di esso, un'ombra nitida. L'ombra avrà la stessa dimensione dell'oggetto. Cosa succede quando mettiamo un ostacolo nel percorso di un'onda retta?
 
-Posizionare, nella vasca d'onde, un blocco di paraffina, piccolo e liscio, a circa 10 cm dal generatore di onde rette ([[Figure/Fig_Lab_2_16.png|Fig. 1]]), e produrre onde periodiche di elevata lunghezza d'onda. Le onde continuano il loro percorso rettilineo, su entrambi i lati del blocco? Sarebbe in grado di sospettare la presenza del blocco osservando la figura solo nelle vicinanze dell'estremità più lontana del pannello? Il blocco proietta un'ombra nitida?
+Posizionare, nella vasca d'onde, un blocco di paraffina, piccolo e liscio, a circa 10 cm dal generatore di onde rette ([[Figure/Fig_Lab_2_16.png|Fig. 16]]), e produrre onde periodiche di elevata lunghezza d'onda. Le onde continuano il loro percorso rettilineo, su entrambi i lati del blocco? Sarebbe in grado di sospettare la presenza del blocco osservando la figura solo nelle vicinanze dell'estremità più lontana del pannello? Il blocco proietta un'ombra nitida?
 
-![Fig. 1](Figure/Fig_Lab_2_16.png)
+![Fig. 16](Figure/Fig_Lab_2_16.png)
 
 Qual è l'effetto sulla figura, dietro il blocco, quando la lunghezza d'onda è ridotta dall'aumento della frequenza? (Per ottenere onde nitide ad alta frequenza, il generatore deve avere una superficie molto liscia. Assicurarsi che non ci siano bolle nel suo estremo). Per frequenze elevate, la figura è meglio visibile, osservandola attraverso uno stroboscopio con tutte le tende scoperte. In quali circostanze si aspetterebbe un'ombra nitida proiettata dal blocco?
 
 Facciamo passare un fascio parallelo di luce attraverso una piccola apertura. Mantenendo un pannello dietro l'apertura, vedremo una macchia di luce di dimensione uguale a quella dell'apertura.
 
-È possibile produrre una situazione analoga nella vasca d'onde ([[Figure/Fig_Lab_2_17.png|Fig. 2]]). Le onde di grande lunghezza d'onda sono ancora dritte, oltre la fessura? Le onde continuano a muoversi nella loro direzione primitiva? Cosa succede se si diminuisce, poco a poco, la lunghezza d'onda? Mostrare, in alcuni disegni, come si modifica la figura.
+È possibile produrre una situazione analoga nella vasca d'onde ([[Figure/Fig_Lab_2_17.png|Fig. 17]]). Le onde di grande lunghezza d'onda sono ancora dritte, oltre la fessura? Le onde continuano a muoversi nella loro direzione primitiva? Cosa succede se si diminuisce, poco a poco, la lunghezza d'onda? Mostrare, in alcuni disegni, come si modifica la figura.
 
-![Fig. 2](Figure/Fig_Lab_2_17.png)
+![Fig. 17](Figure/Fig_Lab_2_17.png)
 
 Ora che si è osservato l'effetto della lunghezza d'onda sulla figura d'onde dietro la fessura, come sarà influenzata la figura con la variazione della larghezza della fessura? Sperimentarlo con una lunghezza d'onda media. Come si deve regolare la lunghezza d'onda per compensare la modifica nella figura?
 
@@ -270,18 +268,18 @@ Vi ricordate che le onde rette che passano attraverso una fessura stretta sono f
 
 Nell'esperimento precedente, abbiamo investigato la figura di interferenza prodotta da due sorgenti puntuali in fase. In questo esperimento impareremo come una modifica nella differenza di fase tra le due sorgenti puntuali influenzi la direzione delle linee nodali nella figura di interferenza.
 
-Nella [[Figure/Fig_Lab_2_18.png|Fig. 1]] si mostra un generatore in cui può essere regolata la differenza di fase. Scegli una distanza tra le fonti e una lunghezza d'onda uguale a quelle usate nell'esperimento precedente, e regola i limiti in fase. Ottieni lo stesso tipo di figura che è risultato con il tuo generatore comune?
+Nella [[Figure/Fig_Lab_2_18.png|Fig. 18]] si mostra un generatore in cui può essere regolata la differenza di fase. Scegli una distanza tra le fonti e una lunghezza d'onda uguale a quelle usate nell'esperimento precedente, e regola i limiti in fase. Ottieni lo stesso tipo di figura che è risultato con il tuo generatore comune?
 
-![Figura 1. Accoppiato all'albero del motore, su ciascun lato, si trova un eccentrico. Se entrambi sono situati verso l'alto, contemporaneamente, le fonti sono in fase. Se uno è verso l'alto e l'altro verso il basso, il ritardo della luce è un mezzo](Figure/Fig_Lab_2_18.png)
+![Figura 18. Accoppiato all'albero del motore, su ciascun lato, si trova un eccentrico. Se entrambi sono situati verso l'alto, contemporaneamente, le fonti sono in fase. Se uno è verso l'alto e l'altro verso il basso, il ritardo della luce è un mezzo](Figure/Fig_Lab_2_18.png)
 
 Modifica quindi la fase, poco a poco, e osserva il cambiamento nella direzione delle linee nel visuale. Prendendo come riferimento la figura in fase, qual è il cambiamento nella posizione della prima linea nodale, man mano che si varia la differenza di fase da zero a uno? Come si modifica la posizione della seconda linea nodale?
 
 Se potessi cambiare la fase delle fonti mentre il generatore è in funzione, quale aspetto ti aspetteresti di trovare nella figura di interferenza?
 
-Usando i due generatori come indicato nella [[Figure/Fig_Lab_2_19.png|Fig. 2]], puoi modificare la differenza di fase tra le due fonti, utilizzando solo un'interruzione molto breve delle onde.
+Usando i due generatori come indicato nella [[Figure/Fig_Lab_2_19.png|Fig. 19]], puoi modificare la differenza di fase tra le due fonti, utilizzando solo un'interruzione molto breve delle onde.
 Muovi gli estremi dei due appendiatoi: osserva la formazione di linee nodali man mano che le onde si propagano. Le linee nodali sono stazionarie? Le due fonti hanno la stessa frequenza?
 
-![Figura 2. Ogni fonte puntuale consiste in un appendiatoio con una sfera e un terminale "coccodrillo" collegati come mostrato nella figura,](Figure/Fig_Lab_2_19.png)
+![Figura 19. Ogni fonte puntuale consiste in un appendiatoio con una sfera e un terminale "coccodrillo" collegati come mostrato nella figura,](Figure/Fig_Lab_2_19.png)
 
 Il movimento dei cursori permette di regolare la frequenza. È importante che le fonti siano saldamente fissate a basi pesanti.
 
@@ -293,19 +291,19 @@ Cosa si aspetterebbe di vedere se potesse modificare, molto rapidamente, la fase
 
 Abbiamo già verificato la figura di interferenza prodotta, in una vasca d'onde, da due fonti puntuali. Se osserviamo due fonti di luce in fase, ci aspettiamo di vedere, in certe direzioni, luce di intensità massima e, nessuna luce in altre direzioni (le assenze delle linee nodali). A partire dalla direzione delle linee nodali e dalla distanza tra le fonti, possiamo calcolare la lunghezza d'onda della luce.
 
-Due fessure strette illuminate da una lampada del tipo usato nell'illuminazione delle vetrine forniranno le due fonti. Nella [[Figure/Fig_Lab_2_20.png|Fig. 1]] si spiega come sono preparate. Posizionarsi a una distanza di circa 2 metri, guardando attraverso le fessure nella direzione del filamento della lampada. Facendo riferimento alla [[Figure/Fig_Lab_2_21.png|Fig. 2]], spieghi perché si vedono bande scure e illuminate.
+Due fessure strette illuminate da una lampada del tipo usato nell'illuminazione delle vetrine forniranno le due fonti. Nella [[Figure/Fig_Lab_2_20.png|Fig. 20]] si spiega come sono preparate. Posizionarsi a una distanza di circa 2 metri, guardando attraverso le fessure nella direzione del filamento della lampada. Facendo riferimento alla [[Figure/Fig_Lab_2_21.png|Fig. 21]], spieghi perché si vedono bande scure e illuminate.
 
-![Figura 1. Coprire una lastra di vetro con una sospensione colloidale di grafite e lasciarla asciugare. Disegnare un paio di lenti, come mostra la figura,](Figure/Fig_Lab_2_20.png)
+![Figura 20. Coprire una lastra di vetro con una sospensione colloidale di grafite e lasciarla asciugare. Disegnare un paio di lenti, come mostra la figura,](Figure/Fig_Lab_2_20.png)
 
 Tenendo insieme e leggermente le lamelle di rasoio, e facendo poca pressione. Preparare diversi coppie di fessure. Selezionare, per usare, quelle che mostrano chiaramente, almeno, tre linee bianche quando si guarda la lampada. Incidere una "finestra" attraverso ogni coppia di fessure. Ciò le permetterà di vedere la figura attraverso le fessure e, simultaneamente, di leggere su una scala. Per impedire danni alle fessure, è conveniente coprire la lamella rivestita con una lamella pulita e unirle con carta gommata.
 
-![Fig. 2](Figure/Fig_Lab_2_21.png)
+![Fig. 21](Figure/Fig_Lab_2_21.png)
 
 Potete spiegare perché sono colorate le strisce vicine all'estremità della figura? Come influenza la figura il fatto di coprire parte della lampada con cellophane rosso?
 
-Coprite, quindi, tutta la lampada con cellophane rosso, e posizionate, un po' sopra di essa, un righello, come indicato nella [[Figure/Fig_Lab_2_22.png|Fig. 3]]. Come determinerete sen 6, per la linea nodale più distante e facilmente visibile? Potete determinare la distanza tra le fessure misurando, tramite micrometro ottico, lo spessore di una delle lamelle di rasoio. Qual è la lunghezza d'onda della luce rossa?
+Coprite, quindi, tutta la lampada con cellophane rosso, e posizionate, un po' sopra di essa, un righello, come indicato nella [[Figure/Fig_Lab_2_22.png|Fig. 22]]. Come determinerete sen 6, per la linea nodale più distante e facilmente visibile? Potete determinare la distanza tra le fessure misurando, tramite micrometro ottico, lo spessore di una delle lamelle di rasoio. Qual è la lunghezza d'onda della luce rossa?
 
-![Figura 3. La figura di interferenza e gli indici di carta sul righello possono essere visti simultaneamente, guardando, allo stesso tempo, attraverso le fessure e la "finestra". Il cellophane è attaccato alla lampada con elastici.](Figure/Fig_Lab_2_22.png)
+![Figura 22. La figura di interferenza e gli indici di carta sul righello possono essere visti simultaneamente, guardando, allo stesso tempo, attraverso le fessure e la "finestra". Il cellophane è attaccato alla lampada con elastici.](Figure/Fig_Lab_2_22.png)
 
 Ripetete le vostre misurazioni per verificare l'origine del maggiore errore. Che precisione presenta la vostra determinazione della lunghezza d'onda?
 
@@ -327,7 +325,7 @@ Confrontate i diagrammi ottenuti con doppie fessure e singole fessure. Usate luc
 
 Possiamo studiare la risoluzione qualitativamente guardando, attraverso piccole aperture, due piccole fonti di luce, vicine tra loro. Le fonti di luce possono essere minuscoli orifizi fatti su una foglia di alluminio posta di fronte alla lampada di una vasca d'onde,
 
-e le aperture attraverso cui guardiamo possono essere fori di diverse dimensioni praticati in un altro pezzo di foglio di alluminio. La [[Figure/Fig_Lab_2_23.png|Fig. 1]] mostra un allestimento di questo tipo.
+e le aperture attraverso cui guardiamo possono essere fori di diverse dimensioni praticati in un altro pezzo di foglio di alluminio. La [[Figure/Fig_Lab_2_23.png|Fig. 23]] mostra un allestimento di questo tipo.
 
 Guardi le due sorgenti, con un occhio, da una distanza di circa un metro. Si assicuri che la luce forte, proveniente direttamente dal filamento, raggiunga la sua vista attraverso i due fori che costituiscono le due sorgenti. È in grado di risolvere le sorgenti, con il suo occhio, in due punti distinti di luce? Qual è la dimensione dell'apertura attraverso cui esamina le sorgenti?
 
@@ -337,17 +335,17 @@ Mentre guarda le sorgenti attraverso l'apertura che le risolve esattamente, chie
 
 Qual sarebbe l'aspetto delle sorgenti se fossero più grandi, ma la distanza tra i loro bordi interni rimanesse uguale?
 
-![Figura 1a. Per ottenere le sorgenti, faccia con un ago, su un foglio di alluminio, due fori distanziati di circa 3/4 cm. Posizionare il foglio direttamente di fronte al filamento della lampada da 150 watt. La figura a sinistra mostra i fori attraverso i quali vengono esaminate le fonti. Per fare questi fori, pizzicare una striscia di foglio di alluminio con la punta di un ago, in modo che il foro più grande abbia lo spessore dell'ago, e quello più piccolo sia appena sufficiente per far passare la luce.](Figure/Fig_Lab_2_23.png)
+![Figura 23. Per ottenere le sorgenti, faccia con un ago, su un foglio di alluminio, due fori distanziati di circa 3/4 cm. Posizionare il foglio direttamente di fronte al filamento della lampada da 150 watt. La figura a sinistra mostra i fori attraverso i quali vengono esaminate le fonti. Per fare questi fori, pizzicare una striscia di foglio di alluminio con la punta di un ago, in modo che il foro più grande abbia lo spessore dell'ago, e quello più piccolo sia appena sufficiente per far passare la luce.](Figure/Fig_Lab_2_23.png)
 
-![Figura 1b](Figure/Fig_Lab_2_24.png)
+![Figura 24](Figure/Fig_Lab_2_24.png)
 
 ## II-17. Misura di piccole distanze per interferenza
 
 Uno strato sottile d'aria tra due lastre di vetro produce effetti di luce simili a quelli visti in una bolla di sapone. Per verificarlo, posizionare, su uno sfondo nero, due lastre di vetro, recentemente pulite, lunghe circa 20 cm. Oscurare la stanza e illuminare la lastra con luce verde o gialla. Se le lastre di vetro sono ben piatte, si vedranno alcuni anelli irregolari di luce riflessa dal vetro. Cosa origina questi anelli?
 
-Premere le lastre, verso il basso, con una matita. È possibile far muovere una delle bande luminose, occupando il posto di una banda adiacente? Se è così, di quanto si è avvicinata la lastra superiore a quella inferiore nel punto considerato? È possibile misurare lo spessore di un pezzo di tessuto molto sottile, inserendolo tra le lastre, in un'estremità ([[Figure/Fig_Lab_2_25.png|Fig. 1]]). Assicurarsi che il tessuto sia liscio e che le lastre siano ben pulite. (Mantenere le lastre saldamente unite tramite elastici posizionati vicino a ciascun estremo).
+Premere le lastre, verso il basso, con una matita. È possibile far muovere una delle bande luminose, occupando il posto di una banda adiacente? Se è così, di quanto si è avvicinata la lastra superiore a quella inferiore nel punto considerato? È possibile misurare lo spessore di un pezzo di tessuto molto sottile, inserendolo tra le lastre, in un'estremità ([[Figure/Fig_Lab_2_25.png|Fig. 25]]). Assicurarsi che il tessuto sia liscio e che le lastre siano ben pulite. (Mantenere le lastre saldamente unite tramite elastici posizionati vicino a ciascun estremo).
 
-![Fig. 1](Figure/Fig_Lab_2_25.png)
+![Fig. 25](Figure/Fig_Lab_2_25.png)
 
 Quanto varia la distanza tra le piastre tra due bande luminose adiacenti? Conta il numero di bande luminose comprese in un'estensione di 2 cm. (Una lente d'ingrandimento ti aiuterà). Qual è lo spessore del materiale? Confronta il tuo risultato con quello ottenuto con un palmer.
 Qual è più preciso?
